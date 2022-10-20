@@ -1,0 +1,5117 @@
+[
+    {
+        "id": "JUL001",
+        "magnet": "magnet:?xt=urn:btih:1da046001a203f050947be77ed99ba28af19b435&dn=[javdb.com]jul-001.torrent",
+        "title": "JUL001"
+    },
+    {
+        "id": "JUL002",
+        "magnet": "magnet:?xt=urn:btih:235bd522a4f7fa27dd7c06e18f84c981dc61fb80&dn=[javdb.com]JUL-002-C.torrent",
+        "title": "JUL002"
+    },
+    {
+        "id": "JUL003",
+        "magnet": "magnet:?xt=urn:btih:74a7332b188f4d4726001c496e7c5b65366e5f67&dn=[javdb.com]JUL-003-C.torrent",
+        "title": "JUL003"
+    },
+    {
+        "id": "JUL004",
+        "magnet": "magnet:?xt=urn:btih:9d51cea41d279801cf72c73305717be6e58f52e7&dn=[javdb.com]jul-004.torrent",
+        "title": "JUL004"
+    },
+    {
+        "id": "JUL005",
+        "magnet": "magnet:?xt=urn:btih:04120ecd14a81b0467f359cbdd0a83d66493de3b&dn=[javdb.com]jul-005-C.torrent",
+        "title": "JUL005"
+    },
+    {
+        "id": "JUL006",
+        "magnet": "magnet:?xt=urn:btih:bda92063a397d20a33fa1373016b333884c8e9eb&dn=[javdb.com]jul-006.torrent",
+        "title": "JUL006"
+    },
+    {
+        "id": "JUL007",
+        "magnet": "magnet:?xt=urn:btih:a48e00081ab9b7b684e19773be8eb63d9478c8e6&dn=[javdb.com]jul-007.torrent",
+        "title": "JUL007"
+    },
+    {
+        "id": "JUL008",
+        "magnet": "magnet:?xt=urn:btih:b35e5af41d0742dc5e76df4f6e70bf32256bd163&dn=[javdb.com]jul-008.torrent",
+        "title": "JUL008"
+    },
+    {
+        "id": "JUL009",
+        "magnet": "magnet:?xt=urn:btih:b7f1d12fcba0d913bd0e075bf9784bfc6ad2f570&dn=[javdb.com]JUL-009-C.torrent",
+        "title": "JUL009"
+    },
+    {
+        "id": "JUL010",
+        "magnet": "magnet:?xt=urn:btih:2055bc67d7077447ff3b3cea3921e00910e57e11&dn=[javdb.com]JUL-010-C.torrent",
+        "title": "JUL010"
+    },
+    {
+        "id": "JUL011",
+        "magnet": "magnet:?xt=urn:btih:884e6ec0f24762ba855064249f703abfa8388b75&dn=[javdb.com]JUL-011-C.torrent",
+        "title": "JUL011"
+    },
+    {
+        "id": "JUL012",
+        "magnet": "magnet:?xt=urn:btih:a560db67a2b1073c46629971e9dd24b2ba3100fd&dn=[javdb.com]jul-012.torrent",
+        "title": "JUL012"
+    },
+    {
+        "id": "JUL013",
+        "magnet": "magnet:?xt=urn:btih:d1eedd20c919da9b389f3c747112bfd24066789b&dn=[javdb.com]jul-013.torrent",
+        "title": "JUL013"
+    },
+    {
+        "id": "JUL014",
+        "magnet": "magnet:?xt=urn:btih:1d396503d6b3fbab3a40007db78a6f25855abc90&dn=[javdb.com]jul-014.torrent",
+        "title": "JUL014"
+    },
+    {
+        "id": "JUL015",
+        "magnet": "magnet:?xt=urn:btih:b6e3ec73a6f4f6fe0ccba374d1c59791bf4cf031&dn=[javdb.com]jul-015.torrent",
+        "title": "JUL015"
+    },
+    {
+        "id": "JUL016",
+        "magnet": "magnet:?xt=urn:btih:2bfd891125ad830163fd1ba33102e14b283bece0&dn=[javdb.com]JUL-016-C.torrent",
+        "title": "JUL016"
+    },
+    {
+        "id": "JUL017",
+        "magnet": "magnet:?xt=urn:btih:d79c4a1c171ec6cea92735a0127306804ca4d509&dn=[javdb.com]JUL-017-C.torrent",
+        "title": "JUL017"
+    },
+    {
+        "id": "JUL018",
+        "magnet": "magnet:?xt=urn:btih:b98b4560496f1cfd449bb3f665132bfdf99cfc91&dn=[javdb.com]jul-018.torrent",
+        "title": "JUL018"
+    },
+    {
+        "id": "JUL019",
+        "magnet": "magnet:?xt=urn:btih:e2401d330a2e11d53aa901a6dada87669edab742&dn=[javdb.com]JUL-019-C.torrent",
+        "title": "JUL019"
+    },
+    {
+        "id": "JUL020",
+        "magnet": "magnet:?xt=urn:btih:864be7c4b0040932c4688a04912f19a525569084&dn=[javdb.com]JUL-020-C.torrent",
+        "title": "JUL020"
+    },
+    {
+        "id": "JUL021",
+        "magnet": "magnet:?xt=urn:btih:efd8dbd00bf3ccddc586ffea9da4f73927749abf&dn=[javdb.com]jul-021-C.torrent",
+        "title": "JUL021"
+    },
+    {
+        "id": "JUL022",
+        "magnet": "magnet:?xt=urn:btih:301c5660e9f86554fbe12b89125806fc101b5a07&dn=[javdb.com]JUL-022-C.torrent",
+        "title": "JUL022"
+    },
+    {
+        "id": "JUL023",
+        "magnet": "magnet:?xt=urn:btih:e925a3be95d6a2a52d536aac41cc0c2b3f5cb11e&dn=[javdb.com]jul-023.torrent",
+        "title": "JUL023"
+    },
+    {
+        "id": "JUL024",
+        "magnet": "magnet:?xt=urn:btih:449ac948435e0ef984bda9fe15961787d7a22e4b&dn=[javdb.com]jul-024.torrent",
+        "title": "JUL024"
+    },
+    {
+        "id": "JUL025",
+        "magnet": "magnet:?xt=urn:btih:651483c7b060c5ca6bf1571d31301956730d6f79&dn=[javdb.com]jul-025.torrent",
+        "title": "JUL025"
+    },
+    {
+        "id": "JUL026",
+        "magnet": "magnet:?xt=urn:btih:b017ed1e881e1b42296599b8b907b3876839f5e2&dn=[javdb.com]jul-026.torrent",
+        "title": "JUL026"
+    },
+    {
+        "id": "JUL027",
+        "magnet": "magnet:?xt=urn:btih:fc9821ea8938229b947690e6ff7a8314e5681804&dn=[javdb.com]jul-027.torrent",
+        "title": "JUL027"
+    },
+    {
+        "id": "JUL028",
+        "magnet": "magnet:?xt=urn:btih:9ca08a5c91c11797ecef3ccb3697a8af7cd552ae&dn=[javdb.com]JUL-028-C.torrent",
+        "title": "JUL028"
+    },
+    {
+        "id": "JUL029",
+        "magnet": "magnet:?xt=urn:btih:e2f8c6d0570ec666a5a16b1f8287544483ac742a&dn=[javdb.com]jul-029.torrent",
+        "title": "JUL029"
+    },
+    {
+        "id": "JUL030",
+        "magnet": "magnet:?xt=urn:btih:c5a83569351bb4fd5f41ff8a2e274a16a08ed17f&dn=[javdb.com]JUL-030-C.torrent",
+        "title": "JUL030"
+    },
+    {
+        "id": "JUL031",
+        "magnet": "magnet:?xt=urn:btih:024c36de4fc361873cec19b37b37dde55cdaa12c&dn=[javdb.com]JUL-031-C.torrent",
+        "title": "JUL031"
+    },
+    {
+        "id": "JUL032",
+        "magnet": "magnet:?xt=urn:btih:919b72b9ee0b10ff5443a00001708d439c83800c&dn=[javdb.com]JUL-032-C.torrent",
+        "title": "JUL032"
+    },
+    {
+        "id": "JUL033",
+        "magnet": "magnet:?xt=urn:btih:59c836fb3b3f3a5238c9401699d2b3aefa3f202e&dn=[javdb.com]JUL-033-C.torrent",
+        "title": "JUL033"
+    },
+    {
+        "id": "JUL034",
+        "magnet": "magnet:?xt=urn:btih:f601de5cc5a6bcbb1765b4e67e88cc4c8b1e0d83&dn=[javdb.com]jul-034.torrent",
+        "title": "JUL034"
+    },
+    {
+        "id": "JUL035",
+        "magnet": "magnet:?xt=urn:btih:f674e8d574147f22d5d5524bd9dfcebd30738972&dn=[javdb.com]jul-035-C.torrent",
+        "title": "JUL035"
+    },
+    {
+        "id": "JUL036",
+        "magnet": "magnet:?xt=urn:btih:075b388016c9bb0b40eaaf3b0dd7f07d16eacba1&dn=[javdb.com]jul-036-C.torrent",
+        "title": "JUL036"
+    },
+    {
+        "id": "JUL037",
+        "magnet": "magnet:?xt=urn:btih:e0e23ae202404c85402947da8afcfb363c03fadf&dn=[javdb.com]jul-037-C.torrent",
+        "title": "JUL037"
+    },
+    {
+        "id": "JUL038",
+        "magnet": "magnet:?xt=urn:btih:de793a2c61494191d46612def8d77de63758bf5a&dn=[javdb.com]JUL-038-C.torrent",
+        "title": "JUL038"
+    },
+    {
+        "id": "JUL039",
+        "magnet": "magnet:?xt=urn:btih:6c97c0e5c1808047b58bdb10dbb9d13e62579f7d&dn=[javdb.com]JUL-039.torrent",
+        "title": "JUL039"
+    },
+    {
+        "id": "JUL040",
+        "magnet": "magnet:?xt=urn:btih:f574a3c046df70e4d29d7655560305bf384aa370&dn=[javdb.com]JUL-040-C.torrent",
+        "title": "JUL040"
+    },
+    {
+        "id": "JUL041",
+        "magnet": "magnet:?xt=urn:btih:f0c5e51adbba810693b4148295e8de10f77389dd&dn=[javdb.com]JUL-041-C.torrent",
+        "title": "JUL041"
+    },
+    {
+        "id": "JUL042",
+        "magnet": "magnet:?xt=urn:btih:518e3acfb523065c037de864b2bb1a25a6d34bb4&dn=[javdb.com]JUL-042-C.torrent",
+        "title": "JUL042"
+    },
+    {
+        "id": "JUL043",
+        "magnet": "magnet:?xt=urn:btih:84bb623e44f5653629549ff3a6b6227c78d97279&dn=[javdb.com]JUL-043-C.torrent",
+        "title": "JUL043"
+    },
+    {
+        "id": "JUL044",
+        "magnet": "magnet:?xt=urn:btih:506ed64d2ed0e51957cf417633b2ab787e6b608a&dn=[javdb.com]JUL-044-C.torrent",
+        "title": "JUL044"
+    },
+    {
+        "id": "JUL045",
+        "magnet": "magnet:?xt=urn:btih:57a7bec55837218de9da9127903bf2f63bf38c99&dn=[javdb.com]JUL-045-C.torrent",
+        "title": "JUL045"
+    },
+    {
+        "id": "JUL046",
+        "magnet": "magnet:?xt=urn:btih:de610e0ab2db0556b4edd59209f1d6a8d8829dcc&dn=[javdb.com]JUL-046-C.torrent",
+        "title": "JUL046"
+    },
+    {
+        "id": "JUL047",
+        "magnet": "magnet:?xt=urn:btih:55714b4066b4109f4b9d8f3735f0df779c5f9a23&dn=[javdb.com]JUL-047-C.torrent",
+        "title": "JUL047"
+    },
+    {
+        "id": "JUL048",
+        "magnet": "magnet:?xt=urn:btih:d920ada65c5a7fbf52b2d61327e7ceb0c0706937&dn=[javdb.com]JUL-048-C.torrent",
+        "title": "JUL048"
+    },
+    {
+        "id": "JUL049",
+        "magnet": "magnet:?xt=urn:btih:f6df998a4d27daae4b0104d06e3e12dde4a326cd&dn=[javdb.com]JUL-049-C.torrent",
+        "title": "JUL049"
+    },
+    {
+        "id": "JUL050",
+        "magnet": "magnet:?xt=urn:btih:df3d48918ee942af024ddd36c26333026347b573&dn=[javdb.com]JUL-050-C.torrent",
+        "title": "JUL050"
+    },
+    {
+        "id": "JUL051",
+        "magnet": "magnet:?xt=urn:btih:3818736ce7fb5d31e3a910a14bee55f0fd4a1613&dn=[javdb.com]JUL-051-C.torrent",
+        "title": "JUL051"
+    },
+    {
+        "id": "JUL052",
+        "magnet": "magnet:?xt=urn:btih:8fa92631358ed64f09692eb76f434a65176848d5&dn=[javdb.com]JUL-052-C.torrent",
+        "title": "JUL052"
+    },
+    {
+        "id": "JUL053",
+        "magnet": "magnet:?xt=urn:btih:1544B41F5F30EED2EA3D5F9560FF9019F09F1482",
+        "title": "JUL053"
+    },
+    {
+        "id": "JUL053",
+        "magnet": "magnet:?xt=urn:btih:bc29d9ed54314f9054c3baadf3520f7d56c4bbe7&dn=[javdb.com]JUL-053.torrent",
+        "title": "JUL053"
+    },
+    {
+        "id": "JUL054",
+        "magnet": "magnet:?xt=urn:btih:71290c9b805a748a19466bbb4e641850f24e3e43&dn=[javdb.com]JUL-054-C.torrent",
+        "title": "JUL054"
+    },
+    {
+        "id": "JUL055",
+        "magnet": "magnet:?xt=urn:btih:de0b9b66b096ba33d9521536a584d995cd658f5a&dn=[javdb.com]jul-055-C.torrent",
+        "title": "JUL055"
+    },
+    {
+        "id": "JUL056",
+        "magnet": "magnet:?xt=urn:btih:e9b6160948d58a5c0b8c6ea65b701a55b7574a96&dn=[javdb.com]jul-056.torrent",
+        "title": "JUL056"
+    },
+    {
+        "id": "JUL057",
+        "magnet": "magnet:?xt=urn:btih:400d143f3599645a0c3473df960bd1594b605037&dn=[javdb.com]jul-057-c.torrent",
+        "title": "JUL057"
+    },
+    {
+        "id": "JUL058",
+        "magnet": "magnet:?xt=urn:btih:fde17b3e6e0dbf619649c8c0ea46fd720171082a&dn=[javdb.com]jul-058-C.torrent",
+        "title": "JUL058"
+    },
+    {
+        "id": "JUL059",
+        "magnet": "magnet:?xt=urn:btih:27c9bcbac27cbe62efe3ea3c08fa0ad12de66d03&dn=[javdb.com]jul-059.torrent",
+        "title": "JUL059"
+    },
+    {
+        "id": "JUL060",
+        "magnet": "magnet:?xt=urn:btih:e48bf472eb56057be5f4c07b1b85e0fd65943742&dn=[javdb.com]jul-060-C.torrent",
+        "title": "JUL060"
+    },
+    {
+        "id": "JUL061",
+        "magnet": "magnet:?xt=urn:btih:b7be0ee10cdbcbd039c16302ecf5862ec06ac5ae&dn=[javdb.com]jul-061.torrent",
+        "title": "JUL061"
+    },
+    {
+        "id": "JUL062",
+        "magnet": "magnet:?xt=urn:btih:7cf08ab5d693a66cd3ce68121dc29d6ae97627c0&dn=[javdb.com]jul-062.torrent",
+        "title": "JUL062"
+    },
+    {
+        "id": "JUL063",
+        "magnet": "magnet:?xt=urn:btih:5ebc720696633d55df2985c703c8c46cd11f81db&dn=[javdb.com]jul-063-C.torrent",
+        "title": "JUL063"
+    },
+    {
+        "id": "JUL064",
+        "magnet": "magnet:?xt=urn:btih:ba426f71f1a443c35782b401181fd9dea9cff72a&dn=[javdb.com]jul-064-c.torrent",
+        "title": "JUL064"
+    },
+    {
+        "id": "JUL065",
+        "magnet": "magnet:?xt=urn:btih:8a31a8a4bcbdeeacdbda99ac25b89bc7df67dd13&dn=[javdb.com]jul-065-C.torrent",
+        "title": "JUL065"
+    },
+    {
+        "id": "JUL066",
+        "magnet": "magnet:?xt=urn:btih:2cdcf365e8d8fee5827e02ea653dd38b8a86b467&dn=[javdb.com]jul-066-c.torrent",
+        "title": "JUL066"
+    },
+    {
+        "id": "JUL067",
+        "magnet": "magnet:?xt=urn:btih:6302b7759b2516a48750884bad6b8a6309b2c733&dn=[javdb.com]jul-067.torrent",
+        "title": "JUL067"
+    },
+    {
+        "id": "JUL068",
+        "magnet": "magnet:?xt=urn:btih:b4d9c5de426aa3a8e197b15ec380878a209f3a69&dn=[javdb.com]jul-068-C.torrent",
+        "title": "JUL068"
+    },
+    {
+        "id": "JUL069",
+        "magnet": "magnet:?xt=urn:btih:093b112abfa2f3f0092ef69d512af1ef31139ece&dn=[javdb.com]jul-069-C.torrent",
+        "title": "JUL069"
+    },
+    {
+        "id": "JUL071",
+        "magnet": "magnet:?xt=urn:btih:386caf9ec261f73e559fa981f1fec877dda348e7&dn=[javdb.com]jul-071-C.torrent",
+        "title": "JUL071"
+    },
+    {
+        "id": "JUL072",
+        "magnet": "magnet:?xt=urn:btih:1d4b7b132a63e929db9da174e4f4170e7b07317f&dn=[javdb.com]jul-072-C.torrent",
+        "title": "JUL072"
+    },
+    {
+        "id": "JUL073",
+        "magnet": "magnet:?xt=urn:btih:559dc46ee1d6b4e988a037ea36f9c4e9fd05f215&dn=[javdb.com]jul-073.torrent",
+        "title": "JUL073"
+    },
+    {
+        "id": "JUL074",
+        "magnet": "magnet:?xt=urn:btih:96ade942310062c47bf8a91292229b475c5eb10d&dn=[javdb.com]jul-074-C.torrent",
+        "title": "JUL074"
+    },
+    {
+        "id": "JUL075",
+        "magnet": "magnet:?xt=urn:btih:020145de291d30a63a0bd917a1cf8cb2f586aef8&dn=[javdb.com]jul-075-C.torrent",
+        "title": "JUL075"
+    },
+    {
+        "id": "JUL076",
+        "magnet": "magnet:?xt=urn:btih:1cca0618dd4770f72cddd24fcf15c3ad51c6e811&dn=[javdb.com]jul-076-C.torrent",
+        "title": "JUL076"
+    },
+    {
+        "id": "JUL077",
+        "magnet": "magnet:?xt=urn:btih:e6a53cad15694093a48eeb48590d66a157a64069&dn=[javdb.com]jul-077-C.torrent",
+        "title": "JUL077"
+    },
+    {
+        "id": "JUL078",
+        "magnet": "magnet:?xt=urn:btih:118de191f524830c6af8ebbf074fb9072e67f801&dn=[javdb.com]jul-078-C.torrent",
+        "title": "JUL078"
+    },
+    {
+        "id": "JUL079",
+        "magnet": "magnet:?xt=urn:btih:df1fc993c26c068fd2fe4a3f3d2e5b543153c3c1&dn=[javdb.com]jul-079-C.torrent",
+        "title": "JUL079"
+    },
+    {
+        "id": "JUL080",
+        "magnet": "magnet:?xt=urn:btih:003479bd358370ef7ca283159ee6944e78c2e318&dn=[javdb.com]jul-080-C.torrent",
+        "title": "JUL080"
+    },
+    {
+        "id": "JUL081",
+        "magnet": "magnet:?xt=urn:btih:91c1941bd081deb666161899c86e82f01f5860f9&dn=[javdb.com]jul-081.torrent",
+        "title": "JUL081"
+    },
+    {
+        "id": "JUL082",
+        "magnet": "magnet:?xt=urn:btih:d0d32d02778feee9c8ce3aa58a96c7be9b6b43ca&dn=[javdb.com]jul-082-C.torrent",
+        "title": "JUL082"
+    },
+    {
+        "id": "JUL083",
+        "magnet": "magnet:?xt=urn:btih:0d25191de4ef99eb9d71b0077b1479ca136a13bc&dn=[javdb.com]jul-083-C.torrent",
+        "title": "JUL083"
+    },
+    {
+        "id": "JUL084",
+        "magnet": "magnet:?xt=urn:btih:5b74697adbca2aa2af11c39a35a90ba27cc474a9&dn=[javdb.com]jul-084-C.torrent",
+        "title": "JUL084"
+    },
+    {
+        "id": "JUL085",
+        "magnet": "magnet:?xt=urn:btih:e00ae5761fcbf430394d507bdae99723fa69eb02&dn=[javdb.com]jul-085-C.torrent",
+        "title": "JUL085"
+    },
+    {
+        "id": "JUL086",
+        "magnet": "magnet:?xt=urn:btih:67d16789934b3b4641e4b76a06192ac706b1bc4d&dn=[javdb.com]jul-086-C.torrent",
+        "title": "JUL086"
+    },
+    {
+        "id": "JUL087",
+        "magnet": "magnet:?xt=urn:btih:bf0b3891cb8f4e5feb9f09ee56fcb1cee54357ee&dn=[javdb.com]jul-087.torrent",
+        "title": "JUL087"
+    },
+    {
+        "id": "JUL088",
+        "magnet": "magnet:?xt=urn:btih:a42b97d1e223fddf3f2c4baf1feddb67aeb66cfc&dn=[javdb.com]jul-088-C.torrent",
+        "title": "JUL088"
+    },
+    {
+        "id": "JUL088",
+        "magnet": "magnet:?xt=urn:btih:168166cc58ea5fc3158f2ce315c37e13b0e18586&dn=[javdb.com]JUL-088.mp4",
+        "title": "JUL088"
+    },
+    {
+        "id": "JUL089",
+        "magnet": "magnet:?xt=urn:btih:0f258e36c8e936ccc38c4961667b1b54ac164573&dn=[javdb.com]jul-089-C.torrent",
+        "title": "JUL089"
+    },
+    {
+        "id": "JUL089",
+        "magnet": "magnet:?xt=urn:btih:816015fbe6b66aa4dc438e380a3f075823b85222&dn=[javdb.com]jul-089.torrent",
+        "title": "JUL089"
+    },
+    {
+        "id": "JUL090",
+        "magnet": "magnet:?xt=urn:btih:4f1a1952bb92fe6f94faf89adee24912d0150f45&dn=[javdb.com]jul-090-C.torrent",
+        "title": "JUL090"
+    },
+    {
+        "id": "JUL091",
+        "magnet": "magnet:?xt=urn:btih:40e7846383aa398d765adf26027ce0e1f9d90505&dn=[javdb.com]jul-091-C.torrent",
+        "title": "JUL091"
+    },
+    {
+        "id": "JUL092",
+        "magnet": "magnet:?xt=urn:btih:b9468687702d3606e84bba3afd64ebac8b51c7ba&dn=[javdb.com]jul-092-C.torrent",
+        "title": "JUL092"
+    },
+    {
+        "id": "JUL093",
+        "magnet": "magnet:?xt=urn:btih:e7a07fde2932a60e105ea11cf48f71cd55f96570&dn=[javdb.com]jul-093-C.torrent",
+        "title": "JUL093"
+    },
+    {
+        "id": "JUL094",
+        "magnet": "magnet:?xt=urn:btih:fb573cea912ec349c975058a5d542a707f488e16&dn=[javdb.com]jul-094-C.torrent",
+        "title": "JUL094"
+    },
+    {
+        "id": "JUL095",
+        "magnet": "magnet:?xt=urn:btih:b63d66230fb67250c70186b267a2a4798a19eba3&dn=[javdb.com]jul-095-C.torrent",
+        "title": "JUL095"
+    },
+    {
+        "id": "JUL096",
+        "magnet": "magnet:?xt=urn:btih:154a3578bbbabe6361f99b2f5ab852f2781d9447&dn=[javdb.com]jul-096-C.torrent",
+        "title": "JUL096"
+    },
+    {
+        "id": "JUL097",
+        "magnet": "magnet:?xt=urn:btih:36434f713c4277159ba70fbfb7a62ee328cb3326&dn=[javdb.com]jul-097-C.torrent",
+        "title": "JUL097"
+    },
+    {
+        "id": "JUL098",
+        "magnet": "magnet:?xt=urn:btih:957e0d1187f37e24f63a022ad7f4e813d1854703&dn=[javdb.com]jul-098-C.torrent",
+        "title": "JUL098"
+    },
+    {
+        "id": "JUL099",
+        "magnet": "magnet:?xt=urn:btih:d0fd5a1651287e49877b233bf82fcda055af6000&dn=[javdb.com]jul-099-C.torrent",
+        "title": "JUL099"
+    },
+    {
+        "id": "JUL100",
+        "magnet": "magnet:?xt=urn:btih:e9344dc3861e0218ed63677d5493b22265b6b565&dn=[javdb.com]jul-100-C.torrent",
+        "title": "JUL100"
+    },
+    {
+        "id": "JUL101",
+        "magnet": "magnet:?xt=urn:btih:72308df47a345d653521f5f0bd2b9505f13ae4c5&dn=[javdb.com]jul-101-C.torrent",
+        "title": "JUL101"
+    },
+    {
+        "id": "JUL102",
+        "magnet": "magnet:?xt=urn:btih:1f935ad3693f098ae942522e36ef5941d959cf5e&dn=[javdb.com]jul-102-C.torrent",
+        "title": "JUL102"
+    },
+    {
+        "id": "JUL103",
+        "magnet": "magnet:?xt=urn:btih:c7f0ea65f451efa85071038b256168dfd6b1c4b2&dn=[javdb.com]jul-103-C.torrent",
+        "title": "JUL103"
+    },
+    {
+        "id": "JUL103",
+        "magnet": "magnet:?xt=urn:btih:ef619ece2ff96521051b295071f886f6859ed6f1&dn=[javdb.com]jul-103.torrent",
+        "title": "JUL103"
+    },
+    {
+        "id": "JUL104",
+        "magnet": "magnet:?xt=urn:btih:1eb8397fe8aff80c6f9f37a5aea6149b168760bc&dn=[javdb.com]jul-104-C.torrent",
+        "title": "JUL104"
+    },
+    {
+        "id": "JUL105",
+        "magnet": "magnet:?xt=urn:btih:58f10c1d0c642c408d0fe516bde17b39c3169167&dn=[javdb.com]jul-105-C.torrent",
+        "title": "JUL105"
+    },
+    {
+        "id": "JUL106",
+        "magnet": "magnet:?xt=urn:btih:db34b2a59bfbdf161ab020c6f15c2489ed678517&dn=[javdb.com]jul-106-C.torrent",
+        "title": "JUL106"
+    },
+    {
+        "id": "JUL107",
+        "magnet": "magnet:?xt=urn:btih:a3e7cdef31fcef6b00cbccd6da3ae9977e14877b&dn=[javdb.com]jul-107-C.torrent",
+        "title": "JUL107"
+    },
+    {
+        "id": "JUL108",
+        "magnet": "magnet:?xt=urn:btih:712d868d25a8b89c63daab97664fc102afd34c59&dn=[javdb.com]jul-108.torrent",
+        "title": "JUL108"
+    },
+    {
+        "id": "JUL109",
+        "magnet": "magnet:?xt=urn:btih:b141f87d9f1e6300c9b2346b9e85254f35e5d0f7&dn=[javdb.com]jul-109-C.torrent",
+        "title": "JUL109"
+    },
+    {
+        "id": "JUL110",
+        "magnet": "magnet:?xt=urn:btih:5ae925a1e0b785e9f8c9779f2f42d793bf150b68&dn=[javdb.com]jul-110-C.torrent",
+        "title": "JUL110"
+    },
+    {
+        "id": "JUL111",
+        "magnet": "magnet:?xt=urn:btih:68570066cfe6b55a86031c1ef39207cd9a3fe055&dn=[javdb.com]jul-111-C.torrent",
+        "title": "JUL111"
+    },
+    {
+        "id": "JUL112",
+        "magnet": "magnet:?xt=urn:btih:2883cf7c25cc81275d8bb29a68c485cba5e5d84f&dn=[javdb.com]jul-112-C.torrent",
+        "title": "JUL112"
+    },
+    {
+        "id": "JUL113",
+        "magnet": "magnet:?xt=urn:btih:4f3855f40795027aaa6ea1d75912128fca4f9c78&dn=[javdb.com]jul-113-C.torrent",
+        "title": "JUL113"
+    },
+    {
+        "id": "JUL114",
+        "magnet": "magnet:?xt=urn:btih:314c0fa092e214abbc50704f603f859caa91509c&dn=[javdb.com]jul-114-C.torrent",
+        "title": "JUL114"
+    },
+    {
+        "id": "JUL115",
+        "magnet": "magnet:?xt=urn:btih:94c94313c69c83ca41ad4e37929453be2b1d53c8&dn=[javdb.com]jul-115-C.torrent",
+        "title": "JUL115"
+    },
+    {
+        "id": "JUL116",
+        "magnet": "magnet:?xt=urn:btih:c2d7549441e40d4bfa2658dc46a0bc6b14fac25d&dn=[javdb.com]jul-116-C.torrent",
+        "title": "JUL116"
+    },
+    {
+        "id": "JUL117",
+        "magnet": "magnet:?xt=urn:btih:b623ce8b5bd4c97ab06d5dcee616d53e757c0f5d&dn=[javdb.com]jul-117-C.torrent",
+        "title": "JUL117"
+    },
+    {
+        "id": "JUL118",
+        "magnet": "magnet:?xt=urn:btih:ee973a93a09c53329524a4e34f30c95fdd39b85c&dn=[javdb.com]jul-118.torrent",
+        "title": "JUL118"
+    },
+    {
+        "id": "JUL119",
+        "magnet": "magnet:?xt=urn:btih:f0e3937e6543d75ef13b8d26e196e051b50b66e4&dn=[javdb.com]jul-119.torrent",
+        "title": "JUL119"
+    },
+    {
+        "id": "JUL120",
+        "magnet": "magnet:?xt=urn:btih:28eb48f7d0ee216686062022005b9d772c5b546a&dn=[javdb.com]jul-120-C.torrent",
+        "title": "JUL120"
+    },
+    {
+        "id": "JUL121",
+        "magnet": "magnet:?xt=urn:btih:3d03ef6a871a2e13f551a16604f3ffd37d775085&dn=[javdb.com]jul-121.torrent",
+        "title": "JUL121"
+    },
+    {
+        "id": "JUL122",
+        "magnet": "magnet:?xt=urn:btih:2ca78598eddd143e2d499302ade38fcb336807b9&dn=[javdb.com]jul-122.torrent",
+        "title": "JUL122"
+    },
+    {
+        "id": "JUL123",
+        "magnet": "magnet:?xt=urn:btih:ce3f107123880f4a773bad6b508f3b5c7f7d8e57&dn=[javdb.com]jul-123.torrent",
+        "title": "JUL123"
+    },
+    {
+        "id": "JUL124",
+        "magnet": "magnet:?xt=urn:btih:1fa8bf49f78f8641a0e8191d237e75dec31da043&dn=[javdb.com]jul-124-C.torrent",
+        "title": "JUL124"
+    },
+    {
+        "id": "JUL125",
+        "magnet": "magnet:?xt=urn:btih:7e0e6ec3a1cca5b0857b03f14cbd697bd501b02d&dn=[javdb.com]jul-125.torrent",
+        "title": "JUL125"
+    },
+    {
+        "id": "JUL126",
+        "magnet": "magnet:?xt=urn:btih:f4816f7b02b44385835bc3da4eb0e7c5dc656c7a&dn=[javdb.com]jul-126-C.torrent",
+        "title": "JUL126"
+    },
+    {
+        "id": "JUL127",
+        "magnet": "magnet:?xt=urn:btih:51166248f2c6f0cc1ee447875df1df1ffe77352e&dn=[javdb.com]jul-127.torrent",
+        "title": "JUL127"
+    },
+    {
+        "id": "JUL128",
+        "magnet": "magnet:?xt=urn:btih:ae100e039e3e55e34b262e2c3f27522d74f11d47&dn=[javdb.com]jul-128.torrent",
+        "title": "JUL128"
+    },
+    {
+        "id": "JUL129",
+        "magnet": "magnet:?xt=urn:btih:22a9e95c66ac4a6b144e2cedbdae418161cf23bf&dn=[javdb.com]jul-129-C.torrent",
+        "title": "JUL129"
+    },
+    {
+        "id": "JUL130",
+        "magnet": "magnet:?xt=urn:btih:27d2c3da3c470b4b1d802a73de3d7296ecb66874&dn=[javdb.com]jul-130.torrent",
+        "title": "JUL130"
+    },
+    {
+        "id": "JUL131",
+        "magnet": "magnet:?xt=urn:btih:c868dd891a1004fa47d426ea83d9e27aa394beb0&dn=[javdb.com]jul-131.torrent",
+        "title": "JUL131"
+    },
+    {
+        "id": "JUL132",
+        "magnet": "magnet:?xt=urn:btih:65db80b747ef7ccde63b42a4bf2f4291e6fac92d&dn=[javdb.com]jul-132-C.torrent",
+        "title": "JUL132"
+    },
+    {
+        "id": "JUL133",
+        "magnet": "magnet:?xt=urn:btih:4c46637df591c03b28c8e88b30fbf212e50ebfe6&dn=[javdb.com]jul-133.torrent",
+        "title": "JUL133"
+    },
+    {
+        "id": "JUL134",
+        "magnet": "magnet:?xt=urn:btih:864a7b097e92ef0c4203d8d4c8aa0511877da30c&dn=[javdb.com]jul-134-C.torrent",
+        "title": "JUL134"
+    },
+    {
+        "id": "JUL135",
+        "magnet": "magnet:?xt=urn:btih:4648ea294186d31dc26777f847a07fa9963d1c4e&dn=[javdb.com]jul-135-C.torrent",
+        "title": "JUL135"
+    },
+    {
+        "id": "JUL136",
+        "magnet": "magnet:?xt=urn:btih:f12c135cea27a8cc1223239c609839bdf7ceef14&dn=[javdb.com]jul-136.torrent",
+        "title": "JUL136"
+    },
+    {
+        "id": "JUL137",
+        "magnet": "magnet:?xt=urn:btih:8eb54d9541b48e91b23c3e70a99259b580e0f778&dn=[javdb.com]jul-137.torrent",
+        "title": "JUL137"
+    },
+    {
+        "id": "JUL138",
+        "magnet": "magnet:?xt=urn:btih:1c767d98d0a03469145b0e8ee863d0d8f4e91253&dn=[javdb.com]jul-138-C.torrent",
+        "title": "JUL138"
+    },
+    {
+        "id": "JUL139",
+        "magnet": "magnet:?xt=urn:btih:1e4652811678cc44fdd506181849f0bd33c83795&dn=[javdb.com]jul-139-C.torrent",
+        "title": "JUL139"
+    },
+    {
+        "id": "JUL140",
+        "magnet": "magnet:?xt=urn:btih:13fe91f4a2fc7e1ab0798f5b5918114c079ee162&dn=[javdb.com]jul-140-C.torrent",
+        "title": "JUL140"
+    },
+    {
+        "id": "JUL141",
+        "magnet": "magnet:?xt=urn:btih:33a2c98659b993df19f13fa7f4e20cfc31e587bc&dn=[javdb.com]jul-141-C.torrent",
+        "title": "JUL141"
+    },
+    {
+        "id": "JUL142",
+        "magnet": "magnet:?xt=urn:btih:c6c244af79ad03b95eceb73210eacc3e2bc7eb3e&dn=[javdb.com]jul-142-C.torrent",
+        "title": "JUL142"
+    },
+    {
+        "id": "JUL143",
+        "magnet": "magnet:?xt=urn:btih:9d5ee8552f9159f9d3c7893e52026e0744bf6e19&dn=[javdb.com]jul-143-C.torrent",
+        "title": "JUL143"
+    },
+    {
+        "id": "JUL144",
+        "magnet": "magnet:?xt=urn:btih:d44be90334d582579475b26a6af85ade74f8b6e4&dn=[javdb.com]jul-144-C.torrent",
+        "title": "JUL144"
+    },
+    {
+        "id": "JUL145",
+        "magnet": "magnet:?xt=urn:btih:d180ef6997b3d0bd023b9504ce308696b6221b5b&dn=[javdb.com]jul-145.torrent",
+        "title": "JUL145"
+    },
+    {
+        "id": "JUL146",
+        "magnet": "magnet:?xt=urn:btih:2e0ba25e2ece0c18c12bb02582c11682bea25b25&dn=[javdb.com]jul-146-C.torrent",
+        "title": "JUL146"
+    },
+    {
+        "id": "JUL147",
+        "magnet": "magnet:?xt=urn:btih:c182530ea1333f719c0997c471c85edd178ac916&dn=[javdb.com]jul-147-C.torrent",
+        "title": "JUL147"
+    },
+    {
+        "id": "JUL148",
+        "magnet": "magnet:?xt=urn:btih:f0434ae4bae5c91c03a8547ea819b5625bc6ecda&dn=[javdb.com]jul-148-C.torrent",
+        "title": "JUL148"
+    },
+    {
+        "id": "JUL149",
+        "magnet": "magnet:?xt=urn:btih:cdbf17cbb392adc0dc6373bc892bdd6e37226834&dn=[javdb.com]jul-149.torrent",
+        "title": "JUL149"
+    },
+    {
+        "id": "JUL150",
+        "magnet": "magnet:?xt=urn:btih:5b25ac84cbdffafdbac79140694a4a3b7905c937&dn=[javdb.com]jul-150-C.torrent",
+        "title": "JUL150"
+    },
+    {
+        "id": "JUL151",
+        "magnet": "magnet:?xt=urn:btih:cf85783b1fc1851d4da09273045ddbc47d2a8197&dn=[javdb.com]jul-151-C.torrent",
+        "title": "JUL151"
+    },
+    {
+        "id": "JUL152",
+        "magnet": "magnet:?xt=urn:btih:05a5d1f7b56ba73154602fad5dbe22e1510dc9e4&dn=[javdb.com]jul-152-C.torrent",
+        "title": "JUL152"
+    },
+    {
+        "id": "JUL153",
+        "magnet": "magnet:?xt=urn:btih:d0f93f39079fcb44e79ab83cbdcb7959d14117a4&dn=[javdb.com]jul-153.torrent",
+        "title": "JUL153"
+    },
+    {
+        "id": "JUL154",
+        "magnet": "magnet:?xt=urn:btih:0ce34dd8d981792dc34f8efbc1a3c02ce9d5fbab&dn=[javdb.com]jul-154-C.torrent",
+        "title": "JUL154"
+    },
+    {
+        "id": "JUL155",
+        "magnet": "magnet:?xt=urn:btih:4ce7bbd4966fa9c415f357b161bb9384b9db8d4b&dn=[javdb.com]jul-155-C.torrent",
+        "title": "JUL155"
+    },
+    {
+        "id": "JUL156",
+        "magnet": "magnet:?xt=urn:btih:abf1f14ad8f2ce772201e4970d01ebae6d480771&dn=[javdb.com]jul-156-C.torrent",
+        "title": "JUL156"
+    },
+    {
+        "id": "JUL157",
+        "magnet": "magnet:?xt=urn:btih:c34939a9a420d29b04d1c87697065f8803044c76&dn=[javdb.com]jul-157-C.torrent",
+        "title": "JUL157"
+    },
+    {
+        "id": "JUL158",
+        "magnet": "magnet:?xt=urn:btih:9d82cb94e2972b5e2b673c9cb2cb3c78427ab3c4&dn=[javdb.com]jul-158-C.torrent",
+        "title": "JUL158"
+    },
+    {
+        "id": "JUL159",
+        "magnet": "magnet:?xt=urn:btih:8ea39769256ce381570e0c1d37d595f84bb53d61&dn=[javdb.com]jul-159-C.torrent",
+        "title": "JUL159"
+    },
+    {
+        "id": "JUL160",
+        "magnet": "magnet:?xt=urn:btih:25e15d89b7f2bbabb0fa4e6e055ebe958c6a8f82&dn=[javdb.com]jul-160-C.torrent",
+        "title": "JUL160"
+    },
+    {
+        "id": "JUL161",
+        "magnet": "magnet:?xt=urn:btih:dd0a68e9f1480c061b065a54f564a4777c82ca8c&dn=[javdb.com]jul-161.torrent",
+        "title": "JUL161"
+    },
+    {
+        "id": "JUL162",
+        "magnet": "magnet:?xt=urn:btih:556cea15ef6835ebee409f0a98d80eeb047b2855&dn=[javdb.com]jul-162-C.torrent",
+        "title": "JUL162"
+    },
+    {
+        "id": "JUL163",
+        "magnet": "magnet:?xt=urn:btih:b3cdb9b8e58b3c2fd5fe3f6dfaa2b39039a3343a&dn=[javdb.com]jul-163.torrent",
+        "title": "JUL163"
+    },
+    {
+        "id": "JUL164",
+        "magnet": "magnet:?xt=urn:btih:4e1a6a7c7d8462c748a71cf300e5c4988cae6638&dn=[javdb.com]jul-164-C.torrent",
+        "title": "JUL164"
+    },
+    {
+        "id": "JUL165",
+        "magnet": "magnet:?xt=urn:btih:71ae36d06766e2b27af68bfa434d162b3057c4b0&dn=[javdb.com]jul-165-C.torrent",
+        "title": "JUL165"
+    },
+    {
+        "id": "JUL166",
+        "magnet": "magnet:?xt=urn:btih:257ce3cc332441d1db665dea2fa7775d8f738fc2&dn=[javdb.com]jul-166-C.torrent",
+        "title": "JUL166"
+    },
+    {
+        "id": "JUL167",
+        "magnet": "magnet:?xt=urn:btih:07157ef7d26cbeac068e4bd8e77d01ddbba63870&dn=[javdb.com]jul-167-C.torrent",
+        "title": "JUL167"
+    },
+    {
+        "id": "JUL168",
+        "magnet": "magnet:?xt=urn:btih:91adad644667a2733a8958b1e8ddcf32cd21f4ed&dn=[javdb.com]jul-168-C.torrent",
+        "title": "JUL168"
+    },
+    {
+        "id": "JUL169",
+        "magnet": "magnet:?xt=urn:btih:de4507741cc7f6993f7bc8b250549a7d6f26c90a&dn=[javdb.com]jul-169.torrent",
+        "title": "JUL169"
+    },
+    {
+        "id": "JUL170",
+        "magnet": "magnet:?xt=urn:btih:09ff707b81f3e8647a2d6202bc4b5f5c8de3443f&dn=[javdb.com]jul-170-C.torrent",
+        "title": "JUL170"
+    },
+    {
+        "id": "JUL171",
+        "magnet": "magnet:?xt=urn:btih:5d86d6d1a6ada63f1326c20bbf94a0bc6c89d953&dn=[javdb.com]jul-171-C.torrent",
+        "title": "JUL171"
+    },
+    {
+        "id": "JUL172",
+        "magnet": "magnet:?xt=urn:btih:2dff8803558afd82c7dded121714d4bd24eee4aa&dn=[javdb.com]jul-172-C.torrent",
+        "title": "JUL172"
+    },
+    {
+        "id": "JUL173",
+        "magnet": "magnet:?xt=urn:btih:78b85dea9c7014889a4efeaf2aefa68cc707d117&dn=[javdb.com]jul-173-C.torrent",
+        "title": "JUL173"
+    },
+    {
+        "id": "JUL174",
+        "magnet": "magnet:?xt=urn:btih:496d64a5e35ad2f23948ac8f7ac28e0ea4d84401&dn=[javdb.com]jul-174-C.torrent",
+        "title": "JUL174"
+    },
+    {
+        "id": "JUL175",
+        "magnet": "magnet:?xt=urn:btih:6eab1ee30d18306c3c13917482919bd5f506ebb9&dn=[javdb.com]jul-175-C.torrent",
+        "title": "JUL175"
+    },
+    {
+        "id": "JUL176",
+        "magnet": "magnet:?xt=urn:btih:33d457b6ad784b1594114540081bb7bda34d4036&dn=[javdb.com]jul-176-C.torrent",
+        "title": "JUL176"
+    },
+    {
+        "id": "JUL177",
+        "magnet": "magnet:?xt=urn:btih:ed1120bb47cb008a13cc80e66288cd0ff8934edb&dn=[javdb.com]jul-177-C.torrent",
+        "title": "JUL177"
+    },
+    {
+        "id": "JUL178",
+        "magnet": "magnet:?xt=urn:btih:3b2fe8f89ac13ad86a15afd9eb8405261ccf45b7&dn=[javdb.com]jul-178-C.torrent",
+        "title": "JUL178"
+    },
+    {
+        "id": "JUL179",
+        "magnet": "magnet:?xt=urn:btih:b13d13de70c30944774c9f8a0c7465da3b95f631&dn=[javdb.com]jul-179-C.torrent",
+        "title": "JUL179"
+    },
+    {
+        "id": "JUL180",
+        "magnet": "magnet:?xt=urn:btih:43f3595aed2d1a0f5616160ec0f2e53c1616db7a&dn=[javdb.com]jul-180-C.torrent",
+        "title": "JUL180"
+    },
+    {
+        "id": "JUL181",
+        "magnet": "magnet:?xt=urn:btih:494a7de93d56b660050445a56179d944a61e9250&dn=[javdb.com]jul-181-C.torrent",
+        "title": "JUL181"
+    },
+    {
+        "id": "JUL182",
+        "magnet": "magnet:?xt=urn:btih:207cbbf093b0f59b9bb0a2cd5bed453bfb49d743&dn=[javdb.com]jul-182.torrent",
+        "title": "JUL182"
+    },
+    {
+        "id": "JUL183",
+        "magnet": "magnet:?xt=urn:btih:64bda39b1c643f775cc3a67f8efcac7d2e939098&dn=[javdb.com]jul-183-C.torrent",
+        "title": "JUL183"
+    },
+    {
+        "id": "JUL184",
+        "magnet": "magnet:?xt=urn:btih:56b7fb2f6c97b5d9fe494c8b252829266b1cb6c4&dn=[javdb.com]jul-184-C.torrent",
+        "title": "JUL184"
+    },
+    {
+        "id": "JUL185",
+        "magnet": "magnet:?xt=urn:btih:acfca8ab3df3c943e8d4372716325b0b8ce72276&dn=[javdb.com]jul-185-C.torrent",
+        "title": "JUL185"
+    },
+    {
+        "id": "JUL186",
+        "magnet": "magnet:?xt=urn:btih:2d1f44e55ee32434093f413ada1f55b999706785&dn=[javdb.com]jul-186-C.torrent",
+        "title": "JUL186"
+    },
+    {
+        "id": "JUL187",
+        "magnet": "magnet:?xt=urn:btih:7f0fedfa28b9bd122dc9d96fb8216ccdf95b0159&dn=[javdb.com]jul-187-C.torrent",
+        "title": "JUL187"
+    },
+    {
+        "id": "JUL188",
+        "magnet": "magnet:?xt=urn:btih:dceb9c2e737cea8d034796572189372ca38016c4&dn=[javdb.com]jul-188-C.torrent",
+        "title": "JUL188"
+    },
+    {
+        "id": "JUL189",
+        "magnet": "magnet:?xt=urn:btih:2c96bc8d85bd4ed1fc98b0a30d4db48e8781aaa4&dn=[javdb.com]jul-189-C.torrent",
+        "title": "JUL189"
+    },
+    {
+        "id": "JUL190",
+        "magnet": "magnet:?xt=urn:btih:b28cfa2b9fed6bc579ec36f697033dfc8dd70ce5&dn=[javdb.com]jul-190-C.torrent",
+        "title": "JUL190"
+    },
+    {
+        "id": "JUL191",
+        "magnet": "magnet:?xt=urn:btih:f69e68ce47cbc1f96daf00de023cc3b6d63f12ae&dn=[javdb.com]jul-191-C.torrent",
+        "title": "JUL191"
+    },
+    {
+        "id": "JUL192",
+        "magnet": "magnet:?xt=urn:btih:a8ef33f65c5f31e2e6fb65fdf3d0449837b36eec&dn=[javdb.com]jul-192-C.torrent",
+        "title": "JUL192"
+    },
+    {
+        "id": "JUL193",
+        "magnet": "magnet:?xt=urn:btih:6654f28eba17adca3bfa7a47c7c18850b359bb0f&dn=[javdb.com]jul-193-C.torrent",
+        "title": "JUL193"
+    },
+    {
+        "id": "JUL194",
+        "magnet": "magnet:?xt=urn:btih:56dcc5563fd979581b4862339bd2a11e0e46188c&dn=[javdb.com]jul-194-C.torrent",
+        "title": "JUL194"
+    },
+    {
+        "id": "JUL195",
+        "magnet": "magnet:?xt=urn:btih:a201f7912357eb66450f4a16b8ad50c88aef7055&dn=[javdb.com]jul-195-C.torrent",
+        "title": "JUL195"
+    },
+    {
+        "id": "JUL196",
+        "magnet": "magnet:?xt=urn:btih:33097ef0909ac8d9053a915872f5fe1d8744ee83&dn=[javdb.com]jul-196.torrent",
+        "title": "JUL196"
+    },
+    {
+        "id": "JUL197",
+        "magnet": "magnet:?xt=urn:btih:05ddb041e46c2a84971e9c3c3d7405e2c2824640&dn=[javdb.com]jul-197-C.torrent",
+        "title": "JUL197"
+    },
+    {
+        "id": "JUL198",
+        "magnet": "magnet:?xt=urn:btih:3d19332159f29b8911abd8564b9c377ddda56fb5&dn=[javdb.com]jul-198-C.torrent",
+        "title": "JUL198"
+    },
+    {
+        "id": "JUL199",
+        "magnet": "magnet:?xt=urn:btih:3e833adf97298ae2ac4166a6d36674f863ef1b66&dn=[javdb.com]jul-199-C.torrent",
+        "title": "JUL199"
+    },
+    {
+        "id": "JUL200",
+        "magnet": "magnet:?xt=urn:btih:fe523b8d27aaa82f8af6056b50662bb8e40438ef&dn=[javdb.com]jul-200-C.torrent",
+        "title": "JUL200"
+    },
+    {
+        "id": "JUL201",
+        "magnet": "magnet:?xt=urn:btih:30c2d0365a9fcc361855da9ba81697d1ef7bc4d4&dn=[javdb.com]jul-201-C.torrent",
+        "title": "JUL201"
+    },
+    {
+        "id": "JUL202",
+        "magnet": "magnet:?xt=urn:btih:2f546c8c1581fb926b8d85eb7d906b650157e3eb&dn=[javdb.com]jul-202-C.torrent",
+        "title": "JUL202"
+    },
+    {
+        "id": "JUL203",
+        "magnet": "magnet:?xt=urn:btih:8d6f0d37648773000e5555af59f40c013b0785e0&dn=[javdb.com]jul-203-C.torrent",
+        "title": "JUL203"
+    },
+    {
+        "id": "JUL204",
+        "magnet": "magnet:?xt=urn:btih:f938710314b7b94fad2d5aff3b8596c212d44352&dn=[javdb.com]jul-204-C.torrent",
+        "title": "JUL204"
+    },
+    {
+        "id": "JUL205",
+        "magnet": "magnet:?xt=urn:btih:d1565c7acf249b3f232356506a2760755300292c&dn=[javdb.com]jul-205-C.torrent",
+        "title": "JUL205"
+    },
+    {
+        "id": "JUL206",
+        "magnet": "magnet:?xt=urn:btih:2e72158a6ac2f6da6fb6432053f6f0782c898640&dn=[javdb.com]jul-206-C.torrent",
+        "title": "JUL206"
+    },
+    {
+        "id": "JUL207",
+        "magnet": "magnet:?xt=urn:btih:3500e0a0696af9c499cb29a3a0dcffa8d114d963&dn=[javdb.com]jul-207-C.torrent",
+        "title": "JUL207"
+    },
+    {
+        "id": "JUL208",
+        "magnet": "magnet:?xt=urn:btih:ce4394500bc6e8456aa9bf7dadb5df96a64da1cf&dn=[javdb.com]jul-208-C.torrent",
+        "title": "JUL208"
+    },
+    {
+        "id": "JUL209",
+        "magnet": "magnet:?xt=urn:btih:61171f7357bfe013ee073618615ac92a732c5a08&dn=[javdb.com]jul-209-C.torrent",
+        "title": "JUL209"
+    },
+    {
+        "id": "JUL210",
+        "magnet": "magnet:?xt=urn:btih:2ea237c6639c82b8ae11dbc4567e07b7845def05&dn=[javdb.com]jul-210-C.torrent",
+        "title": "JUL210"
+    },
+    {
+        "id": "JUL211",
+        "magnet": "magnet:?xt=urn:btih:2e3a0ef3a267dbcb8222f9d24bd1b426c5760fa7&dn=[javdb.com]jul-211-C.torrent",
+        "title": "JUL211"
+    },
+    {
+        "id": "JUL212",
+        "magnet": "magnet:?xt=urn:btih:58ddd427cc039d2a2d9f8d30de967cdea846c19a&dn=[javdb.com]jul-212-C.torrent",
+        "title": "JUL212"
+    },
+    {
+        "id": "JUL213",
+        "magnet": "magnet:?xt=urn:btih:07b5fcf802dd4ed302a65225eb11226820d2aa0e&dn=[javdb.com]jul-213-C.torrent",
+        "title": "JUL213"
+    },
+    {
+        "id": "JUL214",
+        "magnet": "magnet:?xt=urn:btih:daf02aea5642e6c9263715808823b0d9a5df8d30&dn=[javdb.com]jul-214-C.torrent",
+        "title": "JUL214"
+    },
+    {
+        "id": "JUL215",
+        "magnet": "magnet:?xt=urn:btih:d3cd8fd877b66de083609d30dca802461afeb721&dn=[javdb.com]jul-215-C.torrent",
+        "title": "JUL215"
+    },
+    {
+        "id": "JUL216",
+        "magnet": "magnet:?xt=urn:btih:643d64573643f85751c1265daf283c90e253fa35&dn=[javdb.com]jul-216-C.torrent",
+        "title": "JUL216"
+    },
+    {
+        "id": "JUL216",
+        "magnet": "magnet:?xt=urn:btih:9dbd3a0a52ad9b962eaf79644aa4fe8dbb9fde08&dn=[javdb.com]jul-216.torrent",
+        "title": "JUL216"
+    },
+    {
+        "id": "JUL217",
+        "magnet": "magnet:?xt=urn:btih:6311bad0afcffd94ce5917f2bbcab5d01232585e&dn=[javdb.com]jul-217-C.torrent",
+        "title": "JUL217"
+    },
+    {
+        "id": "JUL218",
+        "magnet": "magnet:?xt=urn:btih:1af7ab281a628196e596ceff05e139f6ca01ae35&dn=[javdb.com]jul-218-C.torrent",
+        "title": "JUL218"
+    },
+    {
+        "id": "JUL219",
+        "magnet": "magnet:?xt=urn:btih:bc1ec674672bd1a7209e2cfd0cedfa48517d5684&dn=[javdb.com]jul-219-C.torrent",
+        "title": "JUL219"
+    },
+    {
+        "id": "JUL220",
+        "magnet": "magnet:?xt=urn:btih:5ab6089769cc563833bd63c65beb936ad9caca1f&dn=[javdb.com]jul-220-C.torrent",
+        "title": "JUL220"
+    },
+    {
+        "id": "JUL221",
+        "magnet": "magnet:?xt=urn:btih:7a31332b2a9b0d38f8931941a0c54d33cb63a22a&dn=[javdb.com]jul-221-C.torrent",
+        "title": "JUL221"
+    },
+    {
+        "id": "JUL222",
+        "magnet": "magnet:?xt=urn:btih:db1760f697aa03b447a0928b684890447cd3ed1a&dn=[javdb.com]jul-222-C.torrent",
+        "title": "JUL222"
+    },
+    {
+        "id": "JUL223",
+        "magnet": "magnet:?xt=urn:btih:3bf32874cbc1c105805d5d43f4ea0b4a72e95264&dn=[javdb.com]jul-223-C.torrent",
+        "title": "JUL223"
+    },
+    {
+        "id": "JUL224",
+        "magnet": "magnet:?xt=urn:btih:9a9f7d5886775103115ac2967cdab0a2c52577c9&dn=[javdb.com]jul-224-C.torrent",
+        "title": "JUL224"
+    },
+    {
+        "id": "JUL225",
+        "magnet": "magnet:?xt=urn:btih:585c076c2d0c009e7c75f0d11127753f6f78ec89&dn=[javdb.com]jul-225-C.torrent",
+        "title": "JUL225"
+    },
+    {
+        "id": "JUL225",
+        "magnet": "magnet:?xt=urn:btih:592a280a0f60f11b338578898e1410ae8fa8c7b2&dn=[javdb.com]jul-225.torrent",
+        "title": "JUL225"
+    },
+    {
+        "id": "JUL226",
+        "magnet": "magnet:?xt=urn:btih:77df1ddf0a94307a85a49eab2cf7246ab82d0409&dn=[javdb.com]jul-226-C.torrent",
+        "title": "JUL226"
+    },
+    {
+        "id": "JUL227",
+        "magnet": "magnet:?xt=urn:btih:d471c8a312b323d0eabeba0d5cbb552ffa674d2c&dn=[javdb.com]jul-227-C.torrent",
+        "title": "JUL227"
+    },
+    {
+        "id": "JUL228",
+        "magnet": "magnet:?xt=urn:btih:e7328df8db9bb8f912aa66aa55b14167d70cc475&dn=[javdb.com]jul-228-C.torrent",
+        "title": "JUL228"
+    },
+    {
+        "id": "JUL229",
+        "magnet": "magnet:?xt=urn:btih:ed5238111dfdca450adb4f61ac89ba2b6e541375&dn=[javdb.com]jul-229-C.torrent",
+        "title": "JUL229"
+    },
+    {
+        "id": "JUL230",
+        "magnet": "magnet:?xt=urn:btih:38cf130812eadbe2657eaa15edaf9399fdb1b1ba&dn=[javdb.com]jul-230-C.torrent",
+        "title": "JUL230"
+    },
+    {
+        "id": "JUL231",
+        "magnet": "magnet:?xt=urn:btih:57c2cdab8d5dd50935eca79ad9ea47b4501fb42b&dn=[javdb.com]jul-231-C.torrent",
+        "title": "JUL231"
+    },
+    {
+        "id": "JUL232",
+        "magnet": "magnet:?xt=urn:btih:33f4f5955a787c91c9ba7c19acb9ad3fd0c9fde7&dn=[javdb.com]jul-232-C.torrent",
+        "title": "JUL232"
+    },
+    {
+        "id": "JUL233",
+        "magnet": "magnet:?xt=urn:btih:035a4d1ad4285d1acb519cd86740d848c111a74b&dn=[javdb.com]jul-233-C.torrent",
+        "title": "JUL233"
+    },
+    {
+        "id": "JUL234",
+        "magnet": "magnet:?xt=urn:btih:bed941c8f44cfab45f3493b449ce07b338f5f2a6&dn=[javdb.com]jul-234-C.torrent",
+        "title": "JUL234"
+    },
+    {
+        "id": "JUL235",
+        "magnet": "magnet:?xt=urn:btih:1e87b124b8995effb2158335f416c0df05632245&dn=[javdb.com]jul-235-C.torrent",
+        "title": "JUL235"
+    },
+    {
+        "id": "JUL236",
+        "magnet": "magnet:?xt=urn:btih:f727bbd919b88cab8d9090c8de855b346ca07a0b&dn=[javdb.com]jul-236.torrent",
+        "title": "JUL236"
+    },
+    {
+        "id": "JUL237",
+        "magnet": "magnet:?xt=urn:btih:1b9a0739e0ccbe68515eab5dd1154733b241e392&dn=[javdb.com]jul-237-C.torrent",
+        "title": "JUL237"
+    },
+    {
+        "id": "JUL238",
+        "magnet": "magnet:?xt=urn:btih:99ee1daf148c23405fb6706475c718872c8e06bb&dn=[javdb.com]jul-238.torrent",
+        "title": "JUL238"
+    },
+    {
+        "id": "JUL239",
+        "magnet": "magnet:?xt=urn:btih:f7a02a5220183cda330c64785f78338b519f19b8&dn=[javdb.com]jul-239.torrent",
+        "title": "JUL239"
+    },
+    {
+        "id": "JUL240",
+        "magnet": "magnet:?xt=urn:btih:c22162be9a75b9ac400c0293f8cb4d44eae0a5fe&dn=[javdb.com]jul-240.torrent",
+        "title": "JUL240"
+    },
+    {
+        "id": "JUL241",
+        "magnet": "magnet:?xt=urn:btih:afaf06f5fd85a421ca20e8cc7cad3242cef23c90&dn=[javdb.com]jul-241-C.torrent",
+        "title": "JUL241"
+    },
+    {
+        "id": "JUL242",
+        "magnet": "magnet:?xt=urn:btih:6a4d241ae0a5c4370be60d5a764542843684c59b&dn=[javdb.com]jul-242-C.torrent",
+        "title": "JUL242"
+    },
+    {
+        "id": "JUL243",
+        "magnet": "magnet:?xt=urn:btih:c6af7bb55f3452c735903871c416fd9c155606e1&dn=[javdb.com]jul-243-C.torrent",
+        "title": "JUL243"
+    },
+    {
+        "id": "JUL244",
+        "magnet": "magnet:?xt=urn:btih:a9149e214f77aedc06388aabe7788380d35feac0&dn=[javdb.com]jul-244-C.torrent",
+        "title": "JUL244"
+    },
+    {
+        "id": "JUL245",
+        "magnet": "magnet:?xt=urn:btih:773c61bec414d70009ba4c0eb88c3982cb8a0d0f&dn=[javdb.com]jul-245-C.torrent",
+        "title": "JUL245"
+    },
+    {
+        "id": "JUL246",
+        "magnet": "magnet:?xt=urn:btih:83ad3fdb14911449c860d93ee7f8c1eafebe5b00&dn=[javdb.com]jul-246-C.torrent",
+        "title": "JUL246"
+    },
+    {
+        "id": "JUL247",
+        "magnet": "magnet:?xt=urn:btih:f48a2a4f3cc2bae918f658b833f3fcf454d643c3&dn=[javdb.com]jul-247-C.torrent",
+        "title": "JUL247"
+    },
+    {
+        "id": "JUL248",
+        "magnet": "magnet:?xt=urn:btih:3b018e0f384a068156e9eafafa3f5ee1beeeb4a4&dn=[javdb.com]jul-248-C.torrent",
+        "title": "JUL248"
+    },
+    {
+        "id": "JUL249",
+        "magnet": "magnet:?xt=urn:btih:ff3daa4ca892e88717f9b623d79df445b31d4f94&dn=[javdb.com]jul-249-C.torrent",
+        "title": "JUL249"
+    },
+    {
+        "id": "JUL250",
+        "magnet": "magnet:?xt=urn:btih:947cd2fcd06bc4feccd2188c034e95b8a32685c3&dn=[javdb.com]jul-250-C.torrent",
+        "title": "JUL250"
+    },
+    {
+        "id": "JUL251",
+        "magnet": "magnet:?xt=urn:btih:606f1f3dc1915317f4e8fde1c942c486051bbe4d&dn=[javdb.com]jul-251-C.torrent",
+        "title": "JUL251"
+    },
+    {
+        "id": "JUL252",
+        "magnet": "magnet:?xt=urn:btih:aa293ef6295e7205e026a3bb9e561ed037e49858&dn=[javdb.com]jul-252-C.torrent",
+        "title": "JUL252"
+    },
+    {
+        "id": "JUL253",
+        "magnet": "magnet:?xt=urn:btih:0a066a090cbfaeb00c31ac5a44cd88e641c0cfa8&dn=[javdb.com]jul-253-C.torrent",
+        "title": "JUL253"
+    },
+    {
+        "id": "JUL254",
+        "magnet": "magnet:?xt=urn:btih:5280b0d14f91e8842cd82ea97532dc5216862bae&dn=[javdb.com]jul-254.torrent",
+        "title": "JUL254"
+    },
+    {
+        "id": "JUL255",
+        "magnet": "magnet:?xt=urn:btih:a7b15a1a411443e3721aad26438b8e910bf4e03d&dn=[javdb.com]jul-255-C.torrent",
+        "title": "JUL255"
+    },
+    {
+        "id": "JUL256",
+        "magnet": "magnet:?xt=urn:btih:0ba754971ff17033ea5608264a3a6c01e13bd337&dn=[javdb.com]jul-256-C.torrent",
+        "title": "JUL256"
+    },
+    {
+        "id": "JUL257",
+        "magnet": "magnet:?xt=urn:btih:f1da0a8e177f59d813e77b3038290c340ed930f9&dn=[javdb.com]jul-257-C.torrent",
+        "title": "JUL257"
+    },
+    {
+        "id": "JUL258",
+        "magnet": "magnet:?xt=urn:btih:1e58e1cc907282758636dbd5398f89f0a9381113&dn=[javdb.com]jul-258.torrent",
+        "title": "JUL258"
+    },
+    {
+        "id": "JUL259",
+        "magnet": "magnet:?xt=urn:btih:fb969eceb576a021044d52994030165363ad7974&dn=[javdb.com]jul-259-C.torrent",
+        "title": "JUL259"
+    },
+    {
+        "id": "JUL260",
+        "magnet": "magnet:?xt=urn:btih:e3c31364c61bb06a79912012fb88acdfec7e0f79&dn=[javdb.com]jul-260-C.torrent",
+        "title": "JUL260"
+    },
+    {
+        "id": "JUL261",
+        "magnet": "magnet:?xt=urn:btih:27a43ac9b4ac356dacb558f190a6c39bf56eef8c&dn=[javdb.com]jul-261-C.torrent",
+        "title": "JUL261"
+    },
+    {
+        "id": "JUL262",
+        "magnet": "magnet:?xt=urn:btih:bd2331c3d5be142ac2560f8b14fdb4b232ef9596&dn=[javdb.com]jul-262.torrent",
+        "title": "JUL262"
+    },
+    {
+        "id": "JUL263",
+        "magnet": "magnet:?xt=urn:btih:acee176fb5b4928f162d1a3f1a57a12cc8be946b&dn=[javdb.com]jul-263-C.torrent",
+        "title": "JUL263"
+    },
+    {
+        "id": "JUL264",
+        "magnet": "magnet:?xt=urn:btih:0a8dca821e1662b87ae31d8578815291241f2520&dn=[javdb.com]jul-264-C.torrent",
+        "title": "JUL264"
+    },
+    {
+        "id": "JUL265",
+        "magnet": "magnet:?xt=urn:btih:3b66ec5cb1591499e4614dcb2ab28eee1b1d38f7&dn=[javdb.com]jul-265-C.torrent",
+        "title": "JUL265"
+    },
+    {
+        "id": "JUL266",
+        "magnet": "magnet:?xt=urn:btih:dcc3929899f1714d31e25b9c0b0aa8e5c550f21f&dn=[javdb.com]jul-266-C.torrent",
+        "title": "JUL266"
+    },
+    {
+        "id": "JUL267",
+        "magnet": "magnet:?xt=urn:btih:d106a33e0653dc0fa6d744e80b92334062a6525e&dn=[javdb.com]jul-267.torrent",
+        "title": "JUL267"
+    },
+    {
+        "id": "JUL268",
+        "magnet": "magnet:?xt=urn:btih:56dc71224263c61c9ec8b2f0cdf9db9b0e1fd77b&dn=[javdb.com]jul-268-C.torrent",
+        "title": "JUL268"
+    },
+    {
+        "id": "JUL269",
+        "magnet": "magnet:?xt=urn:btih:8de5ab5b9fd596977c72c2a23435b505b9454844&dn=[javdb.com]jul-269-C.torrent",
+        "title": "JUL269"
+    },
+    {
+        "id": "JUL270",
+        "magnet": "magnet:?xt=urn:btih:559878c2d24cfea576d20b1426b772d7b956fa95&dn=[javdb.com]jul-270.torrent",
+        "title": "JUL270"
+    },
+    {
+        "id": "JUL271",
+        "magnet": "magnet:?xt=urn:btih:79d6085218ca3d38abcfc113a598f56ab63da422&dn=[javdb.com]jul-271-C.torrent",
+        "title": "JUL271"
+    },
+    {
+        "id": "JUL272",
+        "magnet": "magnet:?xt=urn:btih:c3fb37094a52cb2c127c043ceba11f8d948cc914&dn=[javdb.com]jul-272-C.torrent",
+        "title": "JUL272"
+    },
+    {
+        "id": "JUL273",
+        "magnet": "magnet:?xt=urn:btih:98eb8a182db521db26831d7861e5f7ba76f302ce&dn=[javdb.com]jul-273-C.torrent",
+        "title": "JUL273"
+    },
+    {
+        "id": "JUL274",
+        "magnet": "magnet:?xt=urn:btih:a9b99da294b9e70830eeaa833e05fbfd93b038dd&dn=[javdb.com]jul-274-C.torrent",
+        "title": "JUL274"
+    },
+    {
+        "id": "JUL275",
+        "magnet": "magnet:?xt=urn:btih:81b4949d37ac2c89d912de486575db99e57d8552&dn=[javdb.com]jul-275-C.torrent",
+        "title": "JUL275"
+    },
+    {
+        "id": "JUL276",
+        "magnet": "magnet:?xt=urn:btih:71be8a9c709110c0c41ca40ef7600ba34bd25c82&dn=[javdb.com]jul-276-C.torrent",
+        "title": "JUL276"
+    },
+    {
+        "id": "JUL277",
+        "magnet": "magnet:?xt=urn:btih:d624f9732fcb592a7b24b823fa85d721b6a20771&dn=[javdb.com]jul-277-C.torrent",
+        "title": "JUL277"
+    },
+    {
+        "id": "JUL278",
+        "magnet": "magnet:?xt=urn:btih:44513567980e019173f22c8efabb7aec904d3782&dn=[javdb.com]jul-278-C.torrent",
+        "title": "JUL278"
+    },
+    {
+        "id": "JUL279",
+        "magnet": "magnet:?xt=urn:btih:5263f281f24d4c10a1cc6358f3984b7bc2b24cfa&dn=[javdb.com]jul-279-C.torrent",
+        "title": "JUL279"
+    },
+    {
+        "id": "JUL280",
+        "magnet": "magnet:?xt=urn:btih:84d2ecd9e1226462de9399edb01f0729e7088f9c&dn=[javdb.com]jul-280-C.torrent",
+        "title": "JUL280"
+    },
+    {
+        "id": "JUL281",
+        "magnet": "magnet:?xt=urn:btih:ed5c8735161d0e695cff839c0bbc58a2723b3bac&dn=[javdb.com]jul-281-C.torrent",
+        "title": "JUL281"
+    },
+    {
+        "id": "JUL282",
+        "magnet": "magnet:?xt=urn:btih:800c254681d263adf5ffd5a7b32aa225beb73dc7&dn=[javdb.com]jul-282-C.torrent",
+        "title": "JUL282"
+    },
+    {
+        "id": "JUL283",
+        "magnet": "magnet:?xt=urn:btih:f1c337ae9c4d6eea86f6b1fca7a3636933bbe021&dn=[javdb.com]jul-283-C.torrent",
+        "title": "JUL283"
+    },
+    {
+        "id": "JUL284",
+        "magnet": "magnet:?xt=urn:btih:a5dafb9357341f2b443a6dce2889bdedfc2a1872&dn=[javdb.com]jul-284-C.torrent",
+        "title": "JUL284"
+    },
+    {
+        "id": "JUL285",
+        "magnet": "magnet:?xt=urn:btih:6cdd646c174674dcbd7f9a4379e2fc115c0c7295&dn=[javdb.com]jul-285-C.torrent",
+        "title": "JUL285"
+    },
+    {
+        "id": "JUL286",
+        "magnet": "magnet:?xt=urn:btih:7b794bd81f808a7e89fb8e17109b9aa5c7e051fd&dn=[javdb.com]jul-286-C.torrent",
+        "title": "JUL286"
+    },
+    {
+        "id": "JUL287",
+        "magnet": "magnet:?xt=urn:btih:38e3ec2a5eae639c4d8e6d70180a62167ae1729f&dn=[javdb.com]jul-287-C.torrent",
+        "title": "JUL287"
+    },
+    {
+        "id": "JUL288",
+        "magnet": "magnet:?xt=urn:btih:e6e68d1da71f7e6c59d75b13c28ce53124b7e8f3&dn=[javdb.com]jul-288-C.torrent",
+        "title": "JUL288"
+    },
+    {
+        "id": "JUL289",
+        "magnet": "magnet:?xt=urn:btih:594eaf2ab0ed56d696136615abf47c2431ad1a7c&dn=[javdb.com]jul-289-C.torrent",
+        "title": "JUL289"
+    },
+    {
+        "id": "JUL290",
+        "magnet": "magnet:?xt=urn:btih:c714835ffcdb4ea76bf75ba9a388698a173afb21&dn=[javdb.com]jul-290-C.torrent",
+        "title": "JUL290"
+    },
+    {
+        "id": "JUL291",
+        "magnet": "magnet:?xt=urn:btih:3b48f8932113ef6c49f9c247a8f4b5196af48b32&dn=[javdb.com]jul-291-C.torrent",
+        "title": "JUL291"
+    },
+    {
+        "id": "JUL292",
+        "magnet": "magnet:?xt=urn:btih:b37e906dd7d3451bcc5374b39985e7ee2e7136ca&dn=[javdb.com]jul-292-C.torrent",
+        "title": "JUL292"
+    },
+    {
+        "id": "JUL293",
+        "magnet": "magnet:?xt=urn:btih:458052462d183021b092c755ab483453a78a88f8&dn=[javdb.com]jul-293-C.torrent",
+        "title": "JUL293"
+    },
+    {
+        "id": "JUL294",
+        "magnet": "magnet:?xt=urn:btih:ce366e0be85a890d42127960440d39cc11737bef&dn=[javdb.com]jul-294-C.torrent",
+        "title": "JUL294"
+    },
+    {
+        "id": "JUL295",
+        "magnet": "magnet:?xt=urn:btih:4dd8f683b0cded577d3afe1ee5ce16bc26cc1315&dn=[javdb.com]jul-295-C.torrent",
+        "title": "JUL295"
+    },
+    {
+        "id": "JUL296",
+        "magnet": "magnet:?xt=urn:btih:64b81a8b003ea1c63925c3e00f6004740099a9a0&dn=[javdb.com]jul-296-C.torrent",
+        "title": "JUL296"
+    },
+    {
+        "id": "JUL297",
+        "magnet": "magnet:?xt=urn:btih:882beb3cebf6240a32c2d2b5cb56ea92ac1de0e4&dn=[javdb.com]jul-297-C.torrent",
+        "title": "JUL297"
+    },
+    {
+        "id": "JUL298",
+        "magnet": "magnet:?xt=urn:btih:d958d3c18a0ca3c50ff997028fe8fb6922f3bd02&dn=[javdb.com]jul-298-C.torrent",
+        "title": "JUL298"
+    },
+    {
+        "id": "JUL299",
+        "magnet": "magnet:?xt=urn:btih:9525d1a6d86b318fbe22e2590fc0a06b8ef9d692&dn=[javdb.com]jul-299-C.torrent",
+        "title": "JUL299"
+    },
+    {
+        "id": "JUL300",
+        "magnet": "magnet:?xt=urn:btih:b374c8673cd5713b18f19609ee64dbbe84933d2c&dn=[javdb.com]jul-300-C.torrent",
+        "title": "JUL300"
+    },
+    {
+        "id": "JUL301",
+        "magnet": "magnet:?xt=urn:btih:c30a26b75aa45fd9aed991a3423c743a5ab58a9b&dn=[javdb.com]jul-301-C.torrent",
+        "title": "JUL301"
+    },
+    {
+        "id": "JUL302",
+        "magnet": "magnet:?xt=urn:btih:3eb34cccc92aaabc90750b016caf38add48bf15a&dn=[javdb.com]jul-302-C.torrent",
+        "title": "JUL302"
+    },
+    {
+        "id": "JUL303",
+        "magnet": "magnet:?xt=urn:btih:e69b732331450fad0f33b858eea4080b29a69032&dn=[javdb.com]jul-303.torrent",
+        "title": "JUL303"
+    },
+    {
+        "id": "JUL304",
+        "magnet": "magnet:?xt=urn:btih:8248ca3dc4f55596ff109f7ad35d7e466f380c0c&dn=[javdb.com]jul-304-C.torrent",
+        "title": "JUL304"
+    },
+    {
+        "id": "JUL305",
+        "magnet": "magnet:?xt=urn:btih:cd2d8f5729f0d4030274264b602dd7ce6c6c4f90&dn=[javdb.com]jul-305-C.torrent",
+        "title": "JUL305"
+    },
+    {
+        "id": "JUL306",
+        "magnet": "magnet:?xt=urn:btih:e128ef6bc97021d7e1bb1a7737141e1775d97d27&dn=[javdb.com]jul-306-C.torrent",
+        "title": "JUL306"
+    },
+    {
+        "id": "JUL307",
+        "magnet": "magnet:?xt=urn:btih:94bc6fd2be122aa75e0eae2613e5c9aa67cd6898&dn=[javdb.com]jul-307-C.torrent",
+        "title": "JUL307"
+    },
+    {
+        "id": "JUL308",
+        "magnet": "magnet:?xt=urn:btih:3504891e7761d71c7bdb63bc2e5ef2e3cea300a4&dn=[javdb.com]jul-308-C.torrent",
+        "title": "JUL308"
+    },
+    {
+        "id": "JUL309",
+        "magnet": "magnet:?xt=urn:btih:19da72f3aeb9ec2fa49f11765de170837e7e37f2&dn=[javdb.com]jul-309-C.torrent",
+        "title": "JUL309"
+    },
+    {
+        "id": "JUL310",
+        "magnet": "magnet:?xt=urn:btih:d9c8c051fb089fae5235e2ed747e16fde3e2e471&dn=[javdb.com]jul-310-C.torrent",
+        "title": "JUL310"
+    },
+    {
+        "id": "JUL311",
+        "magnet": "magnet:?xt=urn:btih:36039fee616f9c19dbc731eaddd631de2676213e&dn=[javdb.com]jul-311-C.torrent",
+        "title": "JUL311"
+    },
+    {
+        "id": "JUL312",
+        "magnet": "magnet:?xt=urn:btih:15fa4ec346201dcc7edd2d9f5faff05897677451&dn=[javdb.com]jul-312-C.torrent",
+        "title": "JUL312"
+    },
+    {
+        "id": "JUL313",
+        "magnet": "magnet:?xt=urn:btih:e7a83d3f3540cbaa4cdb34b40c86798bd1a850b8&dn=[javdb.com]jul-313-C.torrent",
+        "title": "JUL313"
+    },
+    {
+        "id": "JUL314",
+        "magnet": "magnet:?xt=urn:btih:2c3f4ef7d028bc5806fb4bb7f2655389feab4eb3&dn=[javdb.com]jul-314-C.torrent",
+        "title": "JUL314"
+    },
+    {
+        "id": "JUL315",
+        "magnet": "magnet:?xt=urn:btih:34752a664c157a553bd3495a2479bc481354f769&dn=[javdb.com]jul-315-C.torrent",
+        "title": "JUL315"
+    },
+    {
+        "id": "JUL316",
+        "magnet": "magnet:?xt=urn:btih:37c4e8f62a48c2eadd66d0e4d87ba73f4245cb64&dn=[javdb.com]jul-316.torrent",
+        "title": "JUL316"
+    },
+    {
+        "id": "JUL317",
+        "magnet": "magnet:?xt=urn:btih:06d10c079f7dc78f36ce40a6a29cf64d110e30aa&dn=[javdb.com]jul-317-C.torrent",
+        "title": "JUL317"
+    },
+    {
+        "id": "JUL318",
+        "magnet": "magnet:?xt=urn:btih:099605877263b55be8280020d9065ddf0c6924fd&dn=[javdb.com]jul-318-C.torrent",
+        "title": "JUL318"
+    },
+    {
+        "id": "JUL319",
+        "magnet": "magnet:?xt=urn:btih:9b9f9fa3cdf3fa7bc0c74c5efb364813f50e83ac&dn=[javdb.com]jul-319-C.torrent",
+        "title": "JUL319"
+    },
+    {
+        "id": "JUL320",
+        "magnet": "magnet:?xt=urn:btih:c1861789c5160d9cf0e6a9b3ae2f76d57cb82fc8&dn=[javdb.com]jul-320-C.torrent",
+        "title": "JUL320"
+    },
+    {
+        "id": "JUL321",
+        "magnet": "magnet:?xt=urn:btih:532236a720222a8f7501015e104aca625c31ab28&dn=[javdb.com]jul-321-C.torrent",
+        "title": "JUL321"
+    },
+    {
+        "id": "JUL322",
+        "magnet": "magnet:?xt=urn:btih:09ab7fd9f568742d60e9cbe4822df773637edbea&dn=[javdb.com]jul-322.torrent",
+        "title": "JUL322"
+    },
+    {
+        "id": "JUL323",
+        "magnet": "magnet:?xt=urn:btih:8a06f6a45012a19f087db239278e54bb46b34ff7&dn=[javdb.com]jul-323-C.torrent",
+        "title": "JUL323"
+    },
+    {
+        "id": "JUL324",
+        "magnet": "magnet:?xt=urn:btih:196cb04471ac5069604a4d547b0a45145ceab532&dn=[javdb.com]jul-324.torrent",
+        "title": "JUL324"
+    },
+    {
+        "id": "JUL325",
+        "magnet": "magnet:?xt=urn:btih:afb9a1f3578e654cfd5e16945c6a0cfa6cdc131d&dn=[javdb.com]jul-325-C.torrent",
+        "title": "JUL325"
+    },
+    {
+        "id": "JUL326",
+        "magnet": "magnet:?xt=urn:btih:df814310c57f6aa6e378f3156e7aa59a6c5a4fa0&dn=[javdb.com]jul-326-C.torrent",
+        "title": "JUL326"
+    },
+    {
+        "id": "JUL327",
+        "magnet": "magnet:?xt=urn:btih:59e137a4f161e4513cd60e097905aeedb51c8d1b&dn=[javdb.com]jul-327-C.torrent",
+        "title": "JUL327"
+    },
+    {
+        "id": "JUL328",
+        "magnet": "magnet:?xt=urn:btih:5467fe4bb04aa35de88b3b8a08c7db2fb898e6d8&dn=[javdb.com]jul-328-C.torrent",
+        "title": "JUL328"
+    },
+    {
+        "id": "JUL329",
+        "magnet": "magnet:?xt=urn:btih:d23414032bf95ef604aeba2a336728d0fc529623&dn=[javdb.com]jul-329-C.torrent",
+        "title": "JUL329"
+    },
+    {
+        "id": "JUL330",
+        "magnet": "magnet:?xt=urn:btih:066df6cfecfefd11ec11557a9825c3cbe4e246b7&dn=[javdb.com]jul-330-C.torrent",
+        "title": "JUL330"
+    },
+    {
+        "id": "JUL331",
+        "magnet": "magnet:?xt=urn:btih:64260071ce3366e552de18b75a247ba35e5a9cfb&dn=[javdb.com]jul-331-C.torrent",
+        "title": "JUL331"
+    },
+    {
+        "id": "JUL332",
+        "magnet": "magnet:?xt=urn:btih:165323297c8b8569c41981ad3414de85e97ce75b&dn=[javdb.com]jul-332.torrent",
+        "title": "JUL332"
+    },
+    {
+        "id": "JUL333",
+        "magnet": "magnet:?xt=urn:btih:1e59bee3bc61dfc3de40f65169fdf15dee79267d&dn=[javdb.com]jul-333-C.torrent",
+        "title": "JUL333"
+    },
+    {
+        "id": "JUL334",
+        "magnet": "magnet:?xt=urn:btih:ca89a4b09443ca52f64a3297615f849f1c25006e&dn=[javdb.com]jul-334-C.torrent",
+        "title": "JUL334"
+    },
+    {
+        "id": "JUL335",
+        "magnet": "magnet:?xt=urn:btih:9b6a05e53ad0add9340220984da8b2915538b394&dn=[javdb.com]jul-335.torrent",
+        "title": "JUL335"
+    },
+    {
+        "id": "JUL336",
+        "magnet": "magnet:?xt=urn:btih:30f35f780ccc6590f375e41dedbc13ec02ba4376&dn=[javdb.com]jul-336-C.torrent",
+        "title": "JUL336"
+    },
+    {
+        "id": "JUL337",
+        "magnet": "magnet:?xt=urn:btih:261cc5909768a185e42fa25fa5b8f66ab7d25f97&dn=[javdb.com]jul-337-C.torrent",
+        "title": "JUL337"
+    },
+    {
+        "id": "JUL338",
+        "magnet": "magnet:?xt=urn:btih:2dc89ab74d54eaa9b70448cf286dc826302d6f18&dn=[javdb.com]jul-338-C.torrent",
+        "title": "JUL338"
+    },
+    {
+        "id": "JUL339",
+        "magnet": "magnet:?xt=urn:btih:0da6d5e964d07dbd0f291ff106447d4e407953fc&dn=[javdb.com]jul-339.torrent",
+        "title": "JUL339"
+    },
+    {
+        "id": "JUL340",
+        "magnet": "magnet:?xt=urn:btih:ef1c1322a6e34bb8bc7e99756670412c4e174187&dn=[javdb.com]jul-340-C.torrent",
+        "title": "JUL340"
+    },
+    {
+        "id": "JUL341",
+        "magnet": "magnet:?xt=urn:btih:cbbed85ce5e295801003b5d0dc7a1093ae29e8cf&dn=[javdb.com]jul-341-C.torrent",
+        "title": "JUL341"
+    },
+    {
+        "id": "JUL342",
+        "magnet": "magnet:?xt=urn:btih:27050f9b16708cbd40f28d17f082cb0d231a5611&dn=[javdb.com]jul-342-C.torrent",
+        "title": "JUL342"
+    },
+    {
+        "id": "JUL343",
+        "magnet": "magnet:?xt=urn:btih:08507870ac903d0859b23c23553ba8b7da568df6&dn=[javdb.com]jul-343-C.torrent",
+        "title": "JUL343"
+    },
+    {
+        "id": "JUL344",
+        "magnet": "magnet:?xt=urn:btih:3898cc219c5b15751402186f191aafe77de8de96&dn=[javdb.com]jul-344-C.torrent",
+        "title": "JUL344"
+    },
+    {
+        "id": "JUL345",
+        "magnet": "magnet:?xt=urn:btih:04ffab2daa6293dabaa5224d7e91c325ccb9cb33&dn=[javdb.com]jul-345.torrent",
+        "title": "JUL345"
+    },
+    {
+        "id": "JUL346",
+        "magnet": "magnet:?xt=urn:btih:c2a9b972b8ea42eaec664f064ea0970d113e87ab&dn=[javdb.com]jul-346-C.torrent",
+        "title": "JUL346"
+    },
+    {
+        "id": "JUL347",
+        "magnet": "magnet:?xt=urn:btih:54ec46c8de522970c56a0a3f8699a220a581e6cd&dn=[javdb.com]jul-347-C.torrent",
+        "title": "JUL347"
+    },
+    {
+        "id": "JUL348",
+        "magnet": "magnet:?xt=urn:btih:b1a2260ab5f94572165fc2cc4a802f8be35c1938&dn=[javdb.com]jul-348-C.torrent",
+        "title": "JUL348"
+    },
+    {
+        "id": "JUL349",
+        "magnet": "magnet:?xt=urn:btih:8b08a103ee05c6406e7a94530719b616767adf5d&dn=[javdb.com]jul-349-C.torrent",
+        "title": "JUL349"
+    },
+    {
+        "id": "JUL350",
+        "magnet": "magnet:?xt=urn:btih:a0c79e87b2062b08e12383b1e7b8f73409d09620&dn=[javdb.com]jul-350-C.torrent",
+        "title": "JUL350"
+    },
+    {
+        "id": "JUL351",
+        "magnet": "magnet:?xt=urn:btih:8f5fe8950cfc864d720c7b34e6a14af8d107afbb&dn=[javdb.com]jul-351.torrent",
+        "title": "JUL351"
+    },
+    {
+        "id": "JUL352",
+        "magnet": "magnet:?xt=urn:btih:5294d0d05e17a8427690005db99c4b5fc27e61be&dn=[javdb.com]jul-352-C.torrent",
+        "title": "JUL352"
+    },
+    {
+        "id": "JUL353",
+        "magnet": "magnet:?xt=urn:btih:0bb6a6a51751deb3d96c15c800a5f9b3654f48cf&dn=[javdb.com]jul-353-C.torrent",
+        "title": "JUL353"
+    },
+    {
+        "id": "JUL354",
+        "magnet": "magnet:?xt=urn:btih:3661d632e9adec6aa75f83bf0730302d45138849&dn=[javdb.com]jul-354-C.torrent",
+        "title": "JUL354"
+    },
+    {
+        "id": "JUL355",
+        "magnet": "magnet:?xt=urn:btih:0e14843513bc76c25506c69286db633baf3bd6a7&dn=[javdb.com]jul-355-C.torrent",
+        "title": "JUL355"
+    },
+    {
+        "id": "JUL356",
+        "magnet": "magnet:?xt=urn:btih:c656b5497f0f3a9aa410140b889768b092c23182&dn=[javdb.com]jul-356-C.torrent",
+        "title": "JUL356"
+    },
+    {
+        "id": "JUL357",
+        "magnet": "magnet:?xt=urn:btih:c7d739bb4e956be5ef7d9d5fe8fdd02042e7c9d2&dn=[javdb.com]jul-357.torrent",
+        "title": "JUL357"
+    },
+    {
+        "id": "JUL358",
+        "magnet": "magnet:?xt=urn:btih:cc865e6c595666b67f3a6d63686571cd41fe941a&dn=[javdb.com]jul-358.torrent",
+        "title": "JUL358"
+    },
+    {
+        "id": "JUL359",
+        "magnet": "magnet:?xt=urn:btih:8ad6b5b3767771bfed240ce07f1f8646929f4ebf&dn=[javdb.com]jul-359-C.torrent",
+        "title": "JUL359"
+    },
+    {
+        "id": "JUL360",
+        "magnet": "magnet:?xt=urn:btih:6bce430f0bd86bbb2a3d6fb1061c0a6bbb3c14be&dn=[javdb.com]jul-360.torrent",
+        "title": "JUL360"
+    },
+    {
+        "id": "JUL361",
+        "magnet": "magnet:?xt=urn:btih:370551b6587472135dfca7d64b073d8bedc09ca0&dn=[javdb.com]jul-361.torrent",
+        "title": "JUL361"
+    },
+    {
+        "id": "JUL362",
+        "magnet": "magnet:?xt=urn:btih:59cf817303dd45f3043d9b7ee770288849b5f0a3&dn=[javdb.com]jul-362.torrent",
+        "title": "JUL362"
+    },
+    {
+        "id": "JUL363",
+        "magnet": "magnet:?xt=urn:btih:17ee112d2a0ca58b09f38350d010dd909b4e6469&dn=[javdb.com]jul-363-C.torrent",
+        "title": "JUL363"
+    },
+    {
+        "id": "JUL364",
+        "magnet": "magnet:?xt=urn:btih:793337d15760d44d01a969fb8069e78aa1a7f567&dn=[javdb.com]jul-364-C.torrent",
+        "title": "JUL364"
+    },
+    {
+        "id": "JUL365",
+        "magnet": "magnet:?xt=urn:btih:bd5bdb307fd0a46a7e0e2ea827d7bd651ee1e3fa&dn=[javdb.com]jul-365-C.torrent",
+        "title": "JUL365"
+    },
+    {
+        "id": "JUL366",
+        "magnet": "magnet:?xt=urn:btih:1cf39caa55b249d9385022c17c0b82f54f524345&dn=[javdb.com]jul-366-C.torrent",
+        "title": "JUL366"
+    },
+    {
+        "id": "JUL367",
+        "magnet": "magnet:?xt=urn:btih:8a2c037fd90ecb5b2f113f8856e18cc5d49dbff8&dn=[javdb.com]jul-367-C.torrent",
+        "title": "JUL367"
+    },
+    {
+        "id": "JUL368",
+        "magnet": "magnet:?xt=urn:btih:2d2abb78e212887fc0ae156f201afaa5e1e633a1&dn=[javdb.com]jul-368.torrent",
+        "title": "JUL368"
+    },
+    {
+        "id": "JUL369",
+        "magnet": "magnet:?xt=urn:btih:f857552f5bcc7739ec8163b744932b0221bcc37f&dn=[javdb.com]jul-369-C.torrent",
+        "title": "JUL369"
+    },
+    {
+        "id": "JUL370",
+        "magnet": "magnet:?xt=urn:btih:2ac90f29490fa5e025df647bf897659941cadc2e&dn=[javdb.com]jul-370.torrent",
+        "title": "JUL370"
+    },
+    {
+        "id": "JUL371",
+        "magnet": "magnet:?xt=urn:btih:9c0ee2241025125f3cc46cf6f6a657956a7205c0&dn=[javdb.com]jul-371.torrent",
+        "title": "JUL371"
+    },
+    {
+        "id": "JUL372",
+        "magnet": "magnet:?xt=urn:btih:79da1da60d6049aaf56b500bbe895ad064964da0&dn=[javdb.com]jul-372.torrent",
+        "title": "JUL372"
+    },
+    {
+        "id": "JUL373",
+        "magnet": "magnet:?xt=urn:btih:173622100f1f07463f71d0fe8a61806f5a0df398&dn=[javdb.com]jul-373.torrent",
+        "title": "JUL373"
+    },
+    {
+        "id": "JUL374",
+        "magnet": "magnet:?xt=urn:btih:1e52581d2ee1e08c4e435d8de79ac7aca470037d&dn=[javdb.com]jul-374-C.torrent",
+        "title": "JUL374"
+    },
+    {
+        "id": "JUL375",
+        "magnet": "magnet:?xt=urn:btih:d845fd52e7f3c4688f607b8b65df129c172daa1a&dn=[javdb.com]jul-375-C.torrent",
+        "title": "JUL375"
+    },
+    {
+        "id": "JUL376",
+        "magnet": "magnet:?xt=urn:btih:e1a12075ca63e0daf66cdff4f40f034620547337&dn=[javdb.com]jul-376-C.torrent",
+        "title": "JUL376"
+    },
+    {
+        "id": "JUL377",
+        "magnet": "magnet:?xt=urn:btih:0152c08da4f103fb93d27f87f9dc1a557bd47a56&dn=[javdb.com]jul-377-C.torrent",
+        "title": "JUL377"
+    },
+    {
+        "id": "JUL378",
+        "magnet": "magnet:?xt=urn:btih:e84eaf527948e0c516d6d0e4ca356fb21c0022d5&dn=[javdb.com]jul-378-C.torrent",
+        "title": "JUL378"
+    },
+    {
+        "id": "JUL379",
+        "magnet": "magnet:?xt=urn:btih:4d782d5fab8877af5a88bc21b2665f591eb11468&dn=[javdb.com]jul-379-C.torrent",
+        "title": "JUL379"
+    },
+    {
+        "id": "JUL380",
+        "magnet": "magnet:?xt=urn:btih:b7af02fb61b8a868c490aff00c153f306f439e2e&dn=[javdb.com]jul-380-C.torrent",
+        "title": "JUL380"
+    },
+    {
+        "id": "JUL381",
+        "magnet": "magnet:?xt=urn:btih:21cb4465836002ec80c963c835cbdb00b585bda2&dn=[javdb.com]jul-381-C.torrent",
+        "title": "JUL381"
+    },
+    {
+        "id": "JUL382",
+        "magnet": "magnet:?xt=urn:btih:9efca7302836af61b9d1a69ef63e5f8e545b1e59&dn=[javdb.com]jul-382-C.torrent",
+        "title": "JUL382"
+    },
+    {
+        "id": "JUL383",
+        "magnet": "magnet:?xt=urn:btih:a5b73722bdfdaf45bd8a6a2ee181f46657bbcbf9&dn=[javdb.com]jul-383-C.torrent",
+        "title": "JUL383"
+    },
+    {
+        "id": "JUL384",
+        "magnet": "magnet:?xt=urn:btih:44cb109a5543868a7534583cbadc23168bda0e90&dn=[javdb.com]jul-384.torrent",
+        "title": "JUL384"
+    },
+    {
+        "id": "JUL385",
+        "magnet": "magnet:?xt=urn:btih:4e39123714c0e75866d55d240fa0662d1f9c97ac&dn=[javdb.com]jul-385-C.torrent",
+        "title": "JUL385"
+    },
+    {
+        "id": "JUL386",
+        "magnet": "magnet:?xt=urn:btih:6c934548c89d7235e209607b7769fbcc97efc549&dn=[javdb.com]jul-386.torrent",
+        "title": "JUL386"
+    },
+    {
+        "id": "JUL387",
+        "magnet": "magnet:?xt=urn:btih:49ece293725c6ec44d8e3cde6815dab6239b3dce&dn=[javdb.com]jul-387.torrent",
+        "title": "JUL387"
+    },
+    {
+        "id": "JUL388",
+        "magnet": "magnet:?xt=urn:btih:5bd986680938d4d01abf2721428311898da0650c&dn=[javdb.com]JUL-388-C-4K",
+        "title": "JUL388"
+    },
+    {
+        "id": "JUL388",
+        "magnet": "magnet:?xt=urn:btih:1ece778d28fe6b47bacc95838bdd50f5f40eceda&dn=[javdb.com]jul-388-C.torrent",
+        "title": "JUL388"
+    },
+    {
+        "id": "JUL388",
+        "magnet": "magnet:?xt=urn:btih:f72b16116f32124bda0b2731ab03c0d6ca88a4e4&dn=[javdb.com]jul-388.torrent",
+        "title": "JUL388"
+    },
+    {
+        "id": "JUL388",
+        "magnet": "magnet:?xt=urn:btih:0fe041f324225004e23378a44bd44daa330a0c2e&dn=[javdb.com]JUL-388-4K",
+        "title": "JUL388"
+    },
+    {
+        "id": "JUL389",
+        "magnet": "magnet:?xt=urn:btih:4f669ae3644cfd795ba2d76aeb569963276ea4c3&dn=[javdb.com]jul-389-C.torrent",
+        "title": "JUL389"
+    },
+    {
+        "id": "JUL390",
+        "magnet": "magnet:?xt=urn:btih:199bd5f4d19acbb1162bd59f0675c5948f356bbb&dn=[javdb.com]jul-390.torrent",
+        "title": "JUL390"
+    },
+    {
+        "id": "JUL391",
+        "magnet": "magnet:?xt=urn:btih:b2386d7a6a602390fa2830e097445ce5387d9087&dn=[javdb.com]jul-391-C.torrent",
+        "title": "JUL391"
+    },
+    {
+        "id": "JUL392",
+        "magnet": "magnet:?xt=urn:btih:89bf518aece057f90eb7797b3c927ac3f622d3eb&dn=[javdb.com]jul-392-C.torrent",
+        "title": "JUL392"
+    },
+    {
+        "id": "JUL393",
+        "magnet": "magnet:?xt=urn:btih:a49f45b322b2d5f38e358904032296c6fdcc90b2&dn=[javdb.com]jul-393-C.torrent",
+        "title": "JUL393"
+    },
+    {
+        "id": "JUL394",
+        "magnet": "magnet:?xt=urn:btih:55a950e48299294c288ea5bad879baa4b38a49a6&dn=[javdb.com]jul-394.torrent",
+        "title": "JUL394"
+    },
+    {
+        "id": "JUL395",
+        "magnet": "magnet:?xt=urn:btih:936b057cccad2d21cff94a4b98af20e641ab63a0&dn=[javdb.com]jul-395.torrent",
+        "title": "JUL395"
+    },
+    {
+        "id": "JUL396",
+        "magnet": "magnet:?xt=urn:btih:34cbb23845036968f6765626d11b5feef088768b&dn=[javdb.com]jul-396-C.torrent",
+        "title": "JUL396"
+    },
+    {
+        "id": "JUL397",
+        "magnet": "magnet:?xt=urn:btih:c12854971484f7bbb948719889e61bb6164c4bdf&dn=[javdb.com]jul-397.torrent",
+        "title": "JUL397"
+    },
+    {
+        "id": "JUL398",
+        "magnet": "magnet:?xt=urn:btih:31b707a890b739db8b45addff5c40aae47d1b2fa&dn=[javdb.com]jul-398.torrent",
+        "title": "JUL398"
+    },
+    {
+        "id": "JUL399",
+        "magnet": "magnet:?xt=urn:btih:c7494becc157a131f1c243509b828620443c992e&dn=[javdb.com]jul-399.torrent",
+        "title": "JUL399"
+    },
+    {
+        "id": "JUL400",
+        "magnet": "magnet:?xt=urn:btih:94059f5349202fa7abd7500e19fb36aec7019a85&dn=[javdb.com]jul-400.torrent",
+        "title": "JUL400"
+    },
+    {
+        "id": "JUL401",
+        "magnet": "magnet:?xt=urn:btih:428f5dfab2defe8574faf0834f060542d26a4bc6&dn=[javdb.com]jul-401.torrent",
+        "title": "JUL401"
+    },
+    {
+        "id": "JUL402",
+        "magnet": "magnet:?xt=urn:btih:7328c46acfb6ffbb9da711afc2aab9802fc29091&dn=[javdb.com]jul-402-C.torrent",
+        "title": "JUL402"
+    },
+    {
+        "id": "JUL403",
+        "magnet": "magnet:?xt=urn:btih:b6b19676fead8b3b3e6365ed92c160708444838d&dn=[javdb.com]jul-403-C.torrent",
+        "title": "JUL403"
+    },
+    {
+        "id": "JUL404",
+        "magnet": "magnet:?xt=urn:btih:41c9cf2f5aeb1b654cf0d9b19dd1e454962896a1&dn=[javdb.com]jul-404.torrent",
+        "title": "JUL404"
+    },
+    {
+        "id": "JUL405",
+        "magnet": "magnet:?xt=urn:btih:bc1b6998c173bdfd4f8b9a416088d6e91e7bae27&dn=[javdb.com]jul-405.torrent",
+        "title": "JUL405"
+    },
+    {
+        "id": "JUL406",
+        "magnet": "magnet:?xt=urn:btih:e3e85e1c42b8df051a81b772e8756c94bdef72c4&dn=[javdb.com]jul-406-C.torrent",
+        "title": "JUL406"
+    },
+    {
+        "id": "JUL407",
+        "magnet": "magnet:?xt=urn:btih:1a252e9f92a754fdf5362778de9dd48ccf92d640&dn=[javdb.com]jul-407-C.torrent",
+        "title": "JUL407"
+    },
+    {
+        "id": "JUL408",
+        "magnet": "magnet:?xt=urn:btih:beb621906e3346ba5e7282b53e9e2d3b9eac7243&dn=[javdb.com]jul-408-C.torrent",
+        "title": "JUL408"
+    },
+    {
+        "id": "JUL409",
+        "magnet": "magnet:?xt=urn:btih:fb7830ccc0a43fa385edced59bef95fd679fc8d6&dn=[javdb.com]jul-409-C.torrent",
+        "title": "JUL409"
+    },
+    {
+        "id": "JUL410",
+        "magnet": "magnet:?xt=urn:btih:19a36ca1f8e6e260dd01387100c9e9b88d14c49a&dn=[javdb.com]jul-410-C.torrent",
+        "title": "JUL410"
+    },
+    {
+        "id": "JUL411",
+        "magnet": "magnet:?xt=urn:btih:9f365bf0935e477597cd77e555290a51d67e4942&dn=[javdb.com]jul-411-C.torrent",
+        "title": "JUL411"
+    },
+    {
+        "id": "JUL412",
+        "magnet": "magnet:?xt=urn:btih:ffbd2c8ac9be5ccfed17b02912ed9239349d50d7&dn=[javdb.com]jul-412-C.torrent",
+        "title": "JUL412"
+    },
+    {
+        "id": "JUL413",
+        "magnet": "magnet:?xt=urn:btih:c3d73bf55f5428ded8d0d56b8677546c9eae6e83&dn=[javdb.com]jul-413-C.torrent",
+        "title": "JUL413"
+    },
+    {
+        "id": "JUL414",
+        "magnet": "magnet:?xt=urn:btih:54a5bcb0dc8321330f9e68ebad486f4927af1df1&dn=[javdb.com]jul-414-C.torrent",
+        "title": "JUL414"
+    },
+    {
+        "id": "JUL415",
+        "magnet": "magnet:?xt=urn:btih:a2491f473d79f3d911af474d58d92454eadc0168&dn=[javdb.com]jul-415-C.torrent",
+        "title": "JUL415"
+    },
+    {
+        "id": "JUL416",
+        "magnet": "magnet:?xt=urn:btih:d393b10b3e3696af46f1a8e58d9d7d2021f5d7b8&dn=[javdb.com]jul-416-C.torrent",
+        "title": "JUL416"
+    },
+    {
+        "id": "JUL417",
+        "magnet": "magnet:?xt=urn:btih:8f5ae641eadf07595f782f6f5a7e1c48debff285&dn=[javdb.com]jul-417.torrent",
+        "title": "JUL417"
+    },
+    {
+        "id": "JUL418",
+        "magnet": "magnet:?xt=urn:btih:40f53059d73f2f5f7e18372d94b106737114cabf&dn=[javdb.com]jul-418-C.torrent",
+        "title": "JUL418"
+    },
+    {
+        "id": "JUL419",
+        "magnet": "magnet:?xt=urn:btih:048abe1567daf64c684c595d42bd380e7c58560c&dn=[javdb.com]jul-419-C.torrent",
+        "title": "JUL419"
+    },
+    {
+        "id": "JUL420",
+        "magnet": "magnet:?xt=urn:btih:afe7d428c521ca5499d89b8ae1ebc3dfd7015553&dn=[javdb.com]jul-420-C.torrent",
+        "title": "JUL420"
+    },
+    {
+        "id": "JUL421",
+        "magnet": "magnet:?xt=urn:btih:3fdd379bc0656e46de7c7de5f21920cc75d9fdef&dn=[javdb.com]jul-421-C.torrent",
+        "title": "JUL421"
+    },
+    {
+        "id": "JUL422",
+        "magnet": "magnet:?xt=urn:btih:1ffd298fb3306f2dba4d2fec405a476f9715bb91&dn=[javdb.com]jul-422-C.torrent",
+        "title": "JUL422"
+    },
+    {
+        "id": "JUL423",
+        "magnet": "magnet:?xt=urn:btih:1bda36dc3ade8cbb5eba7b72bbed82a53204d390&dn=[javdb.com]jul-423-C.torrent",
+        "title": "JUL423"
+    },
+    {
+        "id": "JUL424",
+        "magnet": "magnet:?xt=urn:btih:c6819f8cc87e8a75f273085c05ccf05f611d9f62&dn=[javdb.com]jul-424.torrent",
+        "title": "JUL424"
+    },
+    {
+        "id": "JUL425",
+        "magnet": "magnet:?xt=urn:btih:13416715ebdeaaa375e45022fdf0957427763cfe&dn=[javdb.com]jul-425-C.torrent",
+        "title": "JUL425"
+    },
+    {
+        "id": "JUL426",
+        "magnet": "magnet:?xt=urn:btih:6de40a1dfcd16a284c7122a6129d2f6789b4236e&dn=[javdb.com]jul-426-C.torrent",
+        "title": "JUL426"
+    },
+    {
+        "id": "JUL427",
+        "magnet": "magnet:?xt=urn:btih:1e4cc5f2a4d327942b3890ae85a042a6292e7043&dn=[javdb.com]jul-427-C.torrent",
+        "title": "JUL427"
+    },
+    {
+        "id": "JUL428",
+        "magnet": "magnet:?xt=urn:btih:5dad1f71d402887ff91dcaea14a18c4c6761f7e7&dn=[javdb.com]jul-428-C.torrent",
+        "title": "JUL428"
+    },
+    {
+        "id": "JUL429",
+        "magnet": "magnet:?xt=urn:btih:41d64d87a510520f12832187c91e5b39bb9ce984&dn=[javdb.com]jul-429-C.torrent",
+        "title": "JUL429"
+    },
+    {
+        "id": "JUL430",
+        "magnet": "magnet:?xt=urn:btih:9fc7855b33d7d2aaf95b2a68deabe7d744fc30d5&dn=[javdb.com]jul-430-C.torrent",
+        "title": "JUL430"
+    },
+    {
+        "id": "JUL431",
+        "magnet": "magnet:?xt=urn:btih:123661a3e9b7fc8a43a559dd785ef2af0c22ce72&dn=[javdb.com]jul-431-C.torrent",
+        "title": "JUL431"
+    },
+    {
+        "id": "JUL432",
+        "magnet": "magnet:?xt=urn:btih:21742f2ebcdb5b1822fa76c60cd926e0460626b6&dn=[javdb.com]jul-432-C.torrent",
+        "title": "JUL432"
+    },
+    {
+        "id": "JUL433",
+        "magnet": "magnet:?xt=urn:btih:2d95bacacc686fd72af6816701c6ca18e85aaf40&dn=[javdb.com]jul-433-C.torrent",
+        "title": "JUL433"
+    },
+    {
+        "id": "JUL434",
+        "magnet": "magnet:?xt=urn:btih:e7ea8bedf5460f0ddc7e5d6f67f3e1c0a7970832&dn=[javdb.com]jul-434-C.torrent",
+        "title": "JUL434"
+    },
+    {
+        "id": "JUL435",
+        "magnet": "magnet:?xt=urn:btih:d69c66af83fc43b6f9a8ad476b927a7a808fe337&dn=[javdb.com]jul-435-C.torrent",
+        "title": "JUL435"
+    },
+    {
+        "id": "JUL436",
+        "magnet": "magnet:?xt=urn:btih:496d5964d7b11373e6729c8a55b3db378d342cfc&dn=[javdb.com]jul-436-C.torrent",
+        "title": "JUL436"
+    },
+    {
+        "id": "JUL437",
+        "magnet": "magnet:?xt=urn:btih:9ef22afdcdee9bce2740483f4400756be7d99be9&dn=[javdb.com]jul-437-C.torrent",
+        "title": "JUL437"
+    },
+    {
+        "id": "JUL438",
+        "magnet": "magnet:?xt=urn:btih:41014b71f770ab6c58a87c7482f4a7630fd3ab0a&dn=[javdb.com]jul-438-C.torrent",
+        "title": "JUL438"
+    },
+    {
+        "id": "JUL439",
+        "magnet": "magnet:?xt=urn:btih:0132a965510ff0404741d1e005c06c461bc59083&dn=[javdb.com]jul-439-C.torrent",
+        "title": "JUL439"
+    },
+    {
+        "id": "JUL440",
+        "magnet": "magnet:?xt=urn:btih:433a5cc23b80d282baa6895b42c30fa6d3ee1ece&dn=[javdb.com]jul-440.torrent",
+        "title": "JUL440"
+    },
+    {
+        "id": "JUL441",
+        "magnet": "magnet:?xt=urn:btih:971d18e0ef63925a20e85b08098fbe55f3f01d69&dn=[javdb.com]jul-441-C.torrent",
+        "title": "JUL441"
+    },
+    {
+        "id": "JUL442",
+        "magnet": "magnet:?xt=urn:btih:7c430615f99f183e74e8eb6eac751fcd61bb1a59&dn=[javdb.com]jul-442-C.torrent",
+        "title": "JUL442"
+    },
+    {
+        "id": "JUL443",
+        "magnet": "magnet:?xt=urn:btih:a5404b5992676d38812b0ccb19953b08fcf7fc5d&dn=[javdb.com]jul-443-C.torrent",
+        "title": "JUL443"
+    },
+    {
+        "id": "JUL444",
+        "magnet": "magnet:?xt=urn:btih:e4333dfa142aee57bed07eb3a06f8a03844c1860&dn=[javdb.com]jul-444-C.torrent",
+        "title": "JUL444"
+    },
+    {
+        "id": "JUL445",
+        "magnet": "magnet:?xt=urn:btih:5c063c5daf06c616b161e129e867a6a53e615558&dn=[javdb.com]jul-445-C.torrent",
+        "title": "JUL445"
+    },
+    {
+        "id": "JUL446",
+        "magnet": "magnet:?xt=urn:btih:7b9e2177c068fae981211e70677799b1dfc11f16&dn=[javdb.com]jul-446-C.torrent",
+        "title": "JUL446"
+    },
+    {
+        "id": "JUL447",
+        "magnet": "magnet:?xt=urn:btih:429868b2aabfe13f7a74759d6a09f1d01f63297e&dn=[javdb.com]jul-447-C.torrent",
+        "title": "JUL447"
+    },
+    {
+        "id": "JUL448",
+        "magnet": "magnet:?xt=urn:btih:98fcfdcad717038fb657f578bc518df717680b79&dn=[javdb.com]jul-448-C.torrent",
+        "title": "JUL448"
+    },
+    {
+        "id": "JUL449",
+        "magnet": "magnet:?xt=urn:btih:05ef404e4363bc1e1eb523e09b2c6683a8687006&dn=[javdb.com]jul-449-C.torrent",
+        "title": "JUL449"
+    },
+    {
+        "id": "JUL450",
+        "magnet": "magnet:?xt=urn:btih:d805cc0c0c14f2150959aa6f5ea0f0051d87614e&dn=[javdb.com]jul-450.torrent",
+        "title": "JUL450"
+    },
+    {
+        "id": "JUL451",
+        "magnet": "magnet:?xt=urn:btih:d325b6d1b2b790fc93babd9fd7257a7d6a88c3b8&dn=[javdb.com]jul-451-C.torrent",
+        "title": "JUL451"
+    },
+    {
+        "id": "JUL452",
+        "magnet": "magnet:?xt=urn:btih:58def12b803ecd5649e31594e717a57fa206182b&dn=[javdb.com]jul-452-C.torrent",
+        "title": "JUL452"
+    },
+    {
+        "id": "JUL453",
+        "magnet": "magnet:?xt=urn:btih:d77a1d5b108e3d145c703d23818f4b9a98d02be5&dn=[javdb.com]jul-453-C.torrent",
+        "title": "JUL453"
+    },
+    {
+        "id": "JUL454",
+        "magnet": "magnet:?xt=urn:btih:545d067824ca0bb9a053287e5c15fc15af067faa&dn=[javdb.com]jul-454.torrent",
+        "title": "JUL454"
+    },
+    {
+        "id": "JUL455",
+        "magnet": "magnet:?xt=urn:btih:372fc9c90be6e822e8e744eee36520af22eeb7a8&dn=[javdb.com]jul-455.torrent",
+        "title": "JUL455"
+    },
+    {
+        "id": "JUL456",
+        "magnet": "magnet:?xt=urn:btih:34c885b1e9069e637e24bfc3390bf3edd229c628&dn=[javdb.com]jul-456.torrent",
+        "title": "JUL456"
+    },
+    {
+        "id": "JUL457",
+        "magnet": "magnet:?xt=urn:btih:a73c693f44ecc14d63ce33dbc7aa1794531f9856&dn=[javdb.com]jul-457.torrent",
+        "title": "JUL457"
+    },
+    {
+        "id": "JUL458",
+        "magnet": "magnet:?xt=urn:btih:482b9f25a024619b1f22b070c9f69605fe7dc7cd&dn=[javdb.com]JUL-458-C.6000?????",
+        "title": "JUL458"
+    },
+    {
+        "id": "JUL458",
+        "magnet": "magnet:?xt=urn:btih:2efdcf05a4cbee30969094fa0bdea5a389253ee6&dn=[javdb.com]jul-458-C.torrent",
+        "title": "JUL458"
+    },
+    {
+        "id": "JUL459",
+        "magnet": "magnet:?xt=urn:btih:d03ca38aeaa306c733b5d253bc92cde58de84705&dn=[javdb.com]jul-459-C.torrent",
+        "title": "JUL459"
+    },
+    {
+        "id": "JUL460",
+        "magnet": "magnet:?xt=urn:btih:89e66a325d02fd9c5ab12f955ea5c271fb9781cd&dn=[javdb.com]jul-460-C.torrent",
+        "title": "JUL460"
+    },
+    {
+        "id": "JUL461",
+        "magnet": "magnet:?xt=urn:btih:75bb542c9fa5b89800bce03e57fae31b264bd6fe&dn=[javdb.com]jul-461-C.torrent",
+        "title": "JUL461"
+    },
+    {
+        "id": "JUL462",
+        "magnet": "magnet:?xt=urn:btih:b99303ce73a838bcbee52d16d1b7ef0de7e8f4c2&dn=[javdb.com]jul-462-C.torrent",
+        "title": "JUL462"
+    },
+    {
+        "id": "JUL463",
+        "magnet": "magnet:?xt=urn:btih:195fc4a7827642f02c57a25506af0fa5c5c3113c&dn=[javdb.com]jul-463c.2021.02.06.JapornX.6000kbps.1080p.x264.ACC.torrent",
+        "title": "JUL463"
+    },
+    {
+        "id": "JUL463",
+        "magnet": "magnet:?xt=urn:btih:f31c32eb5c8f2e8b85dc306d8925d1ea5b979992&dn=[javdb.com]jul-463-C.torrent",
+        "title": "JUL463"
+    },
+    {
+        "id": "JUL464",
+        "magnet": "magnet:?xt=urn:btih:013e3db930407642f74ac1b0d7c51351c53115cc&dn=[javdb.com]jul-464-C.torrent",
+        "title": "JUL464"
+    },
+    {
+        "id": "JUL465",
+        "magnet": "magnet:?xt=urn:btih:23b5f2248cf0edfc34f6186b7c6f8c30a4fac630&dn=[javdb.com]jul-465-C.torrent",
+        "title": "JUL465"
+    },
+    {
+        "id": "JUL466",
+        "magnet": "magnet:?xt=urn:btih:a3e7a47607911d8fb9308d0773b10b7418c9edbe&dn=[javdb.com]jul-466.torrent",
+        "title": "JUL466"
+    },
+    {
+        "id": "JUL467",
+        "magnet": "magnet:?xt=urn:btih:2a84241cc8aadb9137c65b2044ffd0497afc5708&dn=[javdb.com]jul-467-C.torrent",
+        "title": "JUL467"
+    },
+    {
+        "id": "JUL468",
+        "magnet": "magnet:?xt=urn:btih:33fb0161317db766dbeffdaa27298538a0b3d029&dn=[javdb.com]jul-468-C.torrent",
+        "title": "JUL468"
+    },
+    {
+        "id": "JUL469",
+        "magnet": "magnet:?xt=urn:btih:5b1312b9eeaa6c9463fb3e7cac315c6deb57d36b&dn=[javdb.com]jul-469-C.torrent",
+        "title": "JUL469"
+    },
+    {
+        "id": "JUL470",
+        "magnet": "magnet:?xt=urn:btih:e471f1012b92b64afdac161996982a9824f650a4&dn=[javdb.com]jul-470-C.torrent",
+        "title": "JUL470"
+    },
+    {
+        "id": "JUL471",
+        "magnet": "magnet:?xt=urn:btih:52a91e63da0749bbb1f406c09566838ba89586b4&dn=[javdb.com]jul-471-C.torrent",
+        "title": "JUL471"
+    },
+    {
+        "id": "JUL472",
+        "magnet": "magnet:?xt=urn:btih:2d084d47c095275c2f74503f6f6b10200605ba3a&dn=[javdb.com]jul-472-C.torrent",
+        "title": "JUL472"
+    },
+    {
+        "id": "JUL473",
+        "magnet": "magnet:?xt=urn:btih:9104d691becba5ac8ddfdb4dd92d5c95d60e5743&dn=[javdb.com]jul-473-C.torrent",
+        "title": "JUL473"
+    },
+    {
+        "id": "JUL474",
+        "magnet": "magnet:?xt=urn:btih:c4016f62e2b40adff879471734703f464fe28426&dn=[javdb.com]jul-474-C.torrent",
+        "title": "JUL474"
+    },
+    {
+        "id": "JUL475",
+        "magnet": "magnet:?xt=urn:btih:4343de7db9a6ff00fbca30bff92c4711f72232b2&dn=[javdb.com]jul-475-C.torrent",
+        "title": "JUL475"
+    },
+    {
+        "id": "JUL476",
+        "magnet": "magnet:?xt=urn:btih:c4c6f0a4bd3970571d8804c8e8b92aec2767b416&dn=[javdb.com]jul-476-C.torrent",
+        "title": "JUL476"
+    },
+    {
+        "id": "JUL477",
+        "magnet": "magnet:?xt=urn:btih:6d60c2fc0a816bb390e29178c87298dfa978c254&dn=[javdb.com]jul-477-C.torrent",
+        "title": "JUL477"
+    },
+    {
+        "id": "JUL478",
+        "magnet": "magnet:?xt=urn:btih:8433a1c9ba6df07fc5593868e49b6d054c20d1ed&dn=[javdb.com]jul-478-C.torrent",
+        "title": "JUL478"
+    },
+    {
+        "id": "JUL479",
+        "magnet": "magnet:?xt=urn:btih:6a527daab41b29f94a7c803fe351b3947e7d2518&dn=[javdb.com]jul-479-C.torrent",
+        "title": "JUL479"
+    },
+    {
+        "id": "JUL480",
+        "magnet": "magnet:?xt=urn:btih:f00caf2044840c81fddcfc14b739ec6efeca976d&dn=[javdb.com]jul-480-C.torrent",
+        "title": "JUL480"
+    },
+    {
+        "id": "JUL481",
+        "magnet": "magnet:?xt=urn:btih:089b6b5bc57232082f0c579cfb5a44a32448dbd9&dn=[javdb.com]jul-481.torrent",
+        "title": "JUL481"
+    },
+    {
+        "id": "JUL482",
+        "magnet": "magnet:?xt=urn:btih:bf81f0ef4676996a9e4583db8d55b759a4861244&dn=[javdb.com]jul-482-C.torrent",
+        "title": "JUL482"
+    },
+    {
+        "id": "JUL483",
+        "magnet": "magnet:?xt=urn:btih:293e7849078e80d9f776ea75754e822b08c345ac&dn=[javdb.com]jul-483-C.torrent",
+        "title": "JUL483"
+    },
+    {
+        "id": "JUL484",
+        "magnet": "magnet:?xt=urn:btih:f6e3b17aecc008ea911d4e5230a98e360535ce85&dn=[javdb.com]jul-484-C.torrent",
+        "title": "JUL484"
+    },
+    {
+        "id": "JUL485",
+        "magnet": "magnet:?xt=urn:btih:8f787ebcc821c67c56d6e3d55a136a6ac61cda57&dn=[javdb.com]jul-485-C.torrent",
+        "title": "JUL485"
+    },
+    {
+        "id": "JUL486",
+        "magnet": "magnet:?xt=urn:btih:0e15eff9f9964a9a766e66a0642747ff8fa4d7bb&dn=[javdb.com]jul-486.torrent",
+        "title": "JUL486"
+    },
+    {
+        "id": "JUL487",
+        "magnet": "magnet:?xt=urn:btih:55b8122aa6669bba47fecb0d19a5ee3345621461&dn=[javdb.com]jul-487.torrent",
+        "title": "JUL487"
+    },
+    {
+        "id": "JUL488",
+        "magnet": "magnet:?xt=urn:btih:a4f95b3248191fa724c6edd1598189d5d0a75187&dn=[javdb.com]jul-488.torrent",
+        "title": "JUL488"
+    },
+    {
+        "id": "JUL489",
+        "magnet": "magnet:?xt=urn:btih:be25330e1d365a779c73ecbd1a7a65973ee5e2a5&dn=[javdb.com]jul-489.torrent",
+        "title": "JUL489"
+    },
+    {
+        "id": "JUL490",
+        "magnet": "magnet:?xt=urn:btih:dc6a6b7c4f848e5362005aa8413d9f800d1c8d48&dn=[javdb.com]jul-490-C.torrent",
+        "title": "JUL490"
+    },
+    {
+        "id": "JUL491",
+        "magnet": "magnet:?xt=urn:btih:fb2337c095328ff4800348f53a66550c279b57af&dn=[javdb.com]jul-491-C.torrent",
+        "title": "JUL491"
+    },
+    {
+        "id": "JUL492",
+        "magnet": "magnet:?xt=urn:btih:9727401c1487bed648a2d1b1af512e0252026a76&dn=[javdb.com]jul-492.torrent",
+        "title": "JUL492"
+    },
+    {
+        "id": "JUL493",
+        "magnet": "magnet:?xt=urn:btih:35fc48734c70ed538fa18c566620d807010f5d95&dn=[javdb.com]jul-493-C.torrent",
+        "title": "JUL493"
+    },
+    {
+        "id": "JUL494",
+        "magnet": "magnet:?xt=urn:btih:790f872662a67fbf3b1e2fdcf98762b7041ff6b7&dn=[javdb.com]jul-494-C.torrent",
+        "title": "JUL494"
+    },
+    {
+        "id": "JUL495",
+        "magnet": "magnet:?xt=urn:btih:bc478f762c5af4f811cf585c662ccccf0463ef13&dn=[javdb.com]jul-495-C.torrent",
+        "title": "JUL495"
+    },
+    {
+        "id": "JUL496",
+        "magnet": "magnet:?xt=urn:btih:fc5610a8cf96844dc488e546003eddbc73127183&dn=[javdb.com]jul-496.torrent",
+        "title": "JUL496"
+    },
+    {
+        "id": "JUL497",
+        "magnet": "magnet:?xt=urn:btih:1c588c78d88425ae324e8505327d4a2fe19bfdb8&dn=[javdb.com]jul-497.torrent",
+        "title": "JUL497"
+    },
+    {
+        "id": "JUL498",
+        "magnet": "magnet:?xt=urn:btih:68e6f5711e3feaf651f51444a0497f2a25c640b6&dn=[javdb.com]jul-498-C.torrent",
+        "title": "JUL498"
+    },
+    {
+        "id": "JUL499",
+        "magnet": "magnet:?xt=urn:btih:00705decc51dbcfc177f11df3104a3905a3f0769&dn=[javdb.com]jul-499-C.torrent",
+        "title": "JUL499"
+    },
+    {
+        "id": "JUL500",
+        "magnet": "magnet:?xt=urn:btih:3a556e668cfffa9c7239202043468c11c8a95d8c&dn=[javdb.com]jul-500.torrent",
+        "title": "JUL500"
+    },
+    {
+        "id": "JUL501",
+        "magnet": "magnet:?xt=urn:btih:d6001cca99e461d9c368652ee9de882d39c2fe9b&dn=[javdb.com]jul-501-C.torrent",
+        "title": "JUL501"
+    },
+    {
+        "id": "JUL502",
+        "magnet": "magnet:?xt=urn:btih:8895e64540fbe0a30192ac505e5d9cb7a970e012&dn=[javdb.com]jul-502.torrent",
+        "title": "JUL502"
+    },
+    {
+        "id": "JUL503",
+        "magnet": "magnet:?xt=urn:btih:365d4702d9503f9b9cc453ca70de1656c8458877&dn=[javdb.com]jul-503.torrent",
+        "title": "JUL503"
+    },
+    {
+        "id": "JUL504",
+        "magnet": "magnet:?xt=urn:btih:fc029c5291456800051ca91493824b272998a593&dn=[javdb.com]jul-504-C.torrent",
+        "title": "JUL504"
+    },
+    {
+        "id": "JUL505",
+        "magnet": "magnet:?xt=urn:btih:e5791917f03844df9d9b65c990a59fa27902f5ea&dn=[javdb.com]jul-505-C.torrent",
+        "title": "JUL505"
+    },
+    {
+        "id": "JUL506",
+        "magnet": "magnet:?xt=urn:btih:f64eb94b5ed66e49c2becda3b0445579077b9e4f&dn=[javdb.com]jul-506-C.torrent",
+        "title": "JUL506"
+    },
+    {
+        "id": "JUL507",
+        "magnet": "magnet:?xt=urn:btih:db52da018621ce11120eb2cc5daf835ff1efbee5&dn=[javdb.com]jul-507-C.torrent",
+        "title": "JUL507"
+    },
+    {
+        "id": "JUL508",
+        "magnet": "magnet:?xt=urn:btih:f447840ea57cc299ee9bc053df5f430c0709ad4a&dn=[javdb.com]jul-508.torrent",
+        "title": "JUL508"
+    },
+    {
+        "id": "JUL509",
+        "magnet": "magnet:?xt=urn:btih:80648cd94ee93a4994f17bf2054a60535ba8f129&dn=[javdb.com]jul-509-C.torrent",
+        "title": "JUL509"
+    },
+    {
+        "id": "JUL510",
+        "magnet": "magnet:?xt=urn:btih:c4818e35f140751727d304fad7e20e3ff049ac0d&dn=[javdb.com]jul-510.torrent",
+        "title": "JUL510"
+    },
+    {
+        "id": "JUL511",
+        "magnet": "magnet:?xt=urn:btih:80c482c00e508e17e71bfe440d699c87de804140&dn=[javdb.com]jul-511c.2021.03.21.JapornX.6000kbps.1080p.x264.ACC.torrent",
+        "title": "JUL511"
+    },
+    {
+        "id": "JUL511",
+        "magnet": "magnet:?xt=urn:btih:b25827965cc8138169da9139ae8b296c57992276&dn=[javdb.com]jul-511-C.torrent",
+        "title": "JUL511"
+    },
+    {
+        "id": "JUL511",
+        "magnet": "magnet:?xt=urn:btih:bed57e414318350b656e7d4a5938a438654b512a&dn=[javdb.com]jul-511.torrent",
+        "title": "JUL511"
+    },
+    {
+        "id": "JUL512",
+        "magnet": "magnet:?xt=urn:btih:5408b8ffd064a26a12db5abd7572c51276388e8a&dn=[javdb.com]jul-512.torrent",
+        "title": "JUL512"
+    },
+    {
+        "id": "JUL513",
+        "magnet": "magnet:?xt=urn:btih:e282a5daaeb674a01fa113d514402e9a6276a295&dn=[javdb.com]jul-513-C.torrent",
+        "title": "JUL513"
+    },
+    {
+        "id": "JUL514",
+        "magnet": "magnet:?xt=urn:btih:e708462eb12dd5a9a818283ed855fc8354a04c49&dn=[javdb.com]jul-514.torrent",
+        "title": "JUL514"
+    },
+    {
+        "id": "JUL515",
+        "magnet": "magnet:?xt=urn:btih:a8c9e278b1b6d8518cd85294190f5df622adb14f&dn=[javdb.com]jul-515-C.torrent",
+        "title": "JUL515"
+    },
+    {
+        "id": "JUL516",
+        "magnet": "magnet:?xt=urn:btih:f2cbf372618494a0a343cf5750fabdc6b34b34e5&dn=[javdb.com]jul-516.torrent",
+        "title": "JUL516"
+    },
+    {
+        "id": "JUL517",
+        "magnet": "magnet:?xt=urn:btih:a6560aca9d94d16c5f84942c3a7f21e5fd376956&dn=[javdb.com]jul-517-C.torrent",
+        "title": "JUL517"
+    },
+    {
+        "id": "JUL518",
+        "magnet": "magnet:?xt=urn:btih:0b5c8ce753731f95ef23c41edd65161ec559a8de&dn=[javdb.com]jul-518-C.torrent",
+        "title": "JUL518"
+    },
+    {
+        "id": "JUL519",
+        "magnet": "magnet:?xt=urn:btih:63ff60a593f8d8a9fb5273b104ac7d6dec6a05f5&dn=[javdb.com]jul-519.torrent",
+        "title": "JUL519"
+    },
+    {
+        "id": "JUL520",
+        "magnet": "magnet:?xt=urn:btih:653a8b5b2fe5ed7e9ff4e5d40d58a7edb385cfb4&dn=[javdb.com]jul-520-C.torrent",
+        "title": "JUL520"
+    },
+    {
+        "id": "JUL521",
+        "magnet": "magnet:?xt=urn:btih:239a0221d44836b37d1651cfed7d1eb2db7ab544&dn=[javdb.com]jul-521-C.torrent",
+        "title": "JUL521"
+    },
+    {
+        "id": "JUL522",
+        "magnet": "magnet:?xt=urn:btih:02a263a2b7e7ae3b9ff1f5601c51f4662028be3a&dn=[javdb.com]jul-522.torrent",
+        "title": "JUL522"
+    },
+    {
+        "id": "JUL523",
+        "magnet": "magnet:?xt=urn:btih:da9c1140e59370a2ec9fb8c2cdaebed58fda53aa&dn=[javdb.com]jul-523-C.torrent",
+        "title": "JUL523"
+    },
+    {
+        "id": "JUL524",
+        "magnet": "magnet:?xt=urn:btih:65ef3fad191e72e0b884fe1a2a20e6694a6fc1c0&dn=[javdb.com]jul-524-C.torrent",
+        "title": "JUL524"
+    },
+    {
+        "id": "JUL525",
+        "magnet": "magnet:?xt=urn:btih:01d1c2207be811b15104b551eaf93de34c9b39b9&dn=[javdb.com]jul-525-C.torrent",
+        "title": "JUL525"
+    },
+    {
+        "id": "JUL526",
+        "magnet": "magnet:?xt=urn:btih:a041c871cf591b7407be56f9b1053f8d2c34739a&dn=[javdb.com]jul-526-C.torrent",
+        "title": "JUL526"
+    },
+    {
+        "id": "JUL527",
+        "magnet": "magnet:?xt=urn:btih:91d208156f01827b99da01d169a0354e09290dd2&dn=[javdb.com]jul-527.torrent",
+        "title": "JUL527"
+    },
+    {
+        "id": "JUL528",
+        "magnet": "magnet:?xt=urn:btih:7dac21f41ccc239581b0bb730064a2638c61d268&dn=[javdb.com]jul-528-C.torrent",
+        "title": "JUL528"
+    },
+    {
+        "id": "JUL529",
+        "magnet": "magnet:?xt=urn:btih:8da02e9cedb87d09b295b9c980392a0f9c1a565f&dn=[javdb.com]jul-529-C.torrent",
+        "title": "JUL529"
+    },
+    {
+        "id": "JUL530",
+        "magnet": "magnet:?xt=urn:btih:260e5a0bcb71455f2d56f137d7b384c5f0ef6676&dn=[javdb.com]jul-530-C.torrent",
+        "title": "JUL530"
+    },
+    {
+        "id": "JUL531",
+        "magnet": "magnet:?xt=urn:btih:c1ad7c602745e9a42e1cd2168c41268cdb822c78&dn=[javdb.com]jul-531-C.torrent",
+        "title": "JUL531"
+    },
+    {
+        "id": "JUL532",
+        "magnet": "magnet:?xt=urn:btih:95556c8067054ce3d01e63e79770dc3d3e6520b6&dn=[javdb.com]jul-532-C.torrent",
+        "title": "JUL532"
+    },
+    {
+        "id": "JUL533",
+        "magnet": "magnet:?xt=urn:btih:867badb0436e896fd7626cfc1b415816e8b53d26&dn=[javdb.com]jul-533-C.torrent",
+        "title": "JUL533"
+    },
+    {
+        "id": "JUL534",
+        "magnet": "magnet:?xt=urn:btih:b87379f3bf31d8a9d076de323a107d63f5c68f94&dn=[javdb.com]jul-534-C.torrent",
+        "title": "JUL534"
+    },
+    {
+        "id": "JUL535",
+        "magnet": "magnet:?xt=urn:btih:3104c8d77f9c28158034d3515ab3f1c7cb5f5a42&dn=[javdb.com]jul-535-C.torrent",
+        "title": "JUL535"
+    },
+    {
+        "id": "JUL536",
+        "magnet": "magnet:?xt=urn:btih:951d8470cf13858e37d966ed2489878a99cbe864&dn=[javdb.com]jul-536-C.torrent",
+        "title": "JUL536"
+    },
+    {
+        "id": "JUL537",
+        "magnet": "magnet:?xt=urn:btih:8a0775dc8ef11230d40ab27bcecfb30dfc5315de&dn=[javdb.com]jul-537-C.torrent",
+        "title": "JUL537"
+    },
+    {
+        "id": "JUL538",
+        "magnet": "magnet:?xt=urn:btih:d258777618f186d25b349b8a1a1c742138472bd1&dn=[javdb.com]jul-538.torrent",
+        "title": "JUL538"
+    },
+    {
+        "id": "JUL539",
+        "magnet": "magnet:?xt=urn:btih:e22e96dba07cc82d80c4d079a6f237b720166d36&dn=[javdb.com]jul-539-C.torrent",
+        "title": "JUL539"
+    },
+    {
+        "id": "JUL540",
+        "magnet": "magnet:?xt=urn:btih:e0e50bf2aa26043e9bdd8c2bb3047a72d967826e&dn=[javdb.com]jul-540-C.torrent",
+        "title": "JUL540"
+    },
+    {
+        "id": "JUL541",
+        "magnet": "magnet:?xt=urn:btih:39e1c76534076d1ed46dfe9f9d1216887700be4b&dn=[javdb.com]jul-541-C.torrent",
+        "title": "JUL541"
+    },
+    {
+        "id": "JUL542",
+        "magnet": "magnet:?xt=urn:btih:13d619ff73282688ad4a8c72307c75bed4d622e7&dn=[javdb.com]jul-542-C.torrent",
+        "title": "JUL542"
+    },
+    {
+        "id": "JUL543",
+        "magnet": "magnet:?xt=urn:btih:f3c30bef032a2efb96798c5477a1fc80bfa999cb&dn=[javdb.com]jul-543-C.torrent",
+        "title": "JUL543"
+    },
+    {
+        "id": "JUL544",
+        "magnet": "magnet:?xt=urn:btih:cbdd41a94faa3ccab8dca191209860b3a4ebafb5&dn=[javdb.com]jul-544-C.torrent",
+        "title": "JUL544"
+    },
+    {
+        "id": "JUL545",
+        "magnet": "magnet:?xt=urn:btih:7df5b52c28dc014925b6a555160db6e1e88b7f4f&dn=[javdb.com]jul-545.torrent",
+        "title": "JUL545"
+    },
+    {
+        "id": "JUL546",
+        "magnet": "magnet:?xt=urn:btih:9f9818d3e1240028c4491f30fe825ef07aa5117b&dn=[javdb.com]jul-546-C.torrent",
+        "title": "JUL546"
+    },
+    {
+        "id": "JUL547",
+        "magnet": "magnet:?xt=urn:btih:fc0fd08d12564b14a8e83cb29c03bb3232ce9d3a&dn=[javdb.com]jul-547-C.torrent",
+        "title": "JUL547"
+    },
+    {
+        "id": "JUL548",
+        "magnet": "magnet:?xt=urn:btih:a39de8c980d7124d90b4a4f1e15c5b019466194b&dn=[javdb.com]jul-548-C.torrent",
+        "title": "JUL548"
+    },
+    {
+        "id": "JUL549",
+        "magnet": "magnet:?xt=urn:btih:a49a72514037da5eaf0caab401ca6356fb8619e1&dn=[javdb.com]jul-549.torrent",
+        "title": "JUL549"
+    },
+    {
+        "id": "JUL550",
+        "magnet": "magnet:?xt=urn:btih:32bceac416bea2b445ac4a6414073daf52ef9429&dn=[javdb.com]jul-550-C.torrent",
+        "title": "JUL550"
+    },
+    {
+        "id": "JUL551",
+        "magnet": "magnet:?xt=urn:btih:aea4ebf667d35521b66430bf11d9379cc095d5c4&dn=[javdb.com]jul-551-C.torrent",
+        "title": "JUL551"
+    },
+    {
+        "id": "JUL552",
+        "magnet": "magnet:?xt=urn:btih:f50479ce7383f0e78aa2f157e12583485a3bddf6&dn=[javdb.com]jul-552-C.torrent",
+        "title": "JUL552"
+    },
+    {
+        "id": "JUL553",
+        "magnet": "magnet:?xt=urn:btih:a9c2802a6c3943e29967f86a3517899c987d0cd7&dn=[javdb.com]jul-553-C.torrent",
+        "title": "JUL553"
+    },
+    {
+        "id": "JUL554",
+        "magnet": "magnet:?xt=urn:btih:f607029ab2e9f944136ee76a81948f5bef2cd231&dn=[javdb.com]jul-554-C.torrent",
+        "title": "JUL554"
+    },
+    {
+        "id": "JUL555",
+        "magnet": "magnet:?xt=urn:btih:58fc10aaede93570a4aa2ea5a8accdd007467669&dn=[javdb.com]jul-555-C.torrent",
+        "title": "JUL555"
+    },
+    {
+        "id": "JUL556",
+        "magnet": "magnet:?xt=urn:btih:831eda868bc08067b3752790b2599ce396c9697e&dn=[javdb.com]jul-556-C.torrent",
+        "title": "JUL556"
+    },
+    {
+        "id": "JUL557",
+        "magnet": "magnet:?xt=urn:btih:0984b69033eb03f89fae4929fbafe36a8af7b06a&dn=[javdb.com]jul-557.torrent",
+        "title": "JUL557"
+    },
+    {
+        "id": "JUL558",
+        "magnet": "magnet:?xt=urn:btih:64bdc0d1659c1fbf07e7bd1a5f3a2edbb9c0eb93&dn=[javdb.com]jul-558-C.torrent",
+        "title": "JUL558"
+    },
+    {
+        "id": "JUL559",
+        "magnet": "magnet:?xt=urn:btih:ba10219ba4a7afa5c42629c81e95148bdb1ee2c4&dn=[javdb.com]jul-559-C.torrent",
+        "title": "JUL559"
+    },
+    {
+        "id": "JUL560",
+        "magnet": "magnet:?xt=urn:btih:75d79cde3721b5b0b244bc5ec2740e9c7c94c9a2&dn=[javdb.com]jul-560-C.torrent",
+        "title": "JUL560"
+    },
+    {
+        "id": "JUL561",
+        "magnet": "magnet:?xt=urn:btih:976469b50b6ccd3fde339b158ca0a5c0ceb36679&dn=[javdb.com]jul-561-C.torrent",
+        "title": "JUL561"
+    },
+    {
+        "id": "JUL562",
+        "magnet": "magnet:?xt=urn:btih:80b42140bbb68f490d43d22f7678b675ef36bccb&dn=[javdb.com]jul-562-C.torrent",
+        "title": "JUL562"
+    },
+    {
+        "id": "JUL563",
+        "magnet": "magnet:?xt=urn:btih:61c40b96f8a2edf57efd7817ac55f1a1019cc3cc&dn=[javdb.com]jul-563-C.torrent",
+        "title": "JUL563"
+    },
+    {
+        "id": "JUL564",
+        "magnet": "magnet:?xt=urn:btih:ee9387a8a2ddbb91b74259e8fe40da1429787fbb&dn=[javdb.com]jul-564-C.torrent",
+        "title": "JUL564"
+    },
+    {
+        "id": "JUL565",
+        "magnet": "magnet:?xt=urn:btih:3dccc7f6dd63a9d89616a5ccabc3bcb0d80ac6dd&dn=[javdb.com]jul-565.torrent",
+        "title": "JUL565"
+    },
+    {
+        "id": "JUL566",
+        "magnet": "magnet:?xt=urn:btih:55b20ca1e7c8144b0c58592e07479ccdd43ac06d&dn=[javdb.com]jul-566-C.torrent",
+        "title": "JUL566"
+    },
+    {
+        "id": "JUL567",
+        "magnet": "magnet:?xt=urn:btih:bcc4c668172fa5bebf0294582cb76ed23c0154ef&dn=[javdb.com]jul-567-C.torrent",
+        "title": "JUL567"
+    },
+    {
+        "id": "JUL568",
+        "magnet": "magnet:?xt=urn:btih:86f2c8a2b6ae1a296d71788da6268a730e88569f&dn=[javdb.com]jul-568-C.torrent",
+        "title": "JUL568"
+    },
+    {
+        "id": "JUL569",
+        "magnet": "magnet:?xt=urn:btih:49bcac2f32d117d9f9616ab5d17514270e7dac73&dn=[javdb.com]jul-569-C.torrent",
+        "title": "JUL569"
+    },
+    {
+        "id": "JUL570",
+        "magnet": "magnet:?xt=urn:btih:ef24dff707a0fa86963e95f8a636ac8bcb4fd490&dn=[javdb.com]jul-570-C.torrent",
+        "title": "JUL570"
+    },
+    {
+        "id": "JUL571",
+        "magnet": "magnet:?xt=urn:btih:d762622b97a484b6a425e0c77885ea13bdd64a8a&dn=[javdb.com]jul-571-C.torrent",
+        "title": "JUL571"
+    },
+    {
+        "id": "JUL572",
+        "magnet": "magnet:?xt=urn:btih:0d61c4cee683f9deecda807670eacda3df5bf32a&dn=[javdb.com]jul-572-C.torrent",
+        "title": "JUL572"
+    },
+    {
+        "id": "JUL573",
+        "magnet": "magnet:?xt=urn:btih:cea930d541e0632d77cf35f68c08502615f014db&dn=[javdb.com]jul-573.torrent",
+        "title": "JUL573"
+    },
+    {
+        "id": "JUL574",
+        "magnet": "magnet:?xt=urn:btih:c6a8e9e88ede4c4e9ba30bba53fc2b42b2b1004f&dn=[javdb.com]jul-574-C.torrent",
+        "title": "JUL574"
+    },
+    {
+        "id": "JUL575",
+        "magnet": "magnet:?xt=urn:btih:7f13c87684585e20e041f43e375da9375c6abef2&dn=[javdb.com]jul-575-C.torrent",
+        "title": "JUL575"
+    },
+    {
+        "id": "JUL576",
+        "magnet": "magnet:?xt=urn:btih:0f003498ec7580be0ef0979dc2362ae454379de1&dn=[javdb.com]jul-576.torrent",
+        "title": "JUL576"
+    },
+    {
+        "id": "JUL577",
+        "magnet": "magnet:?xt=urn:btih:1bc947f53747cbede32a196d8c4ca605de4b9f99&dn=[javdb.com]jul-577-C.torrent",
+        "title": "JUL577"
+    },
+    {
+        "id": "JUL578",
+        "magnet": "magnet:?xt=urn:btih:2681cef6b4666b7236409fc27dfb5264f8f7b910&dn=[javdb.com]jul-578-C.torrent",
+        "title": "JUL578"
+    },
+    {
+        "id": "JUL579",
+        "magnet": "magnet:?xt=urn:btih:97336f5210f9e1d0037893e02f53041e33f6e0cb&dn=[javdb.com]jul-579-C.torrent",
+        "title": "JUL579"
+    },
+    {
+        "id": "JUL580",
+        "magnet": "magnet:?xt=urn:btih:8cbb3e3c47e5704e72d0a077595689d6dc6f6c01&dn=[javdb.com]jul-580-C.torrent",
+        "title": "JUL580"
+    },
+    {
+        "id": "JUL581",
+        "magnet": "magnet:?xt=urn:btih:4bdda381519ae1d2fcc6f906adfb84175d76a07e&dn=[javdb.com]jul-581-C.torrent",
+        "title": "JUL581"
+    },
+    {
+        "id": "JUL582",
+        "magnet": "magnet:?xt=urn:btih:ae418979d0f786103b79655b9137358a74d7a4ad&dn=[javdb.com]jul-582-C.torrent",
+        "title": "JUL582"
+    },
+    {
+        "id": "JUL583",
+        "magnet": "magnet:?xt=urn:btih:88692533b110df9d1093ae88ac2aa883260df34d&dn=[javdb.com]jul-583.torrent",
+        "title": "JUL583"
+    },
+    {
+        "id": "JUL584",
+        "magnet": "magnet:?xt=urn:btih:1847b583e615030ddf9df603425e963db00d6023&dn=[javdb.com]jul-584.torrent",
+        "title": "JUL584"
+    },
+    {
+        "id": "JUL585",
+        "magnet": "magnet:?xt=urn:btih:219960f3501c6bb8e306de7bc37f70560f74bc3b&dn=[javdb.com]jul-585.torrent",
+        "title": "JUL585"
+    },
+    {
+        "id": "JUL586",
+        "magnet": "magnet:?xt=urn:btih:af3e66f5a5c23859284413bcf219455caec9838e&dn=[javdb.com]jul-586-C.torrent",
+        "title": "JUL586"
+    },
+    {
+        "id": "JUL587",
+        "magnet": "magnet:?xt=urn:btih:5cd8d3b53c2b583e7c17f64144ffffb46b015c98&dn=[javdb.com]jul-587-C.torrent",
+        "title": "JUL587"
+    },
+    {
+        "id": "JUL588",
+        "magnet": "magnet:?xt=urn:btih:4286e157754fa3fb42289e059a6463a8ba076d70&dn=[javdb.com]jul-588.torrent",
+        "title": "JUL588"
+    },
+    {
+        "id": "JUL589",
+        "magnet": "magnet:?xt=urn:btih:8d9d54dacba6c502e75bb36e171d5fb1065bcf5e&dn=[javdb.com]jul-589-C.torrent",
+        "title": "JUL589"
+    },
+    {
+        "id": "JUL590",
+        "magnet": "magnet:?xt=urn:btih:a74f95eb31cfa5940105f25f02fe60ec55c7305c&dn=[javdb.com]jul-590-C.torrent",
+        "title": "JUL590"
+    },
+    {
+        "id": "JUL591",
+        "magnet": "magnet:?xt=urn:btih:2d70000438c1e41a2a634028b7605d5526154ebe&dn=[javdb.com]jul-591-C.torrent",
+        "title": "JUL591"
+    },
+    {
+        "id": "JUL592",
+        "magnet": "magnet:?xt=urn:btih:a349f0de5d25a2376c3b2aeec1a4ba6e59b1ec40&dn=[javdb.com]jul-592.torrent",
+        "title": "JUL592"
+    },
+    {
+        "id": "JUL593",
+        "magnet": "magnet:?xt=urn:btih:0fb3971cd1913a3a5dc5c821676bcdcd0ca3c273&dn=[javdb.com]jul-593.torrent",
+        "title": "JUL593"
+    },
+    {
+        "id": "JUL594",
+        "magnet": "magnet:?xt=urn:btih:cacd3b139a3bf56e8fd0037c3b73c9c67a5c3928&dn=[javdb.com]jul-594-C.torrent",
+        "title": "JUL594"
+    },
+    {
+        "id": "JUL595",
+        "magnet": "magnet:?xt=urn:btih:a03f11c11d82ffa1d7519dcec42d42dc0e0b0ebb&dn=[javdb.com]jul-595.torrent",
+        "title": "JUL595"
+    },
+    {
+        "id": "JUL596",
+        "magnet": "magnet:?xt=urn:btih:920a7d8970745eba1ea84bd40992db808c3c9829&dn=[javdb.com]jul-596-C.torrent",
+        "title": "JUL596"
+    },
+    {
+        "id": "JUL597",
+        "magnet": "magnet:?xt=urn:btih:34b4fbb2a2f1888992b728e9029040c883778495&dn=[javdb.com]jul-597-C.torrent",
+        "title": "JUL597"
+    },
+    {
+        "id": "JUL598",
+        "magnet": "magnet:?xt=urn:btih:27ba85cc29d03dc321bf24e54b3232fdc0613720&dn=[javdb.com]jul-598-C.torrent",
+        "title": "JUL598"
+    },
+    {
+        "id": "JUL599",
+        "magnet": "magnet:?xt=urn:btih:c5d3ccc7e29f76d05154b3d44afdf38dbd70b2c7&dn=[javdb.com]jul-599-C.torrent",
+        "title": "JUL599"
+    },
+    {
+        "id": "JUL600",
+        "magnet": "magnet:?xt=urn:btih:d3d69f023e8bd36469c53b119422d28665fa0767&dn=[javdb.com]jul-600.torrent",
+        "title": "JUL600"
+    },
+    {
+        "id": "JUL601",
+        "magnet": "magnet:?xt=urn:btih:b657b21c2bbbda75656de9f8c5fdd07379fae340&dn=[javdb.com]jul-601-C.torrent",
+        "title": "JUL601"
+    },
+    {
+        "id": "JUL602",
+        "magnet": "magnet:?xt=urn:btih:719e61a21210414ccd6788fca62fd94454effa01&dn=[javdb.com]jul-602-C.torrent",
+        "title": "JUL602"
+    },
+    {
+        "id": "JUL603",
+        "magnet": "magnet:?xt=urn:btih:f84a196f9764414a4df7742e82df2ac0f150da89&dn=[javdb.com]jul-603-C.torrent",
+        "title": "JUL603"
+    },
+    {
+        "id": "JUL604",
+        "magnet": "magnet:?xt=urn:btih:1c8de08d626fef7b8b40da2b4e8b65dbf67e0bde&dn=[javdb.com]jul-604.torrent",
+        "title": "JUL604"
+    },
+    {
+        "id": "JUL605",
+        "magnet": "magnet:?xt=urn:btih:aba8ab63190c16729898164b548c4b49e3a039d9&dn=[javdb.com]jul-605-C.torrent",
+        "title": "JUL605"
+    },
+    {
+        "id": "JUL606",
+        "magnet": "magnet:?xt=urn:btih:67c3d7c22701acd41d873cba63526ed0f77d4d0b&dn=[javdb.com]jul-606-C.torrent",
+        "title": "JUL606"
+    },
+    {
+        "id": "JUL607",
+        "magnet": "magnet:?xt=urn:btih:3375c2f2bdb4181d8a08f96587b0b405b6304128&dn=[javdb.com]jul-607-C.torrent",
+        "title": "JUL607"
+    },
+    {
+        "id": "JUL608",
+        "magnet": "magnet:?xt=urn:btih:930a4b7d64057a41bc87b2b47e9420f4658d5647&dn=[javdb.com]JUL-608-C.torrent",
+        "title": "JUL608"
+    },
+    {
+        "id": "JUL609",
+        "magnet": "magnet:?xt=urn:btih:649107417135f59b9812e93e10fca4e87999a901&dn=[javdb.com]jul-609.torrent",
+        "title": "JUL609"
+    },
+    {
+        "id": "JUL610",
+        "magnet": "magnet:?xt=urn:btih:58d330ad49eb38fea3c1776faa3ec99f4c5bd5c2&dn=[javdb.com]jul-610-C.torrent",
+        "title": "JUL610"
+    },
+    {
+        "id": "JUL611",
+        "magnet": "magnet:?xt=urn:btih:700a1708167cdc5e70f89b9273ec317c5e05c979&dn=[javdb.com]jul-611.torrent",
+        "title": "JUL611"
+    },
+    {
+        "id": "JUL612",
+        "magnet": "magnet:?xt=urn:btih:054c381a6e190784b0f840eab99d98009f84a7f6&dn=[javdb.com]jul-612.torrent",
+        "title": "JUL612"
+    },
+    {
+        "id": "JUL613",
+        "magnet": "magnet:?xt=urn:btih:3845b20d876445ab48473cf4cec6cf6e9bee2212&dn=[javdb.com]jul-613-C.torrent",
+        "title": "JUL613"
+    },
+    {
+        "id": "JUL614",
+        "magnet": "magnet:?xt=urn:btih:455222545f1ed016b646e8d4242a04fb49b99b1f&dn=[javdb.com]jul-614.torrent",
+        "title": "JUL614"
+    },
+    {
+        "id": "JUL615",
+        "magnet": "magnet:?xt=urn:btih:65ea7a203b1b1e06c198c8d7e2d918445cedc49a&dn=[javdb.com]jul-615.torrent",
+        "title": "JUL615"
+    },
+    {
+        "id": "JUL616",
+        "magnet": "magnet:?xt=urn:btih:19051069b5a2a2e73b6f9a4a1ad1f3c07edac616&dn=[javdb.com]jul-616-C.torrent",
+        "title": "JUL616"
+    },
+    {
+        "id": "JUL617",
+        "magnet": "magnet:?xt=urn:btih:4f6d9a7a77fb82ce5b5a77d6e6e9644dd65e06d5&dn=[javdb.com]jul-617.torrent",
+        "title": "JUL617"
+    },
+    {
+        "id": "JUL618",
+        "magnet": "magnet:?xt=urn:btih:12413a051b72e74288e4a7aadd0b369f0632cdf1&dn=[javdb.com]jul-618.torrent",
+        "title": "JUL618"
+    },
+    {
+        "id": "JUL619",
+        "magnet": "magnet:?xt=urn:btih:99d8cb079c13cf6a58d0192330877be4551fd067&dn=[javdb.com]jul-619.torrent",
+        "title": "JUL619"
+    },
+    {
+        "id": "JUL620",
+        "magnet": "magnet:?xt=urn:btih:a9f95ebddaa8be524d273d7350a0f86a1ff180ec&dn=[javdb.com]jul-620-C.torrent",
+        "title": "JUL620"
+    },
+    {
+        "id": "JUL621",
+        "magnet": "magnet:?xt=urn:btih:e30c10fe9bbae581dc43b4ac1c56a2364fb952d8&dn=[javdb.com]jul-621.torrent",
+        "title": "JUL621"
+    },
+    {
+        "id": "JUL622",
+        "magnet": "magnet:?xt=urn:btih:f03b6f2f5dfb0cd33ddbaf0ba32feb4a1f77aa74&dn=[javdb.com]jul-622.torrent",
+        "title": "JUL622"
+    },
+    {
+        "id": "JUL623",
+        "magnet": "magnet:?xt=urn:btih:adf41d4fdf4bb603211491b55bfd08f73791007b&dn=[javdb.com]jul-623.torrent",
+        "title": "JUL623"
+    },
+    {
+        "id": "JUL624",
+        "magnet": "magnet:?xt=urn:btih:ddce6476d0d53619126f0f6cc611b2b9c7a4b8b1&dn=[javdb.com]jul-624-C.torrent",
+        "title": "JUL624"
+    },
+    {
+        "id": "JUL625",
+        "magnet": "magnet:?xt=urn:btih:a992cf64f29ecff86f9c6c2d7ec1b721cc2c61d0&dn=[javdb.com]jul-625.torrent",
+        "title": "JUL625"
+    },
+    {
+        "id": "JUL626",
+        "magnet": "magnet:?xt=urn:btih:a914d726401d692032d6c45af7f77e547d355f04&dn=[javdb.com]jul-626-C.torrent",
+        "title": "JUL626"
+    },
+    {
+        "id": "JUL627",
+        "magnet": "magnet:?xt=urn:btih:e65bdc6330402bf3061d09bdf0d1e65bad95a213&dn=[javdb.com]jul-627.torrent",
+        "title": "JUL627"
+    },
+    {
+        "id": "JUL628",
+        "magnet": "magnet:?xt=urn:btih:09fc5f36ddff3a8464555ef6133c38b25764f165&dn=[javdb.com]jul-628-C.torrent",
+        "title": "JUL628"
+    },
+    {
+        "id": "JUL629",
+        "magnet": "magnet:?xt=urn:btih:2e4c78ad854c5b17b05e763d554f9c3166980e25&dn=[javdb.com]jul-629.torrent",
+        "title": "JUL629"
+    },
+    {
+        "id": "JUL630",
+        "magnet": "magnet:?xt=urn:btih:8099de5751bb516c1dbb7de6c1e15e0c8cb7bf12&dn=[javdb.com]jul-630-C.torrent",
+        "title": "JUL630"
+    },
+    {
+        "id": "JUL631",
+        "magnet": "magnet:?xt=urn:btih:002fa4fbc008c159fcef2d433d268d2d9e991e3e&dn=[javdb.com]jul-631-C.torrent",
+        "title": "JUL631"
+    },
+    {
+        "id": "JUL632",
+        "magnet": "magnet:?xt=urn:btih:e08e10b18bf788ec7b1d213981b280d253ee3f24&dn=[javdb.com]jul-632-C.torrent",
+        "title": "JUL632"
+    },
+    {
+        "id": "JUL633",
+        "magnet": "magnet:?xt=urn:btih:fec86d328fd98553c5f6ddf1977ea0fe0b184fa3&dn=[javdb.com]jul-633-C.torrent",
+        "title": "JUL633"
+    },
+    {
+        "id": "JUL634",
+        "magnet": "magnet:?xt=urn:btih:f8e94dfdcbb1e08d3254696c18d5598ad88f4091&dn=[javdb.com]jul-634-c.torrent",
+        "title": "JUL634"
+    },
+    {
+        "id": "JUL635",
+        "magnet": "magnet:?xt=urn:btih:3014cd3af429a5178c1fade562dda596bbafbde7&dn=[javdb.com]jul-635c.2021.JapornX.6000kbps.1080p.x264.ACC-TaoSeJiaZu.torrent",
+        "title": "JUL635"
+    },
+    {
+        "id": "JUL635",
+        "magnet": "magnet:?xt=urn:btih:18d3aa91ef318221464d95ba4d9d4ffffa009c34&dn=[javdb.com]jul-635-C.torrent",
+        "title": "JUL635"
+    },
+    {
+        "id": "JUL635",
+        "magnet": "magnet:?xt=urn:btih:86c7e175e0dc5440301111f256bfdffcfe4619a3&dn=[javdb.com]jul-635.torrent",
+        "title": "JUL635"
+    },
+    {
+        "id": "JUL636",
+        "magnet": "magnet:?xt=urn:btih:4ade5db7e411feb042b8bb29d0e0dc312c570fd1&dn=[javdb.com]jul-636c.2021.JapornX.6000kbps.1080p.x264.ACC-TaoSeJiaZu.torrent",
+        "title": "JUL636"
+    },
+    {
+        "id": "JUL636",
+        "magnet": "magnet:?xt=urn:btih:94d4e5786d38118420f3c05b15cd42f2300af0b5&dn=[javdb.com]jul-636-C.torrent",
+        "title": "JUL636"
+    },
+    {
+        "id": "JUL637",
+        "magnet": "magnet:?xt=urn:btih:21316c0f9169b0fa929071344754c402c8639d4b&dn=[javdb.com]jul-637-C.torrent",
+        "title": "JUL637"
+    },
+    {
+        "id": "JUL638",
+        "magnet": "magnet:?xt=urn:btih:b715a4ccef97546ba86d982f3676b03f90f631e7&dn=[javdb.com]jul-638-C.torrent",
+        "title": "JUL638"
+    },
+    {
+        "id": "JUL639",
+        "magnet": "magnet:?xt=urn:btih:94ea0a602d5632d58b0b565bf276ab75485f4d85&dn=[javdb.com]jul-639-C.torrent",
+        "title": "JUL639"
+    },
+    {
+        "id": "JUL640",
+        "magnet": "magnet:?xt=urn:btih:2f3634c1ae9b39be9593d0fea37bcb5bac107761&dn=[javdb.com]jul-640-C.torrent",
+        "title": "JUL640"
+    },
+    {
+        "id": "JUL641",
+        "magnet": "magnet:?xt=urn:btih:3d3f438da91b2332c3352d0ad0b9cb24ca92c742&dn=[javdb.com]jul-641-C.torrent",
+        "title": "JUL641"
+    },
+    {
+        "id": "JUL642",
+        "magnet": "magnet:?xt=urn:btih:dfed258fc5518c1593f3075b52ee3d4f2b8a0ed1&dn=[javdb.com]jul-642.torrent",
+        "title": "JUL642"
+    },
+    {
+        "id": "JUL643",
+        "magnet": "magnet:?xt=urn:btih:cb77e9f8b7df68bdba30d766454496ff4db8e468&dn=[javdb.com]jul-643-C.torrent",
+        "title": "JUL643"
+    },
+    {
+        "id": "JUL644",
+        "magnet": "magnet:?xt=urn:btih:f1e8faa12f8988643e144560af3975259d3a0691&dn=[javdb.com]jul-644.torrent",
+        "title": "JUL644"
+    },
+    {
+        "id": "JUL645",
+        "magnet": "magnet:?xt=urn:btih:37bb827134a575f9aa75014cd7f9ddfe6bb1e1ec&dn=[javdb.com]jul-645c.2021.JapornX.6000kbps.1080p.x264.ACC-TaoSeJiaZu.torrent",
+        "title": "JUL645"
+    },
+    {
+        "id": "JUL646",
+        "magnet": "magnet:?xt=urn:btih:323a4a181d57fb247c0e77749e4b6912a465187e&dn=[javdb.com]jul-646-C.torrent",
+        "title": "JUL646"
+    },
+    {
+        "id": "JUL647",
+        "magnet": "magnet:?xt=urn:btih:ba0ba2cab060335952eb94d85331d029599f15e7&dn=[javdb.com]jul-647.torrent",
+        "title": "JUL647"
+    },
+    {
+        "id": "JUL648",
+        "magnet": "magnet:?xt=urn:btih:06d4aca9c7ab05e5b5fcacd1cb8db71d569eded2&dn=[javdb.com]jul-648-C.torrent",
+        "title": "JUL648"
+    },
+    {
+        "id": "JUL649",
+        "magnet": "magnet:?xt=urn:btih:b478a50cb5d68250fa0c529f32d9f1bc899f978e&dn=[javdb.com]jul-649-C.torrent",
+        "title": "JUL649"
+    },
+    {
+        "id": "JUL650",
+        "magnet": "magnet:?xt=urn:btih:365c99d22737d1bb683c5d6facb2854e1ce1c389&dn=[javdb.com]jul-650.torrent",
+        "title": "JUL650"
+    },
+    {
+        "id": "JUL651",
+        "magnet": "magnet:?xt=urn:btih:0cdb6dd6d4ae0d54d63010ff5c0e70c44ecb9f4b&dn=[javdb.com]jul-651-C.torrent",
+        "title": "JUL651"
+    },
+    {
+        "id": "JUL652",
+        "magnet": "magnet:?xt=urn:btih:1ab123480ea544609fe1fe2f6d258ef3f978fd4c&dn=[javdb.com]jul-652-C.torrent",
+        "title": "JUL652"
+    },
+    {
+        "id": "JUL653",
+        "magnet": "magnet:?xt=urn:btih:01c22834fb2054c593a6de8b49a665f538b7e329&dn=[javdb.com]jul-653.torrent",
+        "title": "JUL653"
+    },
+    {
+        "id": "JUL654",
+        "magnet": "magnet:?xt=urn:btih:ea567c7b7b6fa402644a59a87c4707de6dceb50b&dn=[javdb.com]jul-654.torrent",
+        "title": "JUL654"
+    },
+    {
+        "id": "JUL655",
+        "magnet": "magnet:?xt=urn:btih:c65f094e09d000e4eb2d7341feb59441679172a3&dn=[javdb.com]jul-655.torrent",
+        "title": "JUL655"
+    },
+    {
+        "id": "JUL656",
+        "magnet": "magnet:?xt=urn:btih:2f121a476df1e3df8cac9a461bc9553db1cf2044&dn=[javdb.com]jul-656-C.torrent",
+        "title": "JUL656"
+    },
+    {
+        "id": "JUL657",
+        "magnet": "magnet:?xt=urn:btih:f75b6e108ed49acdef9bb1beafa89bf4e995c1da&dn=[javdb.com]jul-657-C.torrent",
+        "title": "JUL657"
+    },
+    {
+        "id": "JUL658",
+        "magnet": "magnet:?xt=urn:btih:9c36d178493bd971278a2fb3d13dacffd537c239&dn=[javdb.com]jul-658.torrent",
+        "title": "JUL658"
+    },
+    {
+        "id": "JUL659",
+        "magnet": "magnet:?xt=urn:btih:e959d98f79eb8d0e47ed9fe9713d268c4d6ada8b&dn=[javdb.com]jul-659-C.torrent",
+        "title": "JUL659"
+    },
+    {
+        "id": "JUL660",
+        "magnet": "magnet:?xt=urn:btih:80fc3403d1a1363a22da9410faa2e22d92c48e20&dn=[javdb.com]jul-660-C.torrent",
+        "title": "JUL660"
+    },
+    {
+        "id": "JUL661",
+        "magnet": "magnet:?xt=urn:btih:8c1169760c190a702ac82e8da1fe1862ef388a58&dn=[javdb.com]jul-661-C.torrent",
+        "title": "JUL661"
+    },
+    {
+        "id": "JUL662",
+        "magnet": "magnet:?xt=urn:btih:8a0ef0025a50c4b8f224bed40fcb21a302683347&dn=[javdb.com]jul-662-C.torrent",
+        "title": "JUL662"
+    },
+    {
+        "id": "JUL663",
+        "magnet": "magnet:?xt=urn:btih:df66cb993bb60464bbc722efe3814bc90d40bbe9&dn=[javdb.com]jul-663-C.torrent",
+        "title": "JUL663"
+    },
+    {
+        "id": "JUL664",
+        "magnet": "magnet:?xt=urn:btih:97c62db691a298aac31f9650a2d31c524e015913&dn=[javdb.com]jul-664-C.torrent",
+        "title": "JUL664"
+    },
+    {
+        "id": "JUL665",
+        "magnet": "magnet:?xt=urn:btih:009dbdd5490748d777c0ed2be8fb1337c9b3e953&dn=[javdb.com]jul-665-C.torrent",
+        "title": "JUL665"
+    },
+    {
+        "id": "JUL666",
+        "magnet": "magnet:?xt=urn:btih:e5abb97826257d15ac2c2b5675ee097e521c087f&dn=[javdb.com]jul-666-C.torrent",
+        "title": "JUL666"
+    },
+    {
+        "id": "JUL667",
+        "magnet": "magnet:?xt=urn:btih:a6d4e452ee8e49b8cd3b43616f71d94094747a49&dn=[javdb.com]jul-667.torrent",
+        "title": "JUL667"
+    },
+    {
+        "id": "JUL668",
+        "magnet": "magnet:?xt=urn:btih:5baa4dec4e7e0b226feaf428e802f87ea5fa7ba4&dn=[javdb.com]jul-668-C.torrent",
+        "title": "JUL668"
+    },
+    {
+        "id": "JUL669",
+        "magnet": "magnet:?xt=urn:btih:f15df7233c2cf40e61bbd203ad13b7bd274298b9&dn=[javdb.com]jul-669-C.torrent",
+        "title": "JUL669"
+    },
+    {
+        "id": "JUL670",
+        "magnet": "magnet:?xt=urn:btih:e1475c81e9e85913c4ae2643e02eede39aeeb3fc&dn=[javdb.com]jul-670-C.torrent",
+        "title": "JUL670"
+    },
+    {
+        "id": "JUL671",
+        "magnet": "magnet:?xt=urn:btih:55591f5a8950bc149567b38bb42685b4046eef10&dn=[javdb.com]jul-671-C.torrent",
+        "title": "JUL671"
+    },
+    {
+        "id": "JUL672",
+        "magnet": "magnet:?xt=urn:btih:260f765c48fd78037606f25684277558b820c1a4&dn=[javdb.com]jul-672-c.torrent",
+        "title": "JUL672"
+    },
+    {
+        "id": "JUL673",
+        "magnet": "magnet:?xt=urn:btih:fc8b4e8ad734f5547160cff6baf2d7ebb5b88c4c&dn=[javdb.com]jul-673-C.torrent",
+        "title": "JUL673"
+    },
+    {
+        "id": "JUL674",
+        "magnet": "magnet:?xt=urn:btih:1925becf2c10e57bf60f4f2a3e07fd98fc11738e&dn=[javdb.com]jul-674-C.torrent",
+        "title": "JUL674"
+    },
+    {
+        "id": "JUL675",
+        "magnet": "magnet:?xt=urn:btih:586fd3723c0572fed8f50217a944a469612d7e39&dn=[javdb.com]jul-675c.2021.07.30.JapornX.6000kbps.1080p.x264.ACC.torrent",
+        "title": "JUL675"
+    },
+    {
+        "id": "JUL676",
+        "magnet": "magnet:?xt=urn:btih:bcd3cd7496496e63ad04c9278ea9f36c2953c5df&dn=[javdb.com]jul-676.torrent",
+        "title": "JUL676"
+    },
+    {
+        "id": "JUL677",
+        "magnet": "magnet:?xt=urn:btih:c3a3bc6fb254414ed127087234647ef65b9002ce&dn=[javdb.com]jul-677.torrent",
+        "title": "JUL677"
+    },
+    {
+        "id": "JUL678",
+        "magnet": "magnet:?xt=urn:btih:bfc24b1d1e20f13ce195c1184f79b22bc7d90b77&dn=[javdb.com]jul-678-C.torrent",
+        "title": "JUL678"
+    },
+    {
+        "id": "JUL679",
+        "magnet": "magnet:?xt=urn:btih:27446e0497e29ba6328d5b1c20e7181958f5fad4&dn=[javdb.com]jul-679-C.torrent",
+        "title": "JUL679"
+    },
+    {
+        "id": "JUL680",
+        "magnet": "magnet:?xt=urn:btih:f8eee2d0a9868ed93958787504f7630a5f84a58f&dn=[javdb.com]jul-680-C.torrent",
+        "title": "JUL680"
+    },
+    {
+        "id": "JUL681",
+        "magnet": "magnet:?xt=urn:btih:f2c47861b78a67658ca98741478a54c59a5c45de&dn=[javdb.com]jul-681.torrent",
+        "title": "JUL681"
+    },
+    {
+        "id": "JUL682",
+        "magnet": "magnet:?xt=urn:btih:c2cda973ff33daa7c362fb2dab6661bb1a0c1fa1&dn=[javdb.com]jul-682-C.torrent",
+        "title": "JUL682"
+    },
+    {
+        "id": "JUL683",
+        "magnet": "magnet:?xt=urn:btih:ba82cdd5a25f15b1926a64f8fe301c9c1780f22b&dn=[javdb.com]jul-683-C.torrent",
+        "title": "JUL683"
+    },
+    {
+        "id": "JUL684",
+        "magnet": "magnet:?xt=urn:btih:95ce4ec7a4e75dba81cea1d3ab13ea84aa66013e&dn=[javdb.com]jul-684-C.torrent",
+        "title": "JUL684"
+    },
+    {
+        "id": "JUL685",
+        "magnet": "magnet:?xt=urn:btih:fddb0022218c0dae24c1a00f127b492501dd6045&dn=[javdb.com]jul-685-C.torrent",
+        "title": "JUL685"
+    },
+    {
+        "id": "JUL686",
+        "magnet": "magnet:?xt=urn:btih:5abcc45e3456b30b784b1666c626e7d9307f1c80&dn=[javdb.com]jul-686-C.torrent",
+        "title": "JUL686"
+    },
+    {
+        "id": "JUL687",
+        "magnet": "magnet:?xt=urn:btih:285000e1fe042a31ae7843f80307e20d39b61c32&dn=[javdb.com]jul-687-C.torrent",
+        "title": "JUL687"
+    },
+    {
+        "id": "JUL688",
+        "magnet": "magnet:?xt=urn:btih:2c87b006df3f97f60180efb56772a8b75c5eec74&dn=[javdb.com]jul-688-C.torrent",
+        "title": "JUL688"
+    },
+    {
+        "id": "JUL689",
+        "magnet": "magnet:?xt=urn:btih:c10c7d5e3c5c036c50b9ab0b2bde3e9b795f1037&dn=[javdb.com]jul-689-C.torrent",
+        "title": "JUL689"
+    },
+    {
+        "id": "JUL690",
+        "magnet": "magnet:?xt=urn:btih:ab418e468adb2a1024259c12ed71704aa46bc9d6&dn=[javdb.com]jul-690.torrent",
+        "title": "JUL690"
+    },
+    {
+        "id": "JUL691",
+        "magnet": "magnet:?xt=urn:btih:7e4adb7580d88cf658530f004c7f879ca765753a&dn=[javdb.com]jul-691-C.torrent",
+        "title": "JUL691"
+    },
+    {
+        "id": "JUL692",
+        "magnet": "magnet:?xt=urn:btih:36d1ca815677add5135bec02b4c13c40c2dd0f5e&dn=[javdb.com]jul-692.torrent",
+        "title": "JUL692"
+    },
+    {
+        "id": "JUL693",
+        "magnet": "magnet:?xt=urn:btih:cea55bda24c31ce2cead3d75c9c24bb6bd72ac76&dn=[javdb.com]jul-693-C.torrent",
+        "title": "JUL693"
+    },
+    {
+        "id": "JUL694",
+        "magnet": "magnet:?xt=urn:btih:7c373cb52696e0bd4609a2548eded5775facadb1&dn=[javdb.com]jul-694-C.torrent",
+        "title": "JUL694"
+    },
+    {
+        "id": "JUL695",
+        "magnet": "magnet:?xt=urn:btih:a697e8ed5eee610501abaca0f312789c15eecb1c&dn=[javdb.com]jul-695-C.torrent",
+        "title": "JUL695"
+    },
+    {
+        "id": "JUL696",
+        "magnet": "magnet:?xt=urn:btih:cd2075331fc85af954ef9b1ba99770565fc96412&dn=[javdb.com]jul-696-C.torrent",
+        "title": "JUL696"
+    },
+    {
+        "id": "JUL697",
+        "magnet": "magnet:?xt=urn:btih:9bd00ecc9c96e73c2712abd6c7b9aa54a1a07286&dn=[javdb.com]jul-697-C.torrent",
+        "title": "JUL697"
+    },
+    {
+        "id": "JUL698",
+        "magnet": "magnet:?xt=urn:btih:f13a7ddd6e53665884baf07cce662081d61cfb07&dn=[javdb.com]jul-698-C.torrent",
+        "title": "JUL698"
+    },
+    {
+        "id": "JUL699",
+        "magnet": "magnet:?xt=urn:btih:187ca1d5aba346e7af6f30b650358d462f3f1016&dn=[javdb.com]jul-699.torrent",
+        "title": "JUL699"
+    },
+    {
+        "id": "JUL700",
+        "magnet": "magnet:?xt=urn:btih:f3edf399e475c43b049ea2283e9be218088c6f1d&dn=[javdb.com]jul-700-C.torrent",
+        "title": "JUL700"
+    },
+    {
+        "id": "JUL701",
+        "magnet": "magnet:?xt=urn:btih:27da631a0287d6903f3ec7681d70dedeee29ca91&dn=[javdb.com]jul-701-C.torrent",
+        "title": "JUL701"
+    },
+    {
+        "id": "JUL702",
+        "magnet": "magnet:?xt=urn:btih:70c6021a2be17e277494cf429bec0d9abb490e5a&dn=[javdb.com]jul-702-C.torrent",
+        "title": "JUL702"
+    },
+    {
+        "id": "JUL703",
+        "magnet": "magnet:?xt=urn:btih:cb17753a60b0e7186ea3d439adb2e6652f27c39c&dn=[javdb.com]jul-703-C.torrent",
+        "title": "JUL703"
+    },
+    {
+        "id": "JUL704",
+        "magnet": "magnet:?xt=urn:btih:c0553e471ef3ea6e0e8a82f3f9d2e1c492f3e8e6&dn=[javdb.com]jul-704-C.torrent",
+        "title": "JUL704"
+    },
+    {
+        "id": "JUL705",
+        "magnet": "magnet:?xt=urn:btih:2eeaaa79f8d243f0c825cba4d868d7132e18066b&dn=[javdb.com]jul-705-C.torrent",
+        "title": "JUL705"
+    },
+    {
+        "id": "JUL706",
+        "magnet": "magnet:?xt=urn:btih:cd3ef646926c59d03f65a4eba604f9db2d0b4d0f&dn=[javdb.com]jul-706-C.torrent",
+        "title": "JUL706"
+    },
+    {
+        "id": "JUL707",
+        "magnet": "magnet:?xt=urn:btih:22e61f79e0bfd0d06a387dcebca60e6cd12f597d&dn=[javdb.com]jul-707-C.torrent",
+        "title": "JUL707"
+    },
+    {
+        "id": "JUL708",
+        "magnet": "magnet:?xt=urn:btih:bb83be26099a8ab6d1fe498a3a49410e9c9e088a&dn=[javdb.com]jul-708-C.torrent",
+        "title": "JUL708"
+    },
+    {
+        "id": "JUL709",
+        "magnet": "magnet:?xt=urn:btih:7d644dd7aae7e081cf1ae81f439ad8e8a215a759&dn=[javdb.com]jul-709-C.torrent",
+        "title": "JUL709"
+    },
+    {
+        "id": "JUL710",
+        "magnet": "magnet:?xt=urn:btih:f9fb8e4be1a6e97ddfb658d2ae1e9fa4543a3b9b&dn=[javdb.com]jul-710.torrent",
+        "title": "JUL710"
+    },
+    {
+        "id": "JUL711",
+        "magnet": "magnet:?xt=urn:btih:343852a47d40725b64c0a6f821fe00a02fdc573e&dn=[javdb.com]jul-711.torrent",
+        "title": "JUL711"
+    },
+    {
+        "id": "JUL712",
+        "magnet": "magnet:?xt=urn:btih:25d7c9f28ebca3205bbaf3972a5ac117761cfc35&dn=[javdb.com]jul-712.torrent",
+        "title": "JUL712"
+    },
+    {
+        "id": "JUL713",
+        "magnet": "magnet:?xt=urn:btih:42f66be6361b9be2a4c179d2f2e2e95ebab50701&dn=[javdb.com]jul-713.torrent",
+        "title": "JUL713"
+    },
+    {
+        "id": "JUL714",
+        "magnet": "magnet:?xt=urn:btih:6bb5c4219a8232d010bf3bb72db7e4810987b84c&dn=[javdb.com]jul-714.torrent",
+        "title": "JUL714"
+    },
+    {
+        "id": "JUL715",
+        "magnet": "magnet:?xt=urn:btih:1837f83fe6e659b4b6f8638d1763ae81922e8485&dn=[javdb.com]jul-715-C.torrent",
+        "title": "JUL715"
+    },
+    {
+        "id": "JUL716",
+        "magnet": "magnet:?xt=urn:btih:5dfbe0e0e7b1a4516bef05c3760eb5a4207a42c7&dn=[javdb.com]jul-716.torrent",
+        "title": "JUL716"
+    },
+    {
+        "id": "JUL717",
+        "magnet": "magnet:?xt=urn:btih:84ffd15ba9c31c0d80d74d33ac390562b758a511&dn=[javdb.com]jul-717.torrent",
+        "title": "JUL717"
+    },
+    {
+        "id": "JUL718",
+        "magnet": "magnet:?xt=urn:btih:970342566961e955eda6e849debcc76e4540dff1&dn=[javdb.com]jul-718.torrent",
+        "title": "JUL718"
+    },
+    {
+        "id": "JUL719",
+        "magnet": "magnet:?xt=urn:btih:b649b571b3399e8852008d7a5f31fffd3e09d8f8&dn=[javdb.com]jul-719-C.torrent",
+        "title": "JUL719"
+    },
+    {
+        "id": "JUL720",
+        "magnet": "magnet:?xt=urn:btih:29c39a573210616637dca6e30ac4f86dc3db8fc8&dn=[javdb.com]jul-720-C.torrent",
+        "title": "JUL720"
+    },
+    {
+        "id": "JUL721",
+        "magnet": "magnet:?xt=urn:btih:738b18cc3e07aa08a70da2c6310a98c761ec0eed&dn=[javdb.com]jul-721.torrent",
+        "title": "JUL721"
+    },
+    {
+        "id": "JUL722",
+        "magnet": "magnet:?xt=urn:btih:79806e9ff330f1007a691d6fc26ce9f4d2fe0fd7&dn=[javdb.com]jul-722-C.torrent",
+        "title": "JUL722"
+    },
+    {
+        "id": "JUL723",
+        "magnet": "magnet:?xt=urn:btih:6713284cc3e72030c559ba63abf49c2a1e954f6f&dn=[javdb.com]jul-723.torrent",
+        "title": "JUL723"
+    },
+    {
+        "id": "JUL724",
+        "magnet": "magnet:?xt=urn:btih:2b0683bf6061a968f845b995d7c1c30062c1b288&dn=[javdb.com]jul-724.torrent",
+        "title": "JUL724"
+    },
+    {
+        "id": "JUL725",
+        "magnet": "magnet:?xt=urn:btih:6f3bc58f46e4fdbe4f102059be192c24d1f7ed3e&dn=[javdb.com]jul-725.torrent",
+        "title": "JUL725"
+    },
+    {
+        "id": "JUL726",
+        "magnet": "magnet:?xt=urn:btih:e36208cecacb19133eb34efb5a6978b0a9981b36&dn=[javdb.com]jul-726-C.torrent",
+        "title": "JUL726"
+    },
+    {
+        "id": "JUL727",
+        "magnet": "magnet:?xt=urn:btih:9d13aecb9d0066de7d7713f12099a1cda46b3c03&dn=[javdb.com]jul-727-C.torrent",
+        "title": "JUL727"
+    },
+    {
+        "id": "JUL728",
+        "magnet": "magnet:?xt=urn:btih:cb3978f64a8992fd459bab5359206a7d6fa7b880&dn=[javdb.com]jul-728-C.torrent",
+        "title": "JUL728"
+    },
+    {
+        "id": "JUL729",
+        "magnet": "magnet:?xt=urn:btih:d276b7e1629a0941132ba2b57c20155745506dde&dn=[javdb.com]jul-729-C.torrent",
+        "title": "JUL729"
+    },
+    {
+        "id": "JUL730",
+        "magnet": "magnet:?xt=urn:btih:b694ca917aa759bcfb9a9e7f562f15e2a558a563&dn=[javdb.com]jul-730.torrent",
+        "title": "JUL730"
+    },
+    {
+        "id": "JUL731",
+        "magnet": "magnet:?xt=urn:btih:37b9bc85507217062ab8dddf5bbf78411d4a67ef&dn=[javdb.com]jul-731-C.torrent",
+        "title": "JUL731"
+    },
+    {
+        "id": "JUL732",
+        "magnet": "magnet:?xt=urn:btih:56a2f573652d91d70401714eec8d4b0b30a99254&dn=[javdb.com]jul-732-C.torrent",
+        "title": "JUL732"
+    },
+    {
+        "id": "JUL733",
+        "magnet": "magnet:?xt=urn:btih:62214ebcc1409b6b31af4ea1f27180a73b956462&dn=[javdb.com]jul-733-C.torrent",
+        "title": "JUL733"
+    },
+    {
+        "id": "JUL734",
+        "magnet": "magnet:?xt=urn:btih:49c99e3dea8658cf6dd73effaf3238e2b6c8126d&dn=[javdb.com]jul-734-C.torrent",
+        "title": "JUL734"
+    },
+    {
+        "id": "JUL735",
+        "magnet": "magnet:?xt=urn:btih:9e520a75f087744690ae5dc8eaaa68c3e2a3b2ca&dn=[javdb.com]jul-735-C.torrent",
+        "title": "JUL735"
+    },
+    {
+        "id": "JUL736",
+        "magnet": "magnet:?xt=urn:btih:f106b229a59beb643317d76d949083db1f2c8fb0&dn=[javdb.com]jul-736-C.torrent",
+        "title": "JUL736"
+    },
+    {
+        "id": "JUL737",
+        "magnet": "magnet:?xt=urn:btih:4c6a2dafa033f9bbf1dc410539dc9d68a65f76ae&dn=[javdb.com]jul-737-C.torrent",
+        "title": "JUL737"
+    },
+    {
+        "id": "JUL738",
+        "magnet": "magnet:?xt=urn:btih:e990fc37a0820d29f73a7abacef9e4e3d34c251b&dn=[javdb.com]jul-738-C.torrent",
+        "title": "JUL738"
+    },
+    {
+        "id": "JUL739",
+        "magnet": "magnet:?xt=urn:btih:321f34dfeb525a2d8f4bcb07038834915b1cd64c&dn=[javdb.com]jul-739-C.torrent",
+        "title": "JUL739"
+    },
+    {
+        "id": "JUL740",
+        "magnet": "magnet:?xt=urn:btih:1d52a9349215b0658416022431d01e2daf768ef9&dn=[javdb.com]jul-740-C.torrent",
+        "title": "JUL740"
+    },
+    {
+        "id": "JUL741",
+        "magnet": "magnet:?xt=urn:btih:139425d296fcb7978a9aeeda837a3ef482b3ced9&dn=[javdb.com]jul-741-C.torrent",
+        "title": "JUL741"
+    },
+    {
+        "id": "JUL742",
+        "magnet": "magnet:?xt=urn:btih:1fb4e526fcb59bbbae208f4f566dca3f8f9f0e3e&dn=[javdb.com]jul-742-C.torrent",
+        "title": "JUL742"
+    },
+    {
+        "id": "JUL743",
+        "magnet": "magnet:?xt=urn:btih:e8b45e9cef8eb9031f9932c8cbe67adcfd012e65&dn=[javdb.com]jul-743-C.torrent",
+        "title": "JUL743"
+    },
+    {
+        "id": "JUL744",
+        "magnet": "magnet:?xt=urn:btih:d9ed150c9dd9840f7bc6462240f2f20135d05cca&dn=[javdb.com]jul-744.torrent",
+        "title": "JUL744"
+    },
+    {
+        "id": "JUL745",
+        "magnet": "magnet:?xt=urn:btih:6bfebe7358bf1a9bd3b01e317e8dddd0718606d1&dn=[javdb.com]jul-745.torrent",
+        "title": "JUL745"
+    },
+    {
+        "id": "JUL746",
+        "magnet": "magnet:?xt=urn:btih:8ec182e63989e38de8aa3d4b5e3ed4acb230e9cd&dn=[javdb.com]jul-746-C.torrent",
+        "title": "JUL746"
+    },
+    {
+        "id": "JUL746",
+        "magnet": "magnet:?xt=urn:btih:c48d1547457f85ef57da8aac1431598be2e3be8b&dn=[javdb.com]jul-746-4k.torrent",
+        "title": "JUL746"
+    },
+    {
+        "id": "JUL746",
+        "magnet": "magnet:?xt=urn:btih:4460e0c3409980cdfcbba193c058cd1496ec8b47&dn=[javdb.com]jul-746.torrent",
+        "title": "JUL746"
+    },
+    {
+        "id": "JUL747",
+        "magnet": "magnet:?xt=urn:btih:910543c97305e9d7a8b9e6bf3d8932efa4ce7dff&dn=[javdb.com]jul-747-C.torrent",
+        "title": "JUL747"
+    },
+    {
+        "id": "JUL748",
+        "magnet": "magnet:?xt=urn:btih:a2b572b8a0846b559f4fdc6d0997c3ef0f071459&dn=[javdb.com]jul-748.torrent",
+        "title": "JUL748"
+    },
+    {
+        "id": "JUL749",
+        "magnet": "magnet:?xt=urn:btih:a871716e074e35f8d90ee53ba2343dd07fba1370&dn=[javdb.com]jul-749.torrent",
+        "title": "JUL749"
+    },
+    {
+        "id": "JUL750",
+        "magnet": "magnet:?xt=urn:btih:ecf353c6c913fe7419a85780a98beafbeceaee8c&dn=[javdb.com]jul-750-C.torrent",
+        "title": "JUL750"
+    },
+    {
+        "id": "JUL751",
+        "magnet": "magnet:?xt=urn:btih:3e6e25d9e2ad120e6c95c1fcadf9393813516642&dn=[javdb.com]jul-751-C.torrent",
+        "title": "JUL751"
+    },
+    {
+        "id": "JUL752",
+        "magnet": "magnet:?xt=urn:btih:04988363e1687f1c3c9fdc49687893be21be423e&dn=[javdb.com]jul-752-C.torrent",
+        "title": "JUL752"
+    },
+    {
+        "id": "JUL753",
+        "magnet": "magnet:?xt=urn:btih:65fde385ffcf48d497f3fb62dcc016b95c0484cf&dn=[javdb.com]jul-753-C.torrent",
+        "title": "JUL753"
+    },
+    {
+        "id": "JUL754",
+        "magnet": "magnet:?xt=urn:btih:48b67bf11d2eb5f0ea53b415b7c78d7579c66e99&dn=[javdb.com]jul-754-C.torrent",
+        "title": "JUL754"
+    },
+    {
+        "id": "JUL755",
+        "magnet": "magnet:?xt=urn:btih:0d0ee039bb4e1b4e3865703fd1a01f71c252d7ca&dn=[javdb.com]jul-755.torrent",
+        "title": "JUL755"
+    },
+    {
+        "id": "JUL756",
+        "magnet": "magnet:?xt=urn:btih:ad94c50185348d26c87aa86d75297c32fb66613b&dn=[javdb.com]jul-756-C.torrent",
+        "title": "JUL756"
+    },
+    {
+        "id": "JUL757",
+        "magnet": "magnet:?xt=urn:btih:2ce0e37a16eb677f09d20c22ef5554b32170a66b&dn=[javdb.com]jul-757-C.torrent",
+        "title": "JUL757"
+    },
+    {
+        "id": "JUL758",
+        "magnet": "magnet:?xt=urn:btih:20565f0a6954e5294cec5b27ca9a033e324e8000&dn=[javdb.com]jul-758-C.torrent",
+        "title": "JUL758"
+    },
+    {
+        "id": "JUL759",
+        "magnet": "magnet:?xt=urn:btih:141dc0698507b30ed60b51d3d632e6f703f51e8b&dn=[javdb.com]jul-759.torrent",
+        "title": "JUL759"
+    },
+    {
+        "id": "JUL760",
+        "magnet": "magnet:?xt=urn:btih:fbb2c4ad65a976e3e9c48024531fd23196224804&dn=[javdb.com]jul-760.torrent",
+        "title": "JUL760"
+    },
+    {
+        "id": "JUL761",
+        "magnet": "magnet:?xt=urn:btih:a9eecd2fbfa955ad036abe4b07a25bda9b314725&dn=[javdb.com]jul-761-C-C.torrent",
+        "title": "JUL761"
+    },
+    {
+        "id": "JUL762",
+        "magnet": "magnet:?xt=urn:btih:f698930c4e469b2b651d918a5cae7f359f42ab5b&dn=[javdb.com]jul-762.torrent",
+        "title": "JUL762"
+    },
+    {
+        "id": "JUL763",
+        "magnet": "magnet:?xt=urn:btih:2004d3965dd186a3705af81d89503c5af30465b6&dn=[javdb.com]jul-763-C-C.torrent",
+        "title": "JUL763"
+    },
+    {
+        "id": "JUL763",
+        "magnet": "magnet:?xt=urn:btih:fdcb4f7c819a69e3fd1adbd7b5941bc63eccf766&dn=[javdb.com]jul-763-4k.torrent",
+        "title": "JUL763"
+    },
+    {
+        "id": "JUL763",
+        "magnet": "magnet:?xt=urn:btih:208915a54170d7c1d2ad07cae7e409ddb15d17f1&dn=[javdb.com]jul-763.torrent",
+        "title": "JUL763"
+    },
+    {
+        "id": "JUL764",
+        "magnet": "magnet:?xt=urn:btih:d3e2e2e91f50a84f4ea0731c6049114e80111c5c&dn=[javdb.com]jul-764-C-C.torrent",
+        "title": "JUL764"
+    },
+    {
+        "id": "JUL765",
+        "magnet": "magnet:?xt=urn:btih:7ccb63fd006cdc4a96912be99bc0543513d47e22&dn=[javdb.com]jul-765-C-C.torrent",
+        "title": "JUL765"
+    },
+    {
+        "id": "JUL766",
+        "magnet": "magnet:?xt=urn:btih:8a4bd2e5196c25ecec631011b1bd5c9bfd4069ac&dn=[javdb.com]jul-766-C-C.torrent",
+        "title": "JUL766"
+    },
+    {
+        "id": "JUL767",
+        "magnet": "magnet:?xt=urn:btih:d5aaa116528fbea95a0d2be0eccfadaf127ed7a0&dn=[javdb.com]jul-767-C-C.torrent",
+        "title": "JUL767"
+    },
+    {
+        "id": "JUL768",
+        "magnet": "magnet:?xt=urn:btih:695fbc869ae6d274aa36c3c5eca8917077080589&dn=[javdb.com]jul-768-C-C.torrent",
+        "title": "JUL768"
+    },
+    {
+        "id": "JUL769",
+        "magnet": "magnet:?xt=urn:btih:7d447d2ec4ea1dce1bbab340f484495c93ca9b60&dn=[javdb.com]jul-769-C.torrent",
+        "title": "JUL769"
+    },
+    {
+        "id": "JUL770",
+        "magnet": "magnet:?xt=urn:btih:d70d3b5a4b3d31879a774b8e0d0575ec190f76b9&dn=[javdb.com]jul-770-C.torrent",
+        "title": "JUL770"
+    },
+    {
+        "id": "JUL771",
+        "magnet": "magnet:?xt=urn:btih:dbeef0df6b2ed2ad2ce50e69ff609ef20c783225&dn=[javdb.com]jul-771-C.torrent",
+        "title": "JUL771"
+    },
+    {
+        "id": "JUL772",
+        "magnet": "magnet:?xt=urn:btih:b7cbfdc23813a1d8c5bacfe866be61e7a749a576&dn=[javdb.com]jul-772.torrent",
+        "title": "JUL772"
+    },
+    {
+        "id": "JUL773",
+        "magnet": "magnet:?xt=urn:btih:f58939a5895d91d8dcea362c56a09e21fe2bd82e&dn=[javdb.com]jul-773-C.torrent",
+        "title": "JUL773"
+    },
+    {
+        "id": "JUL774",
+        "magnet": "magnet:?xt=urn:btih:6ec48d039ec4070be486fd39ceb4187aa88c8e6d&dn=[javdb.com]jul-774-C.torrent",
+        "title": "JUL774"
+    },
+    {
+        "id": "JUL775",
+        "magnet": "magnet:?xt=urn:btih:3d2877147b907e59aa17e2e7082981f335037b70&dn=[javdb.com]jul-775.torrent",
+        "title": "JUL775"
+    },
+    {
+        "id": "JUL776",
+        "magnet": "magnet:?xt=urn:btih:8fd86ab5b2ba2b51cd157df1c35ed2c53ba4e585&dn=[javdb.com]jul-776-C.torrent",
+        "title": "JUL776"
+    },
+    {
+        "id": "JUL777",
+        "magnet": "magnet:?xt=urn:btih:bdd4d9c331873a95a1bf7bb447bfe5d7070fb4a0&dn=[javdb.com]jul-777-C.torrent",
+        "title": "JUL777"
+    },
+    {
+        "id": "JUL778",
+        "magnet": "magnet:?xt=urn:btih:7639cab03b9e8f6445b8f57c9d8ce5b8a52743ae&dn=[javdb.com]jul-778-C.torrent",
+        "title": "JUL778"
+    },
+    {
+        "id": "JUL779",
+        "magnet": "magnet:?xt=urn:btih:ed7a81d265380e56619844b4fe26830f136853d4&dn=[javdb.com]jul-779-C.torrent",
+        "title": "JUL779"
+    },
+    {
+        "id": "JUL780",
+        "magnet": "magnet:?xt=urn:btih:26ea7e65807c4949d77ef19576d06c24794c9ecb&dn=[javdb.com]jul-780-C.torrent",
+        "title": "JUL780"
+    },
+    {
+        "id": "JUL781",
+        "magnet": "magnet:?xt=urn:btih:f7ec51828b6846ddfc7aa230261a129d31a0bae0&dn=[javdb.com]jul-781-C.torrent",
+        "title": "JUL781"
+    },
+    {
+        "id": "JUL782",
+        "magnet": "magnet:?xt=urn:btih:3ae7532a2678e0e06619e3248a5c787ee5381600&dn=[javdb.com]jul-782-C.torrent",
+        "title": "JUL782"
+    },
+    {
+        "id": "JUL783",
+        "magnet": "magnet:?xt=urn:btih:206ce07230045ce4a86d0dff753c3087659a519d&dn=[javdb.com]jul-783-C.torrent",
+        "title": "JUL783"
+    },
+    {
+        "id": "JUL784",
+        "magnet": "magnet:?xt=urn:btih:fa56e3972ffda5d7591ad5720b10b7b07c3f7c29&dn=[javdb.com]jul-784-C.torrent",
+        "title": "JUL784"
+    },
+    {
+        "id": "JUL785",
+        "magnet": "magnet:?xt=urn:btih:a7beb0865184e9979afe2961410d09f8015bedbc&dn=[javdb.com]jul-785-C.torrent",
+        "title": "JUL785"
+    },
+    {
+        "id": "JUL786",
+        "magnet": "magnet:?xt=urn:btih:123f2869f1e02e354ba2d393a6d344bfc93c984f&dn=[javdb.com]jul-786-C.torrent",
+        "title": "JUL786"
+    },
+    {
+        "id": "JUL787",
+        "magnet": "magnet:?xt=urn:btih:37946f02d08629c2d9aed65be55d37e870c125ef&dn=[javdb.com]jul-787-C.torrent",
+        "title": "JUL787"
+    },
+    {
+        "id": "JUL788",
+        "magnet": "magnet:?xt=urn:btih:1cf14231c05a5830f9993b01f4749cf237c6912b&dn=[javdb.com]jul-788.torrent",
+        "title": "JUL788"
+    },
+    {
+        "id": "JUL789",
+        "magnet": "magnet:?xt=urn:btih:79d6f07d1364125f7a27d33f47e1f31cfbbb8606&dn=[javdb.com]jul-789.torrent",
+        "title": "JUL789"
+    },
+    {
+        "id": "JUL790",
+        "magnet": "magnet:?xt=urn:btih:0ee58c9cc7a71a25dd2a7a4df01c65a9d4b0a0bd&dn=[javdb.com]jul-790.torrent",
+        "title": "JUL790"
+    },
+    {
+        "id": "JUL791",
+        "magnet": "magnet:?xt=urn:btih:2d4fb630a4f18d76a87318485fa39676fb550655&dn=[javdb.com]jul-791-C.torrent",
+        "title": "JUL791"
+    },
+    {
+        "id": "JUL792",
+        "magnet": "magnet:?xt=urn:btih:e5e90a98161e705d7df5de9010e36e18e4b85633&dn=[javdb.com]jul-792-C.torrent",
+        "title": "JUL792"
+    },
+    {
+        "id": "JUL793",
+        "magnet": "magnet:?xt=urn:btih:c38561fd01ea775d415f041c6143288e331447ab&dn=[javdb.com]jul-793-C.torrent",
+        "title": "JUL793"
+    },
+    {
+        "id": "JUL794",
+        "magnet": "magnet:?xt=urn:btih:7d65d6ec77b53a8bc2ab89109d257e0030830585&dn=[javdb.com]jul-794-C.torrent",
+        "title": "JUL794"
+    },
+    {
+        "id": "JUL795",
+        "magnet": "magnet:?xt=urn:btih:cab08f038527ee4a703fbd1c5094566819a3d67f&dn=[javdb.com]jul-795-C.torrent",
+        "title": "JUL795"
+    },
+    {
+        "id": "JUL796",
+        "magnet": "magnet:?xt=urn:btih:8eb8c010c301ac86012e59e7dddabad064d0dba8&dn=[javdb.com]jul-796-C.torrent",
+        "title": "JUL796"
+    },
+    {
+        "id": "JUL797",
+        "magnet": "magnet:?xt=urn:btih:9e01232a516103a85ed952c7d2c179fe4d995a38&dn=[javdb.com]jul-797.torrent",
+        "title": "JUL797"
+    },
+    {
+        "id": "JUL797",
+        "magnet": "magnet:?xt=urn:btih:6bc798787dee1ede3111c18646c1f43303233bbc&dn=[javdb.com]jul-797-C.torrent",
+        "title": "JUL797"
+    },
+    {
+        "id": "JUL798",
+        "magnet": "magnet:?xt=urn:btih:fa65c5c0dc82e566fbea9feefc81dd8858b25b29&dn=[javdb.com]jul-798-C.torrent",
+        "title": "JUL798"
+    },
+    {
+        "id": "JUL799",
+        "magnet": "magnet:?xt=urn:btih:6e5ace09ae38fde0e1fa973a093af4079a32c1a8&dn=[javdb.com]jul-799-C.torrent",
+        "title": "JUL799"
+    },
+    {
+        "id": "JUL800",
+        "magnet": "magnet:?xt=urn:btih:cceb4daee90f0d2460a195f26a3428d1074d6987&dn=[javdb.com]jul-800-C.torrent",
+        "title": "JUL800"
+    },
+    {
+        "id": "JUL801",
+        "magnet": "magnet:?xt=urn:btih:7d7e1e4b9a9c0f1ef2fa387d8ab4e8e1662b602c&dn=[javdb.com]jul-801.torrent",
+        "title": "JUL801"
+    },
+    {
+        "id": "JUL802",
+        "magnet": "magnet:?xt=urn:btih:3d848ffceefbcff72ddde710c065b7674c65c376&dn=[javdb.com]jul-802-C.torrent",
+        "title": "JUL802"
+    },
+    {
+        "id": "JUL803",
+        "magnet": "magnet:?xt=urn:btih:2e832e669e7a1d20635e9aee30a9e900349d6cae&dn=[javdb.com]jul-803-C.torrent",
+        "title": "JUL803"
+    },
+    {
+        "id": "JUL804",
+        "magnet": "magnet:?xt=urn:btih:8174f74b591cf8c1ea0ceba82294a820178530f8&dn=[javdb.com]jul-804-C.torrent",
+        "title": "JUL804"
+    },
+    {
+        "id": "JUL805",
+        "magnet": "magnet:?xt=urn:btih:ceb16b6469bf5fc642427f4f652c23805a12d2d9&dn=[javdb.com]jul-805-C.torrent",
+        "title": "JUL805"
+    },
+    {
+        "id": "JUL806",
+        "magnet": "magnet:?xt=urn:btih:0c4002c113f46d42d4d56744f9b6a58f7f0a4bea&dn=[javdb.com]jul-806-C.torrent",
+        "title": "JUL806"
+    },
+    {
+        "id": "JUL807",
+        "magnet": "magnet:?xt=urn:btih:03eef74e4d44d9400b3ebaf4055dae21a8933051&dn=[javdb.com]jul-807-C.torrent",
+        "title": "JUL807"
+    },
+    {
+        "id": "JUL808",
+        "magnet": "magnet:?xt=urn:btih:82d6daa0e3589d6b5e1ef11bf5d2a0fe4a33a585&dn=[javdb.com]jul-808-C.torrent",
+        "title": "JUL808"
+    },
+    {
+        "id": "JUL809",
+        "magnet": "magnet:?xt=urn:btih:c47d6162fb73fca3924ece3785642d809fdedce1&dn=[javdb.com]jul-809-C.torrent",
+        "title": "JUL809"
+    },
+    {
+        "id": "JUL810",
+        "magnet": "magnet:?xt=urn:btih:8fb350d5a8fa5d0b7b64c1d44cdee1dc24f59899&dn=[javdb.com]jul-810-C.torrent",
+        "title": "JUL810"
+    },
+    {
+        "id": "JUL811",
+        "magnet": "magnet:?xt=urn:btih:adb37a926bb58c2f8e6e07c2d6266cddde49fff0&dn=[javdb.com]jul-811-C.torrent",
+        "title": "JUL811"
+    },
+    {
+        "id": "JUL812",
+        "magnet": "magnet:?xt=urn:btih:ec80a7acefe9757bbae7b0b5fbaf09e15085459e&dn=[javdb.com]jul-812-C.torrent",
+        "title": "JUL812"
+    },
+    {
+        "id": "JUL813",
+        "magnet": "magnet:?xt=urn:btih:b4ddd0a06ffb7db3b24476659d3a73d78308c5dd&dn=[javdb.com]jul-813-C.torrent",
+        "title": "JUL813"
+    },
+    {
+        "id": "JUL814",
+        "magnet": "magnet:?xt=urn:btih:3bed38dda9e56b88f5f6a8341e977aceda89e1b8&dn=[javdb.com]jul-814-C.torrent",
+        "title": "JUL814"
+    },
+    {
+        "id": "JUL815",
+        "magnet": "magnet:?xt=urn:btih:585e0b9e050c2a42f16818cf5b8275a82c72900c&dn=[javdb.com]jul-815-C.torrent",
+        "title": "JUL815"
+    },
+    {
+        "id": "JUL816",
+        "magnet": "magnet:?xt=urn:btih:4b8bdf8a1e37d6932a60eaec44959b37905ac1cb&dn=[javdb.com]jul-816-C.torrent",
+        "title": "JUL816"
+    },
+    {
+        "id": "JUL817",
+        "magnet": "magnet:?xt=urn:btih:40659a523e73cdadd01dcb25c82525512aa4979f&dn=[javdb.com]jul-817-C.torrent",
+        "title": "JUL817"
+    },
+    {
+        "id": "JUL818",
+        "magnet": "magnet:?xt=urn:btih:42974a95dec0e02333d3370114eb96e7a583f770&dn=[javdb.com]jul-818-C.torrent",
+        "title": "JUL818"
+    },
+    {
+        "id": "JUL819",
+        "magnet": "magnet:?xt=urn:btih:795bdb352d19ec18b4df32ced378c1d8cc9f8dc2&dn=[javdb.com]jul-819-C.torrent",
+        "title": "JUL819"
+    },
+    {
+        "id": "JUL820",
+        "magnet": "magnet:?xt=urn:btih:2c98719252e377dc0eca8c055348e9b488bb6268&dn=[javdb.com]jul-820-C.torrent",
+        "title": "JUL820"
+    },
+    {
+        "id": "JUL821",
+        "magnet": "magnet:?xt=urn:btih:98ac4f732f1ea6179b0822c06ed8e77b93e1b6e0&dn=[javdb.com]jul-821-C.torrent",
+        "title": "JUL821"
+    },
+    {
+        "id": "JUL822",
+        "magnet": "magnet:?xt=urn:btih:f69022e7c9791dc542b1b351ed18333d228938f0&dn=[javdb.com]jul-822-C.torrent",
+        "title": "JUL822"
+    },
+    {
+        "id": "JUL823",
+        "magnet": "magnet:?xt=urn:btih:4a992184a4469e46c7255c4eac8658a62b9b7eb8&dn=[javdb.com]jul-823-C.torrent",
+        "title": "JUL823"
+    },
+    {
+        "id": "JUL824",
+        "magnet": "magnet:?xt=urn:btih:7b681ec4e845fe5ed62d90b417f64d4ec59dcffe&dn=[javdb.com]jul-824-C.torrent",
+        "title": "JUL824"
+    },
+    {
+        "id": "JUL825",
+        "magnet": "magnet:?xt=urn:btih:3ced35b91bc0f1350651d11617ed9a0babd52e4b&dn=[javdb.com]jul-825-C.torrent",
+        "title": "JUL825"
+    },
+    {
+        "id": "JUL826",
+        "magnet": "magnet:?xt=urn:btih:0d1a78df46b0ada47b470bbb1f663539919fe276&dn=[javdb.com]jul-826-C.torrent",
+        "title": "JUL826"
+    },
+    {
+        "id": "JUL827",
+        "magnet": "magnet:?xt=urn:btih:ae4647cc8b2a9b716fb03309974ad4272139707d&dn=[javdb.com]jul-827-C.torrent",
+        "title": "JUL827"
+    },
+    {
+        "id": "JUL828",
+        "magnet": "magnet:?xt=urn:btih:9e1b56292e8eef2af0e78d48468c1429f3dff785&dn=[javdb.com]jul-828-C.torrent",
+        "title": "JUL828"
+    },
+    {
+        "id": "JUL829",
+        "magnet": "magnet:?xt=urn:btih:2ab48b6e60f3e034dcc45f5a44087ac8a81db630&dn=[javdb.com]jul-829-C.torrent",
+        "title": "JUL829"
+    },
+    {
+        "id": "JUL830",
+        "magnet": "magnet:?xt=urn:btih:2581d587aece48904da983eaf4c6239df14ab127&dn=[javdb.com]jul-830-C.torrent",
+        "title": "JUL830"
+    },
+    {
+        "id": "JUL831",
+        "magnet": "magnet:?xt=urn:btih:2a768fc624f69dd54e32d6144c4c41704daed68c&dn=[javdb.com]jul-831-C.torrent",
+        "title": "JUL831"
+    },
+    {
+        "id": "JUL832",
+        "magnet": "magnet:?xt=urn:btih:139134b617c1764fbc4e667135258efbd5c9eced&dn=[javdb.com]jul-832-C.torrent",
+        "title": "JUL832"
+    },
+    {
+        "id": "JUL833",
+        "magnet": "magnet:?xt=urn:btih:680a34ac2329bb8dd5f6f68a373ce7fb13c29589&dn=[javdb.com]jul-833-C.torrent",
+        "title": "JUL833"
+    },
+    {
+        "id": "JUL834",
+        "magnet": "magnet:?xt=urn:btih:4767cf76fc34229ed0b5d6af34011a663c865b6f&dn=[javdb.com]jul-834-C.torrent",
+        "title": "JUL834"
+    },
+    {
+        "id": "JUL835",
+        "magnet": "magnet:?xt=urn:btih:640f59b5f7c6153913e6d96301e48accadd75e22&dn=[javdb.com]jul-835.torrent",
+        "title": "JUL835"
+    },
+    {
+        "id": "JUL836",
+        "magnet": "magnet:?xt=urn:btih:4c480a626cf513592eb423fe6d90f2e547aaa016&dn=[javdb.com]jul-836-C.torrent",
+        "title": "JUL836"
+    },
+    {
+        "id": "JUL837",
+        "magnet": "magnet:?xt=urn:btih:ec02155f1f4324d9e58b5e8048a3268d3e9b9b0b&dn=[javdb.com]jul-837-C.torrent",
+        "title": "JUL837"
+    },
+    {
+        "id": "JUL838",
+        "magnet": "magnet:?xt=urn:btih:19e6964cc853e6f167b67587546f080e2f5e9a42&dn=[javdb.com]jul-838-C.torrent",
+        "title": "JUL838"
+    },
+    {
+        "id": "JUL839",
+        "magnet": "magnet:?xt=urn:btih:e849f7da2696b50a3c41129fbfadc7752b0905dc&dn=[javdb.com]jul-839-C.torrent",
+        "title": "JUL839"
+    },
+    {
+        "id": "JUL839",
+        "magnet": "magnet:?xt=urn:btih:d9576f95cf5db1d62805175afdbac411c36d79e2&dn=[javdb.com]jul-839-4k.torrent",
+        "title": "JUL839"
+    },
+    {
+        "id": "JUL839",
+        "magnet": "magnet:?xt=urn:btih:8bd35baaab7aba6d1e4e1d88c302fc9a54c5ef92&dn=[javdb.com]jul-839.torrent",
+        "title": "JUL839"
+    },
+    {
+        "id": "JUL840",
+        "magnet": "magnet:?xt=urn:btih:e2b776a5111bead620bf291352526f38339103a9&dn=[javdb.com]jul-840-C.torrent",
+        "title": "JUL840"
+    },
+    {
+        "id": "JUL841",
+        "magnet": "magnet:?xt=urn:btih:f49020238f1980eff9fdcd3b731225336d5afba8&dn=[javdb.com]jul-841-C.torrent",
+        "title": "JUL841"
+    },
+    {
+        "id": "JUL842",
+        "magnet": "magnet:?xt=urn:btih:480988de1e3c88ace48a9c83d53ca971b2f65e09&dn=[javdb.com]jul-842-C.torrent",
+        "title": "JUL842"
+    },
+    {
+        "id": "JUL843",
+        "magnet": "magnet:?xt=urn:btih:44d8b92a622f9189913ba1399acfeea52a175c67&dn=[javdb.com]jul-843-C.torrent",
+        "title": "JUL843"
+    },
+    {
+        "id": "JUL844",
+        "magnet": "magnet:?xt=urn:btih:41f49795a2e5186e185bfda00cf57471fe8df700&dn=[javdb.com]jul-844-C.torrent",
+        "title": "JUL844"
+    },
+    {
+        "id": "JUL845",
+        "magnet": "magnet:?xt=urn:btih:90e38e12c82cd0d724fc9afb0184436ca5f4dc89&dn=[javdb.com]jul-845-C.torrent",
+        "title": "JUL845"
+    },
+    {
+        "id": "JUL846",
+        "magnet": "magnet:?xt=urn:btih:98fd761ec2ce88403eac7550945e5e78aa05c74e&dn=[javdb.com]jul-846-C.torrent",
+        "title": "JUL846"
+    },
+    {
+        "id": "JUL847",
+        "magnet": "magnet:?xt=urn:btih:590030cf3cf70d3caec0c741be160fe06398795d&dn=[javdb.com]jul-847-C.torrent",
+        "title": "JUL847"
+    },
+    {
+        "id": "JUL848",
+        "magnet": "magnet:?xt=urn:btih:85c11ebd23067cb1ad348771bb9b700137bfe63f&dn=[javdb.com]jul-848-C.torrent",
+        "title": "JUL848"
+    },
+    {
+        "id": "JUL849",
+        "magnet": "magnet:?xt=urn:btih:607967f9b7d82044eaba2c4aaba3b179b06945c0&dn=[javdb.com]jul-849-C.torrent",
+        "title": "JUL849"
+    },
+    {
+        "id": "JUL850",
+        "magnet": "magnet:?xt=urn:btih:ea1231f18d0b841b54f41dcb923172ddab42ff39&dn=[javdb.com]jul-850-C.torrent",
+        "title": "JUL850"
+    },
+    {
+        "id": "JUL851",
+        "magnet": "magnet:?xt=urn:btih:7a5a9a7f78f615a7ef6bf86f4edb0d1a3a5b3b4f&dn=[javdb.com]jul-851-C.torrent",
+        "title": "JUL851"
+    },
+    {
+        "id": "JUL852",
+        "magnet": "magnet:?xt=urn:btih:31af04831b56722aa3246175e7c3882be7141270&dn=[javdb.com]jul-852-C.torrent",
+        "title": "JUL852"
+    },
+    {
+        "id": "JUL853",
+        "magnet": "magnet:?xt=urn:btih:cfd159869b124c5dfb6206da1ef302db3532a1e9&dn=[javdb.com]jul-853.torrent",
+        "title": "JUL853"
+    },
+    {
+        "id": "JUL854",
+        "magnet": "magnet:?xt=urn:btih:f33029191841176320134ef1d0b4faa8a6382dda&dn=[javdb.com]jul-854-C.torrent",
+        "title": "JUL854"
+    },
+    {
+        "id": "JUL855",
+        "magnet": "magnet:?xt=urn:btih:9cde6f74b9c258fe3858557188242dc8be0ad61e&dn=[javdb.com]jul-855-C.torrent",
+        "title": "JUL855"
+    },
+    {
+        "id": "JUL856",
+        "magnet": "magnet:?xt=urn:btih:89f54fa424983078cf64ec2d5bb10004dc646de4&dn=[javdb.com]jul-856-C.torrent",
+        "title": "JUL856"
+    },
+    {
+        "id": "JUL857",
+        "magnet": "magnet:?xt=urn:btih:bd6686dc1e363786f7d8bedefc41f9f66e8cd57c&dn=[javdb.com]jul-857-C.torrent",
+        "title": "JUL857"
+    },
+    {
+        "id": "JUL858",
+        "magnet": "magnet:?xt=urn:btih:cea34c9ed277f453ed17ae21a2cbd3caea8aa5fb&dn=[javdb.com]jul-858-C.torrent",
+        "title": "JUL858"
+    },
+    {
+        "id": "JUL859",
+        "magnet": "magnet:?xt=urn:btih:52f7710522ea9f4fe7baba9982cfac1fd18019ed&dn=[javdb.com]jul-859.torrent",
+        "title": "JUL859"
+    },
+    {
+        "id": "JUL860",
+        "magnet": "magnet:?xt=urn:btih:591c02351c4cc3ecbe2d701a89dfb44e01d53f3a&dn=[javdb.com]jul-860-C.torrent",
+        "title": "JUL860"
+    },
+    {
+        "id": "JUL861",
+        "magnet": "magnet:?xt=urn:btih:4a25ad1dcf39cf1e36843f0d9f619825c66278a3&dn=[javdb.com]jul-861-C.torrent",
+        "title": "JUL861"
+    },
+    {
+        "id": "JUL862",
+        "magnet": "magnet:?xt=urn:btih:1587de7676e7e7d671a588ba940edcf73195dc82&dn=[javdb.com]jul-862-C.torrent",
+        "title": "JUL862"
+    },
+    {
+        "id": "JUL863",
+        "magnet": "magnet:?xt=urn:btih:41ff512a9024af156e21765499c8d2a20d7a0dc2&dn=[javdb.com]jul-863-C.torrent",
+        "title": "JUL863"
+    },
+    {
+        "id": "JUL864",
+        "magnet": "magnet:?xt=urn:btih:131886936bae0cd64e5093b7acf675b8aca1d8d8&dn=[javdb.com]jul-864-C.torrent",
+        "title": "JUL864"
+    },
+    {
+        "id": "JUL865",
+        "magnet": "magnet:?xt=urn:btih:5c4ecc51b900f0a610a6459c29cf963fe38febb5&dn=[javdb.com]jul-865.torrent",
+        "title": "JUL865"
+    },
+    {
+        "id": "JUL866",
+        "magnet": "magnet:?xt=urn:btih:b507cdb8c1e092dc61b8e093c5a8dca10396c805&dn=[javdb.com]jul-866-C.torrent",
+        "title": "JUL866"
+    },
+    {
+        "id": "JUL867",
+        "magnet": "magnet:?xt=urn:btih:2bfff3888b5469b22ba061e6a75397b4c0c8248c&dn=[javdb.com]jul-867-C.torrent",
+        "title": "JUL867"
+    },
+    {
+        "id": "JUL868",
+        "magnet": "magnet:?xt=urn:btih:4085fb6deef7edee10fb2a486cdec0b4244d1a13&dn=[javdb.com]jul-868-C.torrent",
+        "title": "JUL868"
+    },
+    {
+        "id": "JUL869",
+        "magnet": "magnet:?xt=urn:btih:e4a711c166d9ecb550dfe572fb3fb84d29784e8d&dn=[javdb.com]jul-869-C.torrent",
+        "title": "JUL869"
+    },
+    {
+        "id": "JUL870",
+        "magnet": "magnet:?xt=urn:btih:0aa9bbc69c7d005d4cd3219034ee4369bbfa0869&dn=[javdb.com]jul-870-C.torrent",
+        "title": "JUL870"
+    },
+    {
+        "id": "JUL871",
+        "magnet": "magnet:?xt=urn:btih:f9889fcdad2bd2b13dc279cc7eaaf12d8b022b96&dn=[javdb.com]jul-871-C.torrent",
+        "title": "JUL871"
+    },
+    {
+        "id": "JUL872",
+        "magnet": "magnet:?xt=urn:btih:217c05724ec5d86912a6885410dc035adf951808&dn=[javdb.com]jul-872-C.torrent",
+        "title": "JUL872"
+    },
+    {
+        "id": "JUL873",
+        "magnet": "magnet:?xt=urn:btih:318cbe72177b683113e47f4746b3ffd1945a9795&dn=[javdb.com]jul-873-C.torrent",
+        "title": "JUL873"
+    },
+    {
+        "id": "JUL874",
+        "magnet": "magnet:?xt=urn:btih:b4b5dafa3f13191098c5cc505b89d6fcae414e8e&dn=[javdb.com]jul-874-C.torrent",
+        "title": "JUL874"
+    },
+    {
+        "id": "JUL875",
+        "magnet": "magnet:?xt=urn:btih:b50c8cf59b6d501d0f1bd0b5473f5f74adc2ddc0&dn=[javdb.com]jul-875-C.torrent",
+        "title": "JUL875"
+    },
+    {
+        "id": "JUL876",
+        "magnet": "magnet:?xt=urn:btih:e9a9e7f74574ce06b9377373e73dbfb75b8ccf1c&dn=[javdb.com]jul-876-C.torrent",
+        "title": "JUL876"
+    },
+    {
+        "id": "JUL877",
+        "magnet": "magnet:?xt=urn:btih:7d5105512eb66cfbb0f17b47c1052945873b2f71&dn=[javdb.com]jul-877-C.torrent",
+        "title": "JUL877"
+    },
+    {
+        "id": "JUL878",
+        "magnet": "magnet:?xt=urn:btih:b0de1b6c2e48349d44fa26ebc861b22074a051cd&dn=[javdb.com]jul-878-C.torrent",
+        "title": "JUL878"
+    },
+    {
+        "id": "JUL879",
+        "magnet": "magnet:?xt=urn:btih:3e28749686a83b6d808987210bd4179ce0ae032f&dn=[javdb.com]jul-879-C.torrent",
+        "title": "JUL879"
+    },
+    {
+        "id": "JUL880",
+        "magnet": "magnet:?xt=urn:btih:3f9a195b44df6d1fd3880627caa2208a8b39eb60&dn=[javdb.com]jul-880-C.torrent",
+        "title": "JUL880"
+    },
+    {
+        "id": "JUL881",
+        "magnet": "magnet:?xt=urn:btih:d78a8e31686025e0bd016c2ec1a777e8b29ff4b0&dn=[javdb.com]JUL-881-C_X1080X??",
+        "title": "JUL881"
+    },
+    {
+        "id": "JUL882",
+        "magnet": "magnet:?xt=urn:btih:0308c8d97b30d1152edbb86c591f23260b0e2266&dn=[javdb.com]jul-882.torrent",
+        "title": "JUL882"
+    },
+    {
+        "id": "JUL883",
+        "magnet": "magnet:?xt=urn:btih:7463eb3bfc1fdd7b601eeba29963e01556da5bce&dn=[javdb.com]jul-883-C.torrent",
+        "title": "JUL883"
+    },
+    {
+        "id": "JUL884",
+        "magnet": "magnet:?xt=urn:btih:d577ca3e71a933fa2dfb38cceaad929ba38d7a74&dn=[javdb.com]jul-884.torrent",
+        "title": "JUL884"
+    },
+    {
+        "id": "JUL885",
+        "magnet": "magnet:?xt=urn:btih:fd7866aa832161aeffa81d1f110a13c7cb10cf65&dn=[javdb.com]jul-885-C.torrent",
+        "title": "JUL885"
+    },
+    {
+        "id": "JUL886",
+        "magnet": "magnet:?xt=urn:btih:c283c89ca6cd510fb31a45ae7ed28f1db1124aaa&dn=[javdb.com]jul-886-C.torrent",
+        "title": "JUL886"
+    },
+    {
+        "id": "JUL887",
+        "magnet": "magnet:?xt=urn:btih:268974c0d81b633b804d71881ee0d8f21a7ee078&dn=[javdb.com]jul-887-C.torrent",
+        "title": "JUL887"
+    },
+    {
+        "id": "JUL888",
+        "magnet": "magnet:?xt=urn:btih:e37e8758cf0ad22368ff720d929ff1a880b77f99&dn=[javdb.com]jul-888-C.torrent",
+        "title": "JUL888"
+    },
+    {
+        "id": "JUL889",
+        "magnet": "magnet:?xt=urn:btih:3bfd7df94bc7afce1c96a9953dcf7adb018afe4d&dn=[javdb.com]jul-889-C.torrent",
+        "title": "JUL889"
+    },
+    {
+        "id": "JUL890",
+        "magnet": "magnet:?xt=urn:btih:9286eca6ba389a508f04d8ae628d4b12c4fcf87c&dn=[javdb.com]jul-890-C.torrent",
+        "title": "JUL890"
+    },
+    {
+        "id": "JUL891",
+        "magnet": "magnet:?xt=urn:btih:64d2e389207956596faeb350932abfdaed993ad5&dn=[javdb.com]jul-891-C.torrent",
+        "title": "JUL891"
+    },
+    {
+        "id": "JUL892",
+        "magnet": "magnet:?xt=urn:btih:d883f3b69984457d562bac49e124452e7c9df03d&dn=[javdb.com]jul-892-C.torrent",
+        "title": "JUL892"
+    },
+    {
+        "id": "JUL893",
+        "magnet": "magnet:?xt=urn:btih:31316004cf6716a4b34c7355fd4b732ccc472ab5&dn=[javdb.com]jul-893-C.torrent",
+        "title": "JUL893"
+    },
+    {
+        "id": "JUL894",
+        "magnet": "magnet:?xt=urn:btih:495cc3bb3c902182b1157bcfa8a40c50912f5c1d&dn=[javdb.com]jul-894-C.torrent",
+        "title": "JUL894"
+    },
+    {
+        "id": "JUL895",
+        "magnet": "magnet:?xt=urn:btih:9d2714a6da05c95ba9c253f5014d6e0f400082ff&dn=[javdb.com]jul-895-C.torrent",
+        "title": "JUL895"
+    },
+    {
+        "id": "JUL896",
+        "magnet": "magnet:?xt=urn:btih:de37fe31281c4d84da7a69ed6226c48d3ebeeb16&dn=[javdb.com]jul-896-C.torrent",
+        "title": "JUL896"
+    },
+    {
+        "id": "JUL897",
+        "magnet": "magnet:?xt=urn:btih:2c470d02a0d4a30f2910ca734fa7fe8527ff124b&dn=[javdb.com]jul-897-C.torrent",
+        "title": "JUL897"
+    },
+    {
+        "id": "JUL898",
+        "magnet": "magnet:?xt=urn:btih:04401ce86b8e22f62b48472573f6f2310e3f6da3&dn=[javdb.com]jul-898-C.torrent",
+        "title": "JUL898"
+    },
+    {
+        "id": "JUL899",
+        "magnet": "magnet:?xt=urn:btih:11285c25c1c80b1c578df75827f86712879b89ea&dn=[javdb.com]jul-899-C.torrent",
+        "title": "JUL899"
+    },
+    {
+        "id": "JUL899",
+        "magnet": "magnet:?xt=urn:btih:1c864ed35272bdf5a3eb0eb82718e2b98613faba&dn=[javdb.com]jul-899-4k.torrent",
+        "title": "JUL899"
+    },
+    {
+        "id": "JUL899",
+        "magnet": "magnet:?xt=urn:btih:4aec3979d45b41322b9bfeaa8578fee35170f945&dn=[javdb.com]jul-899.torrent",
+        "title": "JUL899"
+    },
+    {
+        "id": "JUL900",
+        "magnet": "magnet:?xt=urn:btih:57bdc9ca7aaa8e145b1af7a8511d8cb5c4b135b1&dn=[javdb.com]jul-900-C.torrent",
+        "title": "JUL900"
+    },
+    {
+        "id": "JUL901",
+        "magnet": "magnet:?xt=urn:btih:d51f6159ff1f611a4f2274cee6b62ca0ef56612c&dn=[javdb.com]jul-901-C.torrent",
+        "title": "JUL901"
+    },
+    {
+        "id": "JUL902",
+        "magnet": "magnet:?xt=urn:btih:28007666d486badeb5ca0298481e43ca52cb4cd6&dn=[javdb.com]jul-902.torrent",
+        "title": "JUL902"
+    },
+    {
+        "id": "JUL903",
+        "magnet": "magnet:?xt=urn:btih:9356455c4578d679e9d7c2c7057c1c9c19c9539e&dn=[javdb.com]jul-903-C.torrent",
+        "title": "JUL903"
+    },
+    {
+        "id": "JUL904",
+        "magnet": "magnet:?xt=urn:btih:fe4d01006e56f92e35ccf10d565b2d49e023937f&dn=[javdb.com]jul-904-C.torrent",
+        "title": "JUL904"
+    },
+    {
+        "id": "JUL905",
+        "magnet": "magnet:?xt=urn:btih:0f4206fdce3760df9affc608ff1ea7bf9de916c3&dn=[javdb.com]jul-905-C.torrent",
+        "title": "JUL905"
+    },
+    {
+        "id": "JUL906",
+        "magnet": "magnet:?xt=urn:btih:70e5ae4d67af61c22c1d03261b143cbb2a2dc10e&dn=[javdb.com]jul-906.torrent",
+        "title": "JUL906"
+    },
+    {
+        "id": "JUL907",
+        "magnet": "magnet:?xt=urn:btih:6e8180f5225a588a05107b4b2258eafb42a20e08&dn=[javdb.com]jul-907-C.torrent",
+        "title": "JUL907"
+    },
+    {
+        "id": "JUL908",
+        "magnet": "magnet:?xt=urn:btih:dae2e2b91de712e0102158cee9890deb1cba3eb1&dn=[javdb.com]jul-908-C.torrent",
+        "title": "JUL908"
+    },
+    {
+        "id": "JUL909",
+        "magnet": "magnet:?xt=urn:btih:6db50c76457c2b3ae16287e1a97a887537746a9b&dn=[javdb.com]jul-909-C.torrent",
+        "title": "JUL909"
+    },
+    {
+        "id": "JUL910",
+        "magnet": "magnet:?xt=urn:btih:737d5ad743a3a07490e086f57cf41e25d116034a&dn=[javdb.com]jul-910-C.torrent",
+        "title": "JUL910"
+    },
+    {
+        "id": "JUL911",
+        "magnet": "magnet:?xt=urn:btih:e89314401fd1cf163d87fc8095f4f849b7c185b5&dn=[javdb.com]jul-911-C.torrent",
+        "title": "JUL911"
+    },
+    {
+        "id": "JUL912",
+        "magnet": "magnet:?xt=urn:btih:2cdceeb24f5ddc2de32f74b799a3400a8918798c&dn=[javdb.com]jul-912-C.torrent",
+        "title": "JUL912"
+    },
+    {
+        "id": "JUL913",
+        "magnet": "magnet:?xt=urn:btih:ac6a4c8cc22a17fa77f1e4fbd9ea061ba3f6e997&dn=[javdb.com]jul-913.torrent",
+        "title": "JUL913"
+    },
+    {
+        "id": "JUL914",
+        "magnet": "magnet:?xt=urn:btih:D4F49C0926718696D23CA11DB0A5DEE6AE056AA9",
+        "title": "JUL914"
+    },
+    {
+        "id": "JUL915",
+        "magnet": "magnet:?xt=urn:btih:D4F49C0926718696D23CA11DB0A5DEE6AE056AA9",
+        "title": "JUL915"
+    },
+    {
+        "id": "JUL916",
+        "magnet": "magnet:?xt=urn:btih:e6cac731d0142866221b0e22d4f3ea71e48fd069&dn=[javdb.com]jul-916-C.torrent",
+        "title": "JUL916"
+    },
+    {
+        "id": "JUL917",
+        "magnet": "magnet:?xt=urn:btih:ba8522bb9d393cfac36dec077963df5c6938c346&dn=[javdb.com]jul-917-C.torrent",
+        "title": "JUL917"
+    },
+    {
+        "id": "JUL918",
+        "magnet": "magnet:?xt=urn:btih:899cbdf00e12d07061728fb51eb8817d4adb3d53&dn=[javdb.com]jul-918-C.torrent",
+        "title": "JUL918"
+    },
+    {
+        "id": "JUL919",
+        "magnet": "magnet:?xt=urn:btih:1a07edc699d60e719348cba06966a0c5581be6ab&dn=[javdb.com]jul-919-C.torrent",
+        "title": "JUL919"
+    },
+    {
+        "id": "JUL920",
+        "magnet": "magnet:?xt=urn:btih:6333fdf1e2019bc9c82fcfb16375dc878f79e19b&dn=[javdb.com]jul-920-C.torrent",
+        "title": "JUL920"
+    },
+    {
+        "id": "JUL921",
+        "magnet": "magnet:?xt=urn:btih:437c63490e1d9cd9b7b5bf462dde6ca13a674990&dn=[javdb.com]jul-921-C.torrent",
+        "title": "JUL921"
+    },
+    {
+        "id": "JUL922",
+        "magnet": "magnet:?xt=urn:btih:a2e109afb1f279dce9120a3a006b26f64760748f&dn=[javdb.com]jul-922.torrent",
+        "title": "JUL922"
+    },
+    {
+        "id": "JUL923",
+        "magnet": "magnet:?xt=urn:btih:41ea1ceea5853e9626a3f9eef893b4638ffb6256&dn=[javdb.com]jul-923-C.torrent",
+        "title": "JUL923"
+    },
+    {
+        "id": "JUL924",
+        "magnet": "magnet:?xt=urn:btih:75042e7b0fe56f5576d717781d8e0a6e0bf61ad0&dn=[javdb.com]jul-924-C.torrent",
+        "title": "JUL924"
+    },
+    {
+        "id": "JUL925",
+        "magnet": "magnet:?xt=urn:btih:be4deb49cbc1c32d092af5d58381ebb0b39c6a6c&dn=[javdb.com]jul-925.torrent",
+        "title": "JUL925"
+    },
+    {
+        "id": "JUL926",
+        "magnet": "magnet:?xt=urn:btih:2687ee4aff30db30fab1369cd876734b9843e0b2&dn=[javdb.com]jul-926.torrent",
+        "title": "JUL926"
+    },
+    {
+        "id": "JUL927",
+        "magnet": "magnet:?xt=urn:btih:8ba556c9a879fc4c0633ce1d7ce6eb154c6a1769&dn=[javdb.com]jul-927-C.torrent",
+        "title": "JUL927"
+    },
+    {
+        "id": "JUL928",
+        "magnet": "magnet:?xt=urn:btih:bae9aa45f6224453b56a642c63420441d353c879&dn=[javdb.com]JUL-928-C_X1080X??",
+        "title": "JUL928"
+    },
+    {
+        "id": "JUL929",
+        "magnet": "magnet:?xt=urn:btih:4e1443557c582cbc0d6e9b4c7ebb6ac484e071a0&dn=[javdb.com]jul-929.torrent",
+        "title": "JUL929"
+    },
+    {
+        "id": "JUL930",
+        "magnet": "magnet:?xt=urn:btih:4247ad413794162089b125c46143553125de1c30&dn=[javdb.com]JUL-930-C_X1080X??",
+        "title": "JUL930"
+    },
+    {
+        "id": "JUL931",
+        "magnet": "magnet:?xt=urn:btih:04f4561e36d2529b6848048978fd85370ca7531d&dn=[javdb.com]JUL-931-C_X1080X??",
+        "title": "JUL931"
+    },
+    {
+        "id": "JUL932",
+        "magnet": "magnet:?xt=urn:btih:35735365730dec94a07eaac61ae6c32d3cca8e87&dn=[javdb.com]JUL-932-C_X1080X??",
+        "title": "JUL932"
+    },
+    {
+        "id": "JUL933",
+        "magnet": "magnet:?xt=urn:btih:070a191130fb8bf0e1e60d2bdf123e327635c9b6&dn=[javdb.com]JUL-933-C_X1080X??",
+        "title": "JUL933"
+    },
+    {
+        "id": "JUL934",
+        "magnet": "magnet:?xt=urn:btih:37a164c3e7582f9f88c2d6bb1f0d5c3f815db962&dn=[javdb.com]JUL-934-C_X1080X??",
+        "title": "JUL934"
+    },
+    {
+        "id": "JUL935",
+        "magnet": "magnet:?xt=urn:btih:8fcdacfc9761e6c8261b93c64a950c8c0bcb6ffb&dn=[javdb.com]JUL-935-C_X1080X??",
+        "title": "JUL935"
+    },
+    {
+        "id": "JUL936",
+        "magnet": "magnet:?xt=urn:btih:a8b2d9d3203410b8bcf8a3e6823c9d1fe784ad31&dn=[javdb.com]JUL-936-C_X1080X",
+        "title": "JUL936"
+    },
+    {
+        "id": "JUL937",
+        "magnet": "magnet:?xt=urn:btih:6b9aa18e973cb6f46a66aa53e436568bf96d4bae&dn=[javdb.com]JUL-937-C_X1080X??",
+        "title": "JUL937"
+    },
+    {
+        "id": "JUL938",
+        "magnet": "magnet:?xt=urn:btih:05b8184288d12242be352ac46ce68ac564d88773&dn=[javdb.com]JUL-938-C_X1080X??",
+        "title": "JUL938"
+    },
+    {
+        "id": "JUL939",
+        "magnet": "magnet:?xt=urn:btih:3605761bfc5ffa17c9a10e1b3c38395714b6e8c4&dn=[javdb.com]JUL-939-C_X1080X??",
+        "title": "JUL939"
+    },
+    {
+        "id": "JUL940",
+        "magnet": "magnet:?xt=urn:btih:04afa20a81c45de5dbd77880c2ee8df76917d159&dn=[javdb.com]JUL-940-C_X1080X??",
+        "title": "JUL940"
+    },
+    {
+        "id": "JUL941",
+        "magnet": "magnet:?xt=urn:btih:75bc69c679ee164744f8d738c58d03aed95b2111&dn=[javdb.com]jul-941.torrent",
+        "title": "JUL941"
+    },
+    {
+        "id": "JUL942",
+        "magnet": "magnet:?xt=urn:btih:8b5db5aecb0a595f54bac1bc74d03079842bc182&dn=[javdb.com]JUL-942-C_X1080X??",
+        "title": "JUL942"
+    },
+    {
+        "id": "JUL943",
+        "magnet": "magnet:?xt=urn:btih:12e86b925374b149e53c6d0e6154236a2c0db071&dn=[javdb.com]JUL-943-C_X1080X",
+        "title": "JUL943"
+    },
+    {
+        "id": "JUL944",
+        "magnet": "magnet:?xt=urn:btih:245bdd02c4456edb317aa9a0f12627aef915314a&dn=[javdb.com]JUL-944-C_X1080X??",
+        "title": "JUL944"
+    },
+    {
+        "id": "JUL945",
+        "magnet": "magnet:?xt=urn:btih:add521cbda0584d44128a6ec425112d8ae18e978&dn=[javdb.com]JUL-945-C_X1080X??",
+        "title": "JUL945"
+    },
+    {
+        "id": "JUL946",
+        "magnet": "magnet:?xt=urn:btih:d0470fc92f9395a62d7a38d810831902b0c9de43&dn=[javdb.com]JUL-946-C_X1080X??",
+        "title": "JUL946"
+    },
+    {
+        "id": "JUL947",
+        "magnet": "magnet:?xt=urn:btih:e1d38df981e092ef8b04b0644ae42b9ec7b38158&dn=[javdb.com]JUL-947-C_X1080X",
+        "title": "JUL947"
+    },
+    {
+        "id": "JUL948",
+        "magnet": "magnet:?xt=urn:btih:50c39d82cfdd647f55309fdbe7496535b4522c26&dn=[javdb.com]JUL-948-C_X1080X",
+        "title": "JUL948"
+    },
+    {
+        "id": "JUL949",
+        "magnet": "magnet:?xt=urn:btih:8a160dba337122bd429563d3b589ff76ecf0a590&dn=[javdb.com]JUL-949-C_X1080X",
+        "title": "JUL949"
+    },
+    {
+        "id": "JUL950",
+        "magnet": "magnet:?xt=urn:btih:158f35cacea6ab420c4c9dcb2c2deec12cf32b83&dn=[javdb.com]JUL-950-C_X1080X",
+        "title": "JUL950"
+    },
+    {
+        "id": "JUL951",
+        "magnet": "magnet:?xt=urn:btih:7df24b2bc3254135072e9146d0d7a9de1a1297cd&dn=[javdb.com]JUL-951-C_X1080X",
+        "title": "JUL951"
+    },
+    {
+        "id": "JUL952",
+        "magnet": "magnet:?xt=urn:btih:6b53a61f4b865067141ee60119193779608076b1&dn=[javdb.com]JUL-952-C_X1080X",
+        "title": "JUL952"
+    },
+    {
+        "id": "JUL953",
+        "magnet": "magnet:?xt=urn:btih:0e4497340fb9955f68cf6f2aff00d1229eb81111&dn=[javdb.com]jul-953-C.torrent",
+        "title": "JUL953"
+    },
+    {
+        "id": "JUL954",
+        "magnet": "magnet:?xt=urn:btih:319ed0b8f235b8b2262f5e98879b7946cc509a9a&dn=[javdb.com]JUL-954-C_X1080X",
+        "title": "JUL954"
+    },
+    {
+        "id": "JUL955",
+        "magnet": "magnet:?xt=urn:btih:9a3519607a07a04238dc79eae9c41a9153af8b91&dn=[javdb.com]JUL-955-C_X1080X",
+        "title": "JUL955"
+    },
+    {
+        "id": "JUL956",
+        "magnet": "magnet:?xt=urn:btih:94eb9f064b017afd2f6caef29de53f0f0a24e27b&dn=[javdb.com]JUL-956-C_X1080X",
+        "title": "JUL956"
+    },
+    {
+        "id": "JUL957",
+        "magnet": "magnet:?xt=urn:btih:6394e23ba6804c142cd29b135e80b913d9a36da0&dn=[javdb.com]JUL-957-C_X1080X",
+        "title": "JUL957"
+    },
+    {
+        "id": "JUL958",
+        "magnet": "magnet:?xt=urn:btih:1a432bfc61c47e817bd6787f17cacc73c551590b&dn=[javdb.com]JUL-958-C_X1080X",
+        "title": "JUL958"
+    },
+    {
+        "id": "JUL959",
+        "magnet": "magnet:?xt=urn:btih:45fb4dba0c928ab3cae1747c6210ac337b8c2d85&dn=[javdb.com]JUL-959-C_X1080X",
+        "title": "JUL959"
+    },
+    {
+        "id": "JUL960",
+        "magnet": "magnet:?xt=urn:btih:7e3784073e093f91637c3664213c3a219941199d&dn=[javdb.com]JUL-960-C_X1080X",
+        "title": "JUL960"
+    },
+    {
+        "id": "JUL961",
+        "magnet": "magnet:?xt=urn:btih:df7ae0a09cce0d8844a1915c4151fcc9ffb2db33&dn=[javdb.com]JUL-961-C_X1080X",
+        "title": "JUL961"
+    },
+    {
+        "id": "JUL962",
+        "magnet": "magnet:?xt=urn:btih:eaaae1e883d7534f59676c2226387405a20a7ceb&dn=[javdb.com]jul-962.torrent",
+        "title": "JUL962"
+    },
+    {
+        "id": "JUL963",
+        "magnet": "magnet:?xt=urn:btih:17c062a0f525fab57d5ce18d82ad2e39ce423433&dn=[javdb.com]JUL-963-C_X1080X",
+        "title": "JUL963"
+    },
+    {
+        "id": "JUL964",
+        "magnet": "magnet:?xt=urn:btih:e84ec297792216c1199d4d3fc40bd01b2f4e561f&dn=[javdb.com]JUL-964-C_X1080X",
+        "title": "JUL964"
+    },
+    {
+        "id": "JUL965",
+        "magnet": "magnet:?xt=urn:btih:6d87f03f07bf2c5652ad18d0f35251222a3b9014&dn=[javdb.com]JUL-965-C_X1080X??",
+        "title": "JUL965"
+    },
+    {
+        "id": "JUL966",
+        "magnet": "magnet:?xt=urn:btih:41f6e590bf6dd658b997bce71607b19d33f13617&dn=[javdb.com]JUL-966-C_X1080X",
+        "title": "JUL966"
+    },
+    {
+        "id": "JUL967",
+        "magnet": "magnet:?xt=urn:btih:1d329170672ad9860ac941cbb665cc442435069b&dn=[javdb.com]JUL-967-C_X1080X",
+        "title": "JUL967"
+    },
+    {
+        "id": "JUL968",
+        "magnet": "magnet:?xt=urn:btih:fa77556d1e7aac93a0d1c7460529d9ba3d7ab225&dn=[javdb.com]JUL-968-C_X1080X",
+        "title": "JUL968"
+    },
+    {
+        "id": "JUL969",
+        "magnet": "magnet:?xt=urn:btih:bd3e5849148e04629c83be2fcaa5eb6541ca3444&dn=[javdb.com]JUL-969-C_X1080X",
+        "title": "JUL969"
+    },
+    {
+        "id": "JUL970",
+        "magnet": "magnet:?xt=urn:btih:eb0aa744d78b89e9a370b111439d5608d37d7c79&dn=[javdb.com]JUL-970-C_X1080X",
+        "title": "JUL970"
+    },
+    {
+        "id": "JUL971",
+        "magnet": "magnet:?xt=urn:btih:b5585be5aa3f99c91ac038f39db33b3282a9abef&dn=[javdb.com]JUL-971-C_X1080X",
+        "title": "JUL971"
+    },
+    {
+        "id": "JUL972",
+        "magnet": "magnet:?xt=urn:btih:1e09ca91645905dde01f5da3b4f6d7e0142987af&dn=[javdb.com]JUL-972-C_X1080X",
+        "title": "JUL972"
+    },
+    {
+        "id": "JUL973",
+        "magnet": "magnet:?xt=urn:btih:922916efb0a2ab106db884155909967ef5a41626&dn=[javdb.com]JUL-973-C_X1080X",
+        "title": "JUL973"
+    },
+    {
+        "id": "JUL974",
+        "magnet": "magnet:?xt=urn:btih:ccb5ca9f80caf65ac22d62e2e2cc8f74b4383a7e&dn=[javdb.com]JUL-974-C_X1080X",
+        "title": "JUL974"
+    },
+    {
+        "id": "JUL975",
+        "magnet": "magnet:?xt=urn:btih:d2cda1e3ae7cccb840e6f6d47f4b8829f5bc97fd&dn=[javdb.com]JUL-975-C_X1080X",
+        "title": "JUL975"
+    },
+    {
+        "id": "JUL976",
+        "magnet": "magnet:?xt=urn:btih:4a73a349f67b671799a324904ade3020e5527e0b&dn=[javdb.com]JUL-976-C_X1080X",
+        "title": "JUL976"
+    },
+    {
+        "id": "JUL977",
+        "magnet": "magnet:?xt=urn:btih:19fd80d2ff3aa32adb71782fdbc44439ebad2124&dn=[javdb.com]JUL-977-C_X1080X",
+        "title": "JUL977"
+    },
+    {
+        "id": "JUL978",
+        "magnet": "magnet:?xt=urn:btih:765ee9b7df90bb373350584fe80b9635e874960a&dn=[javdb.com][98t.tv]jul-978.torrent",
+        "title": "JUL978"
+    },
+    {
+        "id": "JUL979",
+        "magnet": "magnet:?xt=urn:btih:8b00533a8556c33e191f063bc0de609ba21f3709&dn=[javdb.com]JUL-979-C_X1080X??",
+        "title": "JUL979"
+    },
+    {
+        "id": "JUL980",
+        "magnet": "magnet:?xt=urn:btih:5e9fed6d1c5946def5d758ef585dea67334fbff0&dn=[javdb.com]JUL-980-C_X1080X",
+        "title": "JUL980"
+    },
+    {
+        "id": "JUL981",
+        "magnet": "magnet:?xt=urn:btih:6a234c3e3b24dc52b95a520c19e2635f61cf374f&dn=[javdb.com]JUL-981-C_X1080X",
+        "title": "JUL981"
+    },
+    {
+        "id": "JUL982",
+        "magnet": "magnet:?xt=urn:btih:db658bc32c1bc69f2acd29dfd23bcca0ccb4bf6f&dn=[javdb.com]JUL-982-C_X1080X",
+        "title": "JUL982"
+    },
+    {
+        "id": "JUL983",
+        "magnet": "magnet:?xt=urn:btih:78a78d4f9088aafdd216a5c60e20b771272df4aa&dn=[javdb.com]JUL-983-C_X1080X??",
+        "title": "JUL983"
+    },
+    {
+        "id": "JUL984",
+        "magnet": "magnet:?xt=urn:btih:289ae637457eefb39f8425caf403191d81a3a8a5&dn=[javdb.com]JUL-984-C_X1080X??",
+        "title": "JUL984"
+    },
+    {
+        "id": "JUL985",
+        "magnet": "magnet:?xt=urn:btih:b2ded6cea459450e601533a3008e1708bc57c247&dn=[javdb.com]JUL-985-C_X1080X??",
+        "title": "JUL985"
+    },
+    {
+        "id": "JUL986",
+        "magnet": "magnet:?xt=urn:btih:076df30eeedbfc2f21deb51aa68d65bc3b32ba42&dn=[javdb.com]JUL-986-C_X1080X",
+        "title": "JUL986"
+    },
+    {
+        "id": "JUL987",
+        "magnet": "magnet:?xt=urn:btih:ed0eeedf5ae50a4074a4ed170d7035d392e7450b&dn=[javdb.com]JUL-987-C_X1080X",
+        "title": "JUL987"
+    },
+    {
+        "id": "JUL988",
+        "magnet": "magnet:?xt=urn:btih:ce10cda584a5d9b2ff48ce217c386c3bb485d540&dn=[javdb.com]JUL-988-C_X1080X",
+        "title": "JUL988"
+    },
+    {
+        "id": "JUL989",
+        "magnet": "magnet:?xt=urn:btih:82ae401980182e31e696844b759479120c69afe1&dn=[javdb.com]JUL-989-C_X1080X",
+        "title": "JUL989"
+    },
+    {
+        "id": "JUL990",
+        "magnet": "magnet:?xt=urn:btih:4f9f8a51e99865f8e526c70ef7bb438375805d68&dn=[javdb.com]JUL-990-C_X1080X",
+        "title": "JUL990"
+    },
+    {
+        "id": "JUL991",
+        "magnet": "magnet:?xt=urn:btih:cc83c9c699f68c5b68c4aef2617d020adf68c91c&dn=[javdb.com]JUL-991-C_X1080X",
+        "title": "JUL991"
+    },
+    {
+        "id": "JUL992",
+        "magnet": "magnet:?xt=urn:btih:efd85c01f67acf46b0648ee542fcc60db166f3aa&dn=[javdb.com][98t.tv]jul-992.torrent",
+        "title": "JUL992"
+    },
+    {
+        "id": "JUL993",
+        "magnet": "magnet:?xt=urn:btih:affbf5520238715abb4fb7918bfa4f6938159d6b&dn=[javdb.com][98t.tv]jul-993.torrent",
+        "title": "JUL993"
+    },
+    {
+        "id": "JUL994",
+        "magnet": "magnet:?xt=urn:btih:5398d27983d9d4dfcbc67ad7f2419b7ca01eb1dc&dn=[javdb.com][98t.tv]jul-994.torrent",
+        "title": "JUL994"
+    },
+    {
+        "id": "JUL995",
+        "magnet": "magnet:?xt=urn:btih:f868182ec70ced1fab84fe65c14d690175921bb2&dn=[javdb.com]jul-995-C.torrent",
+        "title": "JUL995"
+    },
+    {
+        "id": "JUL996",
+        "magnet": "magnet:?xt=urn:btih:01641bc548a5ed1ac574a4903916c6d767382cdc&dn=[javdb.com][98t.tv]jul-996.torrent",
+        "title": "JUL996"
+    },
+    {
+        "id": "JUL997",
+        "magnet": "magnet:?xt=urn:btih:0a11c10f6a8b9769cb1bf8da916bdace390f2000&dn=[javdb.com][98t.tv]jul-997.torrent",
+        "title": "JUL997"
+    },
+    {
+        "id": "JUL998",
+        "magnet": "magnet:?xt=urn:btih:4e36ac7c197f4dba158336e815c0f607522742a1&dn=[javdb.com][98t.tv]jul-998.torrent",
+        "title": "JUL998"
+    },
+    {
+        "id": "JUL999",
+        "magnet": "magnet:?xt=urn:btih:3cb8e2f96f48e3f2be8b1bffd635ffc242dc0993&dn=[javdb.com]JUL-999-C.torrent",
+        "title": "JUL999"
+    }
+]
